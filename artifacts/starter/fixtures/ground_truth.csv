@@ -1,0 +1,9 @@
+case_id,issue_type,expected_rules,rationale,source_proof
+CASE-000001,STUDENT_OVERLAP,STUDENT_OVERLAP,Two core courses share their cohort; distinct rooms/staff remove unrelated resource conflicts.,"{""shared_student_count"":50}"
+CASE-000002,ROOM_CAPACITY,ROOM_CAPACITY,"The selected room has one usable seat, below the source enrollment demand.","{""demand"":50,""seats"":1}"
+CASE-000003,INVIGILATOR_DOUBLE_BOOKED,INVIGILATOR_DOUBLE_BOOKED,"Disjoint learner cohorts use different rooms, but concurrent allocations reuse the same staff.","{""shared_staff"":[""INV-000001"",""INV-000002""]}"
+CASE-000004,ACCOMMODATION_IGNORED,ACCOMMODATION_IGNORED,End time uses base duration despite an effective approved extra-time allowance.,"{""actual_minutes"":150,""required_minutes"":225}"
+CASE-000005,ROOM_UNAVAILABLE,ROOM_UNAVAILABLE,"Exam begins at 07:00, before the room opens at 08:00; reserve invigilators are available from 07:00.","{""assignment_starts"":""2026-11-16T07:00:00+05:30"",""room_opens"":""2026-11-16T08:00:00+05:30""}"
+CASE-000006,NORMAL,,"Unmodified, fully feasible source-derived assignment.",{}
+CASE-000007,NORMAL,,"Same learners, room and staff have adjacent half-open intervals; equality at the boundary is legal.",{}
+CASE-000008,NORMAL,,Demand equals the effective room capacity; equality is legal.,"{""demand"":50,""seats"":50}"

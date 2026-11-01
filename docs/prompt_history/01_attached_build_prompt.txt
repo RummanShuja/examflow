@@ -1,0 +1,251 @@
+Act as a pragmatic senior software engineer. Build my complete YottaFlex AI recruitment assignment as executable project files, with generated data, documentation and verification results. Do not stop at a plan or code snippets.
+
+Use the supplied problem statement and PDFs as the authoritative requirements. Cover every requirement and maintain a checklist linking it to its implementation and verification.
+
+## Deadline and working style
+
+I need to submit tonight by midnight IST and have limited time remaining. Prioritize a complete, correct and explainable submission.
+
+Ask only questions that genuinely block implementation. Otherwise, choose reasonable defaults, document them and proceed. Keep progress updates short. Avoid unnecessary dependencies and scope expansion.
+
+Create actual project files and run them using your available tools. If your environment cannot create or execute files, disclose that immediately and provide complete file contents and exact local commands instead. Never pretend you ran checks.
+
+## My environment and SQLite setup
+
+I use Windows and PowerShell. I know SQL but have never used SQLite, and my Python knowledge is basic.
+
+Use Python 3.11+ with its standard-library `sqlite3` module, a CLI and a clean local HTML report if feasible.
+
+Requirements:
+
+- No separate SQLite installation, database server, GUI, account or password.
+- Automatically create the database file, tables and seed data through the application.
+- Check prerequisites and give exact Windows PowerShell commands.
+- Include a `py` alternative if `python` is not recognized.
+- Explain where the database file is stored.
+- Include simple Python commands to inspect the database.
+- Prefer one command to generate, schedule, validate and export the full demonstration.
+- Make the README understandable to someone new to SQLite.
+
+Use minimal dependencies. No paid services, API keys or external datasets are necessary. A hosted demo is optional.
+
+## Project objective
+
+Build an end-to-end solution to schedule exams and rooms while respecting student enrollment, room capacity, accommodations and invigilator availability.
+
+Expose key decisions and exceptions, preserve traceability and produce measurable outputs.
+
+Actors: learner, instructor, academic administrator, support staff and platform administrator. Explain how they use the outputs. Separate authenticated interfaces are unnecessary unless essential to the workflow.
+
+## 1. Data model and dictionary
+
+Include all required core entities:
+
+Student, Course, Enrollment, Exam, ExamRequirement, Room, RoomCapacity, Invigilator, Availability, Accommodation and ScheduleAssignment.
+
+Add supporting entities and bridge tables where necessary for equipment, room closures, invigilator allocations, scheduling runs and event history.
+
+Create the schema and data dictionary before generating records.
+
+For every field document:
+
+- Type.
+- Required or optional status.
+- Allowed values.
+- Units.
+- Uniqueness.
+- Validation rules.
+
+Define every primary key and foreign key. Document 1:1, 1:N and N:M cardinalities, optional relationships, effective dates and lifecycle states.
+
+Use actual database constraints. Validate temporal relationships in code where SQL alone is insufficient. Explicitly enable SQLite foreign-key enforcement on every connection.
+
+Generate master and parent records before child and event records. Preserve state transitions as explicit append-only events. Retain scheduling run history; rerunning must not erase previous decisions.
+
+Use these immutable ID conventions:
+
+- Students: `STU-000001`
+- Exams: `EXAM-2026-000001`
+- Rooms: `ROOM-000001`
+- Invigilators: `INV-000001`
+- Assignments: `ASN-<exam-id>-<room-id>`
+
+Keep counters zero-padded and references consistent across exports. Document assignment uniqueness across scheduling runs.
+
+## 2. Deterministic synthetic data
+
+Default seed: `20261022`.
+
+Full dataset:
+
+- Exactly 5,000 students.
+- Exactly 300 exams.
+- Exactly 100 rooms.
+- Exactly 200 invigilators.
+
+Provide a fast starter profile and a scale parameter using the same generator.
+
+Generate realistic cohort-based student-course enrollments with some shared electives and meaningful variation in exam durations, room capacities, equipment, staffing availability and accommodations.
+
+Include enrollment conflicts, room closures, special equipment requirements and extended-duration accommodations.
+
+Derive exam demand, staffing requirements, durations, statuses, totals and labels from source records and documented rules. Do not independently randomize derived values or ground-truth labels.
+
+Create valid baseline records first. Then create separate negative scheduling fixtures covering:
+
+1. A student with overlapping exams.
+2. Room capacity exceeded.
+3. An invigilator double-booked.
+4. An accommodation ignored.
+5. An exam outside room availability.
+
+Keep the accepted production schedule valid. Do not mix deliberately invalid assignments into it.
+
+Link fixtures to separate `ground_truth.csv` and `ground_truth.json` using neutral case IDs. Keep `issue_type`, expected decisions and other answer labels out of scheduler and anomaly-detector inputs. Only the evaluator may load ground truth.
+
+Include at least one documented, genuinely infeasible scheduling demand to demonstrate an unassigned outcome. Calculate its expected decision from the constraints.
+
+Use synthetic names only. Include a source manifest recording the generation recipe, seed, schema version and absence of external or private data.
+
+## 3. Scheduling workflow
+
+Implement the complete sequence:
+
+Enroll students → generate exams and requirements → define rooms, capacities and equipment → define invigilator availability and accommodations → build the enrollment conflict graph → assign times, rooms and invigilators → report exceptions.
+
+Use a deterministic, understandable scheduling heuristic, such as a graph-based greedy algorithm with explicit tie-breaking.
+
+Explain its complexity, trade-offs and lack of an optimality guarantee.
+
+Enforce all hard constraints:
+
+- No student’s enrolled exams overlap.
+- Rooms are not double-booked.
+- Capacity is sufficient using the capacity record effective on the exam date.
+- Required equipment and accessibility are available.
+- Room opening hours and closures cover the entire assigned duration.
+- Sufficient invigilators are available for the entire duration and never double-booked.
+- Approved accommodations are applied consistently.
+- Assignments fall within exam scheduling windows.
+- Effective dates, cancellations and enrollment lifecycle states are respected.
+
+You may use one room per exam and extend the whole exam by the maximum applicable extra-time allowance. Explicitly document these assumptions and their resource cost.
+
+If an exam cannot fit within this policy, leave it unassigned with an honest reason.
+
+Use half-open intervals `[start, end)`, declare the timezone and check actual intervals rather than only identical start times.
+
+Every eligible exam must have exactly one accepted assignment or one unassigned result.
+
+Give every unassigned exam a machine-readable reason code, explanation and useful rejection evidence. Record assignment decisions as explicit events.
+
+## 4. Validation and evaluation
+
+Provide a validator that can check imported assignment data independently of the scheduler’s candidate-selection logic.
+
+It must never read ground truth while detecting violations.
+
+Validate:
+
+- Primary-key uniqueness, foreign-key integrity and joins.
+- Allowed enums and required fields.
+- Duplicate relationships and assignments.
+- Date ordering and effective intervals.
+- Legal lifecycle transitions and consistency with current state.
+- Derived enrollment counts, durations and staffing counts.
+- Student, room and invigilator conflicts.
+- Accommodations, equipment and availability.
+- Room and staff usage reconciliation.
+- Complete exam outcome coverage.
+
+Validate the accepted full schedule and require zero hard-constraint violations. Validation failures must produce a failing exit code.
+
+Evaluate all five negative scenarios against separate ground truth.
+
+Report true positives, false positives, false negatives, precision and recall, including per-rule results. Include clean controls and boundary cases such as adjacent non-overlapping exams and exact room capacity.
+
+Do not claim broad accuracy from a small hand-crafted fixture set.
+
+Report operational metrics:
+
+- Scheduled and unassigned counts and scheduling rate.
+- Unassigned reason breakdown.
+- Conflict-graph size.
+- Room time and seat utilization.
+- Invigilator utilization.
+- Accommodation coverage.
+
+Define every denominator and calculate metrics from source records.
+
+Generate twice independently with the same seed and configuration. Compare per-table row counts and canonical SHA-256 checksums, plus deterministic scheduling results.
+
+Save the reproducibility comparison and fail on mismatches. Exclude only explicitly documented nondeterministic metadata, if any.
+
+Run meaningful automated tests for core constraints, temporal boundaries, negative fixtures, reproducibility and database integrity.
+
+Report the actual commands and results. Fix failures before delivery. Do not invent test output or personal review.
+
+## 5. Deliverables
+
+Produce:
+
+- Complete runnable source code and a sensible `.gitignore`.
+- Starter and full generated datasets.
+- CSV, JSON and SQL seed exports.
+- A usable SQLite database.
+- Accepted assignments and invigilator allocations.
+- Unassigned outcomes with reasons.
+- Separate negative fixtures and ground truth.
+- Schema SQL, ER relationships and complete data dictionary.
+- Source manifest.
+- Validation summary and evaluation metrics.
+- Reproducibility report and checksums.
+- Requirements coverage checklist.
+- A downloadable project ZIP.
+
+Write a concise README containing prerequisites, exact Windows PowerShell commands, automatic SQLite setup, generation, scheduling, validation, expected outputs, assumptions, limitations and verification steps.
+
+Include a short walkthrough explaining the architecture, algorithm, five failure scenarios and key decisions so I can understand and defend the submission.
+
+## 6. Transparent AI use
+
+Create:
+
+- `docs/PROMPT_HISTORY.md`
+- `docs/AI_USAGE.md`
+
+AI assistance is allowed and must be disclosed honestly.
+
+Record all user prompts available in this session and any prompts actually submitted to other AI tools. Disclose unavailable history rather than reconstructing it as fact.
+
+Clearly distinguish:
+
+- AI-generated work.
+- Checks you actually executed.
+- Candidate review still pending.
+
+Never claim I personally reviewed, changed or tested something unless I confirm it.
+
+## 7. GitHub and submission
+
+The submission requires a new dedicated public GitHub repository.
+
+Prepare the project for publication. Make honest commits reflecting actual work when possible. Never backdate or fabricate development history.
+
+Exclude secrets, credentials, personal information, dependency folders and unrelated files.
+
+If you cannot publish to GitHub, provide exact commands and clearly identify that remaining step. Do not send the submission email.
+
+## Start now
+
+Implement and verify the project now. Do not stop after giving a plan.
+
+Finish with:
+
+1. The downloadable project ZIP.
+2. The shortest Windows PowerShell commands to run it.
+3. Actual full-scale metrics and executed test results.
+4. Known limitations and anything incomplete or unverified.
+5. Remaining GitHub and submission steps.
+
+Do not claim completion while core requirements remain unimplemented or unverified.

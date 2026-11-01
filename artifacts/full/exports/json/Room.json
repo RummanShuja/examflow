@@ -1,0 +1,802 @@
+[
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 001",
+    "room_id": "ROOM-000001",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 002",
+    "room_id": "ROOM-000002",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 003",
+    "room_id": "ROOM-000003",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 004",
+    "room_id": "ROOM-000004",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 005",
+    "room_id": "ROOM-000005",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 006",
+    "room_id": "ROOM-000006",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 007",
+    "room_id": "ROOM-000007",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 008",
+    "room_id": "ROOM-000008",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 009",
+    "room_id": "ROOM-000009",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 010",
+    "room_id": "ROOM-000010",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 011",
+    "room_id": "ROOM-000011",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 012",
+    "room_id": "ROOM-000012",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 013",
+    "room_id": "ROOM-000013",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 014",
+    "room_id": "ROOM-000014",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 015",
+    "room_id": "ROOM-000015",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 016",
+    "room_id": "ROOM-000016",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 017",
+    "room_id": "ROOM-000017",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 018",
+    "room_id": "ROOM-000018",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 019",
+    "room_id": "ROOM-000019",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 020",
+    "room_id": "ROOM-000020",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 021",
+    "room_id": "ROOM-000021",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 022",
+    "room_id": "ROOM-000022",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 023",
+    "room_id": "ROOM-000023",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 024",
+    "room_id": "ROOM-000024",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 025",
+    "room_id": "ROOM-000025",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 026",
+    "room_id": "ROOM-000026",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 027",
+    "room_id": "ROOM-000027",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 028",
+    "room_id": "ROOM-000028",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 029",
+    "room_id": "ROOM-000029",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 030",
+    "room_id": "ROOM-000030",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 031",
+    "room_id": "ROOM-000031",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 032",
+    "room_id": "ROOM-000032",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 033",
+    "room_id": "ROOM-000033",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 034",
+    "room_id": "ROOM-000034",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 035",
+    "room_id": "ROOM-000035",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 036",
+    "room_id": "ROOM-000036",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 037",
+    "room_id": "ROOM-000037",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 038",
+    "room_id": "ROOM-000038",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 039",
+    "room_id": "ROOM-000039",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 040",
+    "room_id": "ROOM-000040",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 041",
+    "room_id": "ROOM-000041",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 042",
+    "room_id": "ROOM-000042",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 043",
+    "room_id": "ROOM-000043",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 044",
+    "room_id": "ROOM-000044",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 045",
+    "room_id": "ROOM-000045",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 046",
+    "room_id": "ROOM-000046",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 047",
+    "room_id": "ROOM-000047",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 048",
+    "room_id": "ROOM-000048",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 049",
+    "room_id": "ROOM-000049",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 050",
+    "room_id": "ROOM-000050",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 051",
+    "room_id": "ROOM-000051",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 052",
+    "room_id": "ROOM-000052",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 053",
+    "room_id": "ROOM-000053",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 054",
+    "room_id": "ROOM-000054",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 055",
+    "room_id": "ROOM-000055",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 056",
+    "room_id": "ROOM-000056",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 057",
+    "room_id": "ROOM-000057",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 058",
+    "room_id": "ROOM-000058",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 059",
+    "room_id": "ROOM-000059",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 060",
+    "room_id": "ROOM-000060",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 061",
+    "room_id": "ROOM-000061",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 062",
+    "room_id": "ROOM-000062",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 063",
+    "room_id": "ROOM-000063",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 064",
+    "room_id": "ROOM-000064",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 065",
+    "room_id": "ROOM-000065",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 066",
+    "room_id": "ROOM-000066",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 067",
+    "room_id": "ROOM-000067",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 068",
+    "room_id": "ROOM-000068",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 069",
+    "room_id": "ROOM-000069",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 070",
+    "room_id": "ROOM-000070",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 071",
+    "room_id": "ROOM-000071",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 072",
+    "room_id": "ROOM-000072",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 073",
+    "room_id": "ROOM-000073",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 074",
+    "room_id": "ROOM-000074",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 075",
+    "room_id": "ROOM-000075",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 076",
+    "room_id": "ROOM-000076",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 077",
+    "room_id": "ROOM-000077",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 078",
+    "room_id": "ROOM-000078",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 079",
+    "room_id": "ROOM-000079",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 080",
+    "room_id": "ROOM-000080",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 081",
+    "room_id": "ROOM-000081",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 082",
+    "room_id": "ROOM-000082",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 083",
+    "room_id": "ROOM-000083",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 084",
+    "room_id": "ROOM-000084",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 085",
+    "room_id": "ROOM-000085",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 086",
+    "room_id": "ROOM-000086",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 087",
+    "room_id": "ROOM-000087",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 088",
+    "room_id": "ROOM-000088",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 089",
+    "room_id": "ROOM-000089",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 090",
+    "room_id": "ROOM-000090",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 091",
+    "room_id": "ROOM-000091",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 092",
+    "room_id": "ROOM-000092",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 093",
+    "room_id": "ROOM-000093",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 094",
+    "room_id": "ROOM-000094",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 095",
+    "room_id": "ROOM-000095",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 096",
+    "room_id": "ROOM-000096",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 097",
+    "room_id": "ROOM-000097",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 098",
+    "room_id": "ROOM-000098",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 099",
+    "room_id": "ROOM-000099",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": "2026-11-01T00:00:00+05:30",
+    "name": "Hall 100",
+    "room_id": "ROOM-000100",
+    "status": "RETIRED"
+  }
+]

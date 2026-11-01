@@ -1,0 +1,98 @@
+[
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 001",
+    "room_id": "ROOM-000001",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 002",
+    "room_id": "ROOM-000002",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 003",
+    "room_id": "ROOM-000003",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 004",
+    "room_id": "ROOM-000004",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 005",
+    "room_id": "ROOM-000005",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 006",
+    "room_id": "ROOM-000006",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 007",
+    "room_id": "ROOM-000007",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 008",
+    "room_id": "ROOM-000008",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 009",
+    "room_id": "ROOM-000009",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 0,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 010",
+    "room_id": "ROOM-000010",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": null,
+    "name": "Hall 011",
+    "room_id": "ROOM-000011",
+    "status": "OPEN"
+  },
+  {
+    "accessible": 1,
+    "effective_from": "2026-07-01T00:00:00+05:30",
+    "effective_to": "2026-11-01T00:00:00+05:30",
+    "name": "Hall 012",
+    "room_id": "ROOM-000012",
+    "status": "RETIRED"
+  }
+]

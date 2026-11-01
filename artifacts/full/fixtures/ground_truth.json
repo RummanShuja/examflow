@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "cases": [
+    {
+      "case_id": "CASE-000001",
+      "expected_rules": [
+        "STUDENT_OVERLAP"
+      ],
+      "issue_type": "STUDENT_OVERLAP",
+      "rationale": "Two core courses share their cohort; distinct rooms/staff remove unrelated resource conflicts.",
+      "source_proof": {
+        "shared_student_count": 100
+      }
+    },
+    {
+      "case_id": "CASE-000002",
+      "expected_rules": [
+        "ROOM_CAPACITY"
+      ],
+      "issue_type": "ROOM_CAPACITY",
+      "rationale": "The selected room has one usable seat, below the source enrollment demand.",
+      "source_proof": {
+        "demand": 100,
+        "seats": 1
+      }
+    },
+    {
+      "case_id": "CASE-000003",
+      "expected_rules": [
+        "INVIGILATOR_DOUBLE_BOOKED"
+      ],
+      "issue_type": "INVIGILATOR_DOUBLE_BOOKED",
+      "rationale": "Disjoint learner cohorts use different rooms, but concurrent allocations reuse the same staff.",
+      "source_proof": {
+        "shared_staff": [
+          "INV-000001",
+          "INV-000002",
+          "INV-000003"
+        ]
+      }
+    },
+    {
+      "case_id": "CASE-000004",
+      "expected_rules": [
+        "ACCOMMODATION_IGNORED"
+      ],
+      "issue_type": "ACCOMMODATION_IGNORED",
+      "rationale": "End time uses base duration despite an effective approved extra-time allowance.",
+      "source_proof": {
+        "actual_minutes": 150,
+        "required_minutes": 225
+      }
+    },
+    {
+      "case_id": "CASE-000005",
+      "expected_rules": [
+        "ROOM_UNAVAILABLE"
+      ],
+      "issue_type": "ROOM_UNAVAILABLE",
+      "rationale": "Exam begins at 07:00, before the room opens at 08:00; reserve invigilators are available from 07:00.",
+      "source_proof": {
+        "room_opens": "2026-11-16T08:00:00+05:30",
+        "assignment_starts": "2026-11-16T07:00:00+05:30"
+      }
+    },
+    {
+      "case_id": "CASE-000006",
+      "expected_rules": [],
+      "issue_type": "NORMAL",
+      "rationale": "Unmodified, fully feasible source-derived assignment.",
+      "source_proof": {}
+    },
+    {
+      "case_id": "CASE-000007",
+      "expected_rules": [],
+      "issue_type": "NORMAL",
+      "rationale": "Same learners, room and staff have adjacent half-open intervals; equality at the boundary is legal.",
+      "source_proof": {}
+    },
+    {
+      "case_id": "CASE-000008",
+      "expected_rules": [],
+      "issue_type": "NORMAL",
+      "rationale": "Demand equals the effective room capacity; equality is legal.",
+      "source_proof": {
+        "demand": 100,
+        "seats": 100
+      }
+    }
+  ],
+  "expected_decisions": [
+    {
+      "exam_id": "EXAM-2026-000299",
+      "expected_status": "UNASSIGNED",
+      "expected_reason": "NO_COMPATIBLE_ROOM",
+      "proof": {
+        "equipment_absent_from_all_rooms": [
+          "EQ-SECURE"
+        ]
+      }
+    }
+  ]
+}

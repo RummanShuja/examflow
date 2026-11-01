@@ -1,0 +1,466 @@
+[
+  {
+    "assignment_id": "ASN-EXAM-2026-000001-ROOM-000005",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":9,\"rejection_counts\":{\"ROOM_BUSY\":1,\"STUDENT_CONFLICT\":4}}",
+    "exam_id": "EXAM-2026-000001",
+    "reason_code": null,
+    "run_id": "RUN-000001",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000002-ROOM-000003",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":10,\"rejection_counts\":{\"STUDENT_CONFLICT\":6}}",
+    "exam_id": "EXAM-2026-000002",
+    "reason_code": null,
+    "run_id": "RUN-000001",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000003-ROOM-000003",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":5,\"rejection_counts\":{\"STUDENT_CONFLICT\":2}}",
+    "exam_id": "EXAM-2026-000003",
+    "reason_code": null,
+    "run_id": "RUN-000001",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000004-ROOM-000003",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":11,\"rejection_counts\":{\"ROOM_AVAILABILITY\":1,\"STUDENT_CONFLICT\":8}}",
+    "exam_id": "EXAM-2026-000004",
+    "reason_code": null,
+    "run_id": "RUN-000001",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000005-ROOM-000003",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":12,\"rejection_counts\":{\"ROOM_AVAILABILITY\":1,\"STUDENT_CONFLICT\":10}}",
+    "exam_id": "EXAM-2026-000005",
+    "reason_code": null,
+    "run_id": "RUN-000001",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000006-ROOM-000001",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":23,\"rejection_counts\":{\"ROOM_BUSY\":4,\"STUDENT_CONFLICT\":4}}",
+    "exam_id": "EXAM-2026-000006",
+    "reason_code": null,
+    "run_id": "RUN-000001",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000007-ROOM-000001",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":28,\"rejection_counts\":{\"ROOM_BUSY\":4,\"STUDENT_CONFLICT\":6}}",
+    "exam_id": "EXAM-2026-000007",
+    "reason_code": null,
+    "run_id": "RUN-000001",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000008-ROOM-000001",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":15,\"rejection_counts\":{\"ROOM_BUSY\":4,\"STUDENT_CONFLICT\":2}}",
+    "exam_id": "EXAM-2026-000008",
+    "reason_code": null,
+    "run_id": "RUN-000001",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000009-ROOM-000001",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":29,\"rejection_counts\":{\"ROOM_BUSY\":4,\"STUDENT_CONFLICT\":7}}",
+    "exam_id": "EXAM-2026-000009",
+    "reason_code": null,
+    "run_id": "RUN-000001",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000010-ROOM-000001",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":24,\"rejection_counts\":{\"ROOM_BUSY\":4,\"STUDENT_CONFLICT\":5}}",
+    "exam_id": "EXAM-2026-000010",
+    "reason_code": null,
+    "run_id": "RUN-000001",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000011-ROOM-000004",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":25,\"rejection_counts\":{\"ROOM_AVAILABILITY\":1,\"ROOM_BUSY\":2,\"STUDENT_CONFLICT\":8}}",
+    "exam_id": "EXAM-2026-000011",
+    "reason_code": null,
+    "run_id": "RUN-000001",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000012-ROOM-000006",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":16,\"rejection_counts\":{\"ROOM_BUSY\":2,\"STUDENT_CONFLICT\":4}}",
+    "exam_id": "EXAM-2026-000012",
+    "reason_code": null,
+    "run_id": "RUN-000001",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000013-ROOM-000004",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":26,\"rejection_counts\":{\"ROOM_AVAILABILITY\":1,\"ROOM_BUSY\":3,\"STUDENT_CONFLICT\":9}}",
+    "exam_id": "EXAM-2026-000013",
+    "reason_code": null,
+    "run_id": "RUN-000001",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000014-ROOM-000004",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":13,\"rejection_counts\":{\"ROOM_BUSY\":3,\"STUDENT_CONFLICT\":2}}",
+    "exam_id": "EXAM-2026-000014",
+    "reason_code": null,
+    "run_id": "RUN-000001",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000015-ROOM-000006",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":17,\"rejection_counts\":{\"ROOM_BUSY\":2,\"STUDENT_CONFLICT\":6}}",
+    "exam_id": "EXAM-2026-000015",
+    "reason_code": null,
+    "run_id": "RUN-000001",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000016-ROOM-000005",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":6,\"rejection_counts\":{\"ROOM_BUSY\":1,\"STUDENT_CONFLICT\":2}}",
+    "exam_id": "EXAM-2026-000016",
+    "reason_code": null,
+    "run_id": "RUN-000001",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000017-ROOM-000005",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":18,\"rejection_counts\":{\"ROOM_AVAILABILITY\":1,\"ROOM_BUSY\":1,\"STUDENT_CONFLICT\":8}}",
+    "exam_id": "EXAM-2026-000017",
+    "reason_code": null,
+    "run_id": "RUN-000001",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000018-ROOM-000005",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":14,\"rejection_counts\":{\"ROOM_BUSY\":1,\"STUDENT_CONFLICT\":6}}",
+    "exam_id": "EXAM-2026-000018",
+    "reason_code": null,
+    "run_id": "RUN-000001",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000019-ROOM-000006",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":27,\"rejection_counts\":{\"ROOM_AVAILABILITY\":1,\"ROOM_BUSY\":2,\"STUDENT_CONFLICT\":10}}",
+    "exam_id": "EXAM-2026-000019",
+    "reason_code": null,
+    "run_id": "RUN-000001",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000020-ROOM-000003",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":7,\"rejection_counts\":{\"STUDENT_CONFLICT\":4}}",
+    "exam_id": "EXAM-2026-000020",
+    "reason_code": null,
+    "run_id": "RUN-000001",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000021-ROOM-000004",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":19,\"rejection_counts\":{\"ROOM_BUSY\":2,\"STUDENT_CONFLICT\":4}}",
+    "exam_id": "EXAM-2026-000021",
+    "reason_code": null,
+    "run_id": "RUN-000001",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000022-ROOM-000004",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":20,\"rejection_counts\":{\"ROOM_BUSY\":3,\"STUDENT_CONFLICT\":6}}",
+    "exam_id": "EXAM-2026-000022",
+    "reason_code": null,
+    "run_id": "RUN-000001",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000023-ROOM-000006",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":21,\"rejection_counts\":{\"ROOM_BUSY\":2,\"STUDENT_CONFLICT\":8}}",
+    "exam_id": "EXAM-2026-000023",
+    "reason_code": null,
+    "run_id": "RUN-000001",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000024-ROOM-000006",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":8,\"rejection_counts\":{\"ROOM_BUSY\":2,\"STUDENT_CONFLICT\":2}}",
+    "exam_id": "EXAM-2026-000024",
+    "reason_code": null,
+    "run_id": "RUN-000001",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000025-ROOM-000005",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":22,\"rejection_counts\":{\"ROOM_AVAILABILITY\":2,\"ROOM_BUSY\":1,\"STUDENT_CONFLICT\":10}}",
+    "exam_id": "EXAM-2026-000025",
+    "reason_code": null,
+    "run_id": "RUN-000001",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000026-ROOM-000003",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":25,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":2,\"rejection_counts\":{\"ROOM_BUSY\":1}}",
+    "exam_id": "EXAM-2026-000026",
+    "reason_code": null,
+    "run_id": "RUN-000001",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000027-ROOM-000004",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":25,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":1,\"rejection_counts\":{}}",
+    "exam_id": "EXAM-2026-000027",
+    "reason_code": null,
+    "run_id": "RUN-000001",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000028-ROOM-000005",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":25,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":3,\"rejection_counts\":{\"ROOM_BUSY\":2}}",
+    "exam_id": "EXAM-2026-000028",
+    "reason_code": null,
+    "run_id": "RUN-000001",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": null,
+    "evidence_json": "{\"accessible_required\":1,\"demand\":45,\"equipment_absent_from_all_rooms\":[\"EQ-SECURE\"],\"explanation\":\"No room satisfies static equipment, accessibility and capacity requirements under the one-room policy.\",\"rank\":4,\"required_equipment\":[\"EQ-SECURE\"],\"rooms_considered\":12}",
+    "exam_id": "EXAM-2026-000029",
+    "reason_code": "NO_COMPATIBLE_ROOM",
+    "run_id": "RUN-000001",
+    "status": "UNASSIGNED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000001-ROOM-000005",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":9,\"rejection_counts\":{\"ROOM_BUSY\":1,\"STUDENT_CONFLICT\":4}}",
+    "exam_id": "EXAM-2026-000001",
+    "reason_code": null,
+    "run_id": "RUN-000002",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000002-ROOM-000003",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":10,\"rejection_counts\":{\"STUDENT_CONFLICT\":6}}",
+    "exam_id": "EXAM-2026-000002",
+    "reason_code": null,
+    "run_id": "RUN-000002",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000003-ROOM-000003",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":5,\"rejection_counts\":{\"STUDENT_CONFLICT\":2}}",
+    "exam_id": "EXAM-2026-000003",
+    "reason_code": null,
+    "run_id": "RUN-000002",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000004-ROOM-000003",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":11,\"rejection_counts\":{\"ROOM_AVAILABILITY\":1,\"STUDENT_CONFLICT\":8}}",
+    "exam_id": "EXAM-2026-000004",
+    "reason_code": null,
+    "run_id": "RUN-000002",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000005-ROOM-000003",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":12,\"rejection_counts\":{\"ROOM_AVAILABILITY\":1,\"STUDENT_CONFLICT\":10}}",
+    "exam_id": "EXAM-2026-000005",
+    "reason_code": null,
+    "run_id": "RUN-000002",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000006-ROOM-000001",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":23,\"rejection_counts\":{\"ROOM_BUSY\":4,\"STUDENT_CONFLICT\":4}}",
+    "exam_id": "EXAM-2026-000006",
+    "reason_code": null,
+    "run_id": "RUN-000002",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000007-ROOM-000001",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":28,\"rejection_counts\":{\"ROOM_BUSY\":4,\"STUDENT_CONFLICT\":6}}",
+    "exam_id": "EXAM-2026-000007",
+    "reason_code": null,
+    "run_id": "RUN-000002",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000008-ROOM-000001",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":15,\"rejection_counts\":{\"ROOM_BUSY\":4,\"STUDENT_CONFLICT\":2}}",
+    "exam_id": "EXAM-2026-000008",
+    "reason_code": null,
+    "run_id": "RUN-000002",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000009-ROOM-000001",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":29,\"rejection_counts\":{\"ROOM_BUSY\":4,\"STUDENT_CONFLICT\":7}}",
+    "exam_id": "EXAM-2026-000009",
+    "reason_code": null,
+    "run_id": "RUN-000002",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000010-ROOM-000001",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":24,\"rejection_counts\":{\"ROOM_BUSY\":4,\"STUDENT_CONFLICT\":5}}",
+    "exam_id": "EXAM-2026-000010",
+    "reason_code": null,
+    "run_id": "RUN-000002",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000011-ROOM-000004",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":25,\"rejection_counts\":{\"ROOM_AVAILABILITY\":1,\"ROOM_BUSY\":2,\"STUDENT_CONFLICT\":8}}",
+    "exam_id": "EXAM-2026-000011",
+    "reason_code": null,
+    "run_id": "RUN-000002",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000012-ROOM-000006",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":16,\"rejection_counts\":{\"ROOM_BUSY\":2,\"STUDENT_CONFLICT\":4}}",
+    "exam_id": "EXAM-2026-000012",
+    "reason_code": null,
+    "run_id": "RUN-000002",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000013-ROOM-000004",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":26,\"rejection_counts\":{\"ROOM_AVAILABILITY\":1,\"ROOM_BUSY\":3,\"STUDENT_CONFLICT\":9}}",
+    "exam_id": "EXAM-2026-000013",
+    "reason_code": null,
+    "run_id": "RUN-000002",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000014-ROOM-000004",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":13,\"rejection_counts\":{\"ROOM_BUSY\":3,\"STUDENT_CONFLICT\":2}}",
+    "exam_id": "EXAM-2026-000014",
+    "reason_code": null,
+    "run_id": "RUN-000002",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000015-ROOM-000006",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":17,\"rejection_counts\":{\"ROOM_BUSY\":2,\"STUDENT_CONFLICT\":6}}",
+    "exam_id": "EXAM-2026-000015",
+    "reason_code": null,
+    "run_id": "RUN-000002",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000016-ROOM-000005",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":6,\"rejection_counts\":{\"ROOM_BUSY\":1,\"STUDENT_CONFLICT\":2}}",
+    "exam_id": "EXAM-2026-000016",
+    "reason_code": null,
+    "run_id": "RUN-000002",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000017-ROOM-000005",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":18,\"rejection_counts\":{\"ROOM_AVAILABILITY\":1,\"ROOM_BUSY\":1,\"STUDENT_CONFLICT\":8}}",
+    "exam_id": "EXAM-2026-000017",
+    "reason_code": null,
+    "run_id": "RUN-000002",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000018-ROOM-000005",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":14,\"rejection_counts\":{\"ROOM_BUSY\":1,\"STUDENT_CONFLICT\":6}}",
+    "exam_id": "EXAM-2026-000018",
+    "reason_code": null,
+    "run_id": "RUN-000002",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000019-ROOM-000006",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":27,\"rejection_counts\":{\"ROOM_AVAILABILITY\":1,\"ROOM_BUSY\":2,\"STUDENT_CONFLICT\":10}}",
+    "exam_id": "EXAM-2026-000019",
+    "reason_code": null,
+    "run_id": "RUN-000002",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000020-ROOM-000003",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":7,\"rejection_counts\":{\"STUDENT_CONFLICT\":4}}",
+    "exam_id": "EXAM-2026-000020",
+    "reason_code": null,
+    "run_id": "RUN-000002",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000021-ROOM-000004",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":19,\"rejection_counts\":{\"ROOM_BUSY\":2,\"STUDENT_CONFLICT\":4}}",
+    "exam_id": "EXAM-2026-000021",
+    "reason_code": null,
+    "run_id": "RUN-000002",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000022-ROOM-000004",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":20,\"rejection_counts\":{\"ROOM_BUSY\":3,\"STUDENT_CONFLICT\":6}}",
+    "exam_id": "EXAM-2026-000022",
+    "reason_code": null,
+    "run_id": "RUN-000002",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000023-ROOM-000006",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":21,\"rejection_counts\":{\"ROOM_BUSY\":2,\"STUDENT_CONFLICT\":8}}",
+    "exam_id": "EXAM-2026-000023",
+    "reason_code": null,
+    "run_id": "RUN-000002",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000024-ROOM-000006",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":8,\"rejection_counts\":{\"ROOM_BUSY\":2,\"STUDENT_CONFLICT\":2}}",
+    "exam_id": "EXAM-2026-000024",
+    "reason_code": null,
+    "run_id": "RUN-000002",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000025-ROOM-000005",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":8,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":22,\"rejection_counts\":{\"ROOM_AVAILABILITY\":2,\"ROOM_BUSY\":1,\"STUDENT_CONFLICT\":10}}",
+    "exam_id": "EXAM-2026-000025",
+    "reason_code": null,
+    "run_id": "RUN-000002",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000026-ROOM-000003",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":25,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":2,\"rejection_counts\":{\"ROOM_BUSY\":1}}",
+    "exam_id": "EXAM-2026-000026",
+    "reason_code": null,
+    "run_id": "RUN-000002",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000027-ROOM-000004",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":25,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":1,\"rejection_counts\":{}}",
+    "exam_id": "EXAM-2026-000027",
+    "reason_code": null,
+    "run_id": "RUN-000002",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000028-ROOM-000005",
+    "evidence_json": "{\"candidate_start_count\":40,\"degree\":25,\"explanation\":\"First feasible candidate start, smallest sufficient room, then least-used available staff; ID breaks ties.\",\"rank\":3,\"rejection_counts\":{\"ROOM_BUSY\":2}}",
+    "exam_id": "EXAM-2026-000028",
+    "reason_code": null,
+    "run_id": "RUN-000002",
+    "status": "SCHEDULED"
+  },
+  {
+    "assignment_id": null,
+    "evidence_json": "{\"accessible_required\":1,\"demand\":45,\"equipment_absent_from_all_rooms\":[\"EQ-SECURE\"],\"explanation\":\"No room satisfies static equipment, accessibility and capacity requirements under the one-room policy.\",\"rank\":4,\"required_equipment\":[\"EQ-SECURE\"],\"rooms_considered\":12}",
+    "exam_id": "EXAM-2026-000029",
+    "reason_code": "NO_COMPATIBLE_ROOM",
+    "run_id": "RUN-000002",
+    "status": "UNASSIGNED"
+  }
+]

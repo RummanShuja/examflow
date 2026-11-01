@@ -1,0 +1,170 @@
+[
+  {
+    "capacity_id": "CAP-000001",
+    "effective_from": "2026-11-16T00:00:00+05:30",
+    "effective_to": "2026-11-23T00:00:00+05:30",
+    "room_id": "ROOM-000001",
+    "seats": 95
+  },
+  {
+    "capacity_id": "CAP-000002",
+    "effective_from": "2026-11-23T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "room_id": "ROOM-000001",
+    "seats": 95
+  },
+  {
+    "capacity_id": "CAP-000003",
+    "effective_from": "2026-11-16T00:00:00+05:30",
+    "effective_to": "2026-11-23T00:00:00+05:30",
+    "room_id": "ROOM-000002",
+    "seats": 1
+  },
+  {
+    "capacity_id": "CAP-000004",
+    "effective_from": "2026-11-23T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "room_id": "ROOM-000002",
+    "seats": 1
+  },
+  {
+    "capacity_id": "CAP-000005",
+    "effective_from": "2026-11-16T00:00:00+05:30",
+    "effective_to": "2026-11-23T00:00:00+05:30",
+    "room_id": "ROOM-000003",
+    "seats": 50
+  },
+  {
+    "capacity_id": "CAP-000006",
+    "effective_from": "2026-11-23T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "room_id": "ROOM-000003",
+    "seats": 50
+  },
+  {
+    "capacity_id": "CAP-000007",
+    "effective_from": "2026-11-16T00:00:00+05:30",
+    "effective_to": "2026-11-23T00:00:00+05:30",
+    "room_id": "ROOM-000004",
+    "seats": 75
+  },
+  {
+    "capacity_id": "CAP-000008",
+    "effective_from": "2026-11-23T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "room_id": "ROOM-000004",
+    "seats": 75
+  },
+  {
+    "capacity_id": "CAP-000009",
+    "effective_from": "2026-11-16T00:00:00+05:30",
+    "effective_to": "2026-11-23T00:00:00+05:30",
+    "room_id": "ROOM-000005",
+    "seats": 50
+  },
+  {
+    "capacity_id": "CAP-000010",
+    "effective_from": "2026-11-23T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "room_id": "ROOM-000005",
+    "seats": 40
+  },
+  {
+    "capacity_id": "CAP-000011",
+    "effective_from": "2026-11-16T00:00:00+05:30",
+    "effective_to": "2026-11-23T00:00:00+05:30",
+    "room_id": "ROOM-000006",
+    "seats": 50
+  },
+  {
+    "capacity_id": "CAP-000012",
+    "effective_from": "2026-11-23T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "room_id": "ROOM-000006",
+    "seats": 50
+  },
+  {
+    "capacity_id": "CAP-000013",
+    "effective_from": "2026-11-16T00:00:00+05:30",
+    "effective_to": "2026-11-23T00:00:00+05:30",
+    "room_id": "ROOM-000007",
+    "seats": 110
+  },
+  {
+    "capacity_id": "CAP-000014",
+    "effective_from": "2026-11-23T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "room_id": "ROOM-000007",
+    "seats": 110
+  },
+  {
+    "capacity_id": "CAP-000015",
+    "effective_from": "2026-11-16T00:00:00+05:30",
+    "effective_to": "2026-11-23T00:00:00+05:30",
+    "room_id": "ROOM-000008",
+    "seats": 100
+  },
+  {
+    "capacity_id": "CAP-000016",
+    "effective_from": "2026-11-23T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "room_id": "ROOM-000008",
+    "seats": 90
+  },
+  {
+    "capacity_id": "CAP-000017",
+    "effective_from": "2026-11-16T00:00:00+05:30",
+    "effective_to": "2026-11-23T00:00:00+05:30",
+    "room_id": "ROOM-000009",
+    "seats": 25
+  },
+  {
+    "capacity_id": "CAP-000018",
+    "effective_from": "2026-11-23T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "room_id": "ROOM-000009",
+    "seats": 25
+  },
+  {
+    "capacity_id": "CAP-000019",
+    "effective_from": "2026-11-16T00:00:00+05:30",
+    "effective_to": "2026-11-23T00:00:00+05:30",
+    "room_id": "ROOM-000010",
+    "seats": 100
+  },
+  {
+    "capacity_id": "CAP-000020",
+    "effective_from": "2026-11-23T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "room_id": "ROOM-000010",
+    "seats": 100
+  },
+  {
+    "capacity_id": "CAP-000021",
+    "effective_from": "2026-11-16T00:00:00+05:30",
+    "effective_to": "2026-11-23T00:00:00+05:30",
+    "room_id": "ROOM-000011",
+    "seats": 100
+  },
+  {
+    "capacity_id": "CAP-000022",
+    "effective_from": "2026-11-23T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "room_id": "ROOM-000011",
+    "seats": 100
+  },
+  {
+    "capacity_id": "CAP-000023",
+    "effective_from": "2026-11-16T00:00:00+05:30",
+    "effective_to": "2026-11-23T00:00:00+05:30",
+    "room_id": "ROOM-000012",
+    "seats": 50
+  },
+  {
+    "capacity_id": "CAP-000024",
+    "effective_from": "2026-11-23T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "room_id": "ROOM-000012",
+    "seats": 50
+  }
+]

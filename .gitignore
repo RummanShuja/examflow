@@ -1,0 +1,69 @@
+# Keep only the submission files and directories listed below.
+/*
+!/.gitignore
+!/README.md
+!/examflow/
+!/tests/
+
+# Keep verification; exclude the local ZIP packaging helper.
+!/tools/
+/tools/*
+!/tools/verify.py
+
+# Required documentation and AI records.
+!/docs/
+/docs/*
+!/docs/schema.sql
+!/docs/DATA_DICTIONARY.md
+!/docs/ER_MODEL.md
+!/docs/WALKTHROUGH.md
+!/docs/VERIFICATION.md
+!/docs/REQUIREMENTS_COVERAGE.md
+!/docs/AI_USAGE.md
+!/docs/PROMPT_HISTORY.md
+!/docs/prompt_history/
+
+# Required datasets, exports, databases and result reports.
+!/artifacts/
+/artifacts/*
+!/artifacts/starter/
+!/artifacts/full/
+!/artifacts/verification_execution.json
+
+# Python caches and virtual environments.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# Credentials, editor settings and temporary files.
+.env
+.env.*
+*.pem
+*.key
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.swp
+*.log
+!/artifacts/tests.log
+
+# SQLite temporary files; keep actual .sqlite3 databases.
+*-journal
+*-wal
+*-shm
+
+# Archives and local Git bundles are not source files.
+*.zip
+*.bundle
+*.bundle.lock

@@ -1,0 +1,12 @@
+[
+  {
+    "config_json": "{\"exams\":300,\"invigilators\":200,\"profile\":\"full\",\"rooms\":100,\"scale\":1.0,\"schema_version\":\"1.0\",\"seed\":20261022,\"students\":5000}",
+    "dataset_id": "DATASET-000001",
+    "generated_at": "2026-10-22T00:00:00+05:30",
+    "profile": "full",
+    "scale": 1.0,
+    "schema_version": "1.0",
+    "seed": 20261022,
+    "timezone": "Asia/Kolkata"
+  }
+]

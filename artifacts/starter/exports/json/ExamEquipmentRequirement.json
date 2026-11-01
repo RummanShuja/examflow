@@ -1,0 +1,38 @@
+[
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000001"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000002"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "exam_id": "EXAM-2026-000003"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000011"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000012"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000021"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000022"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "exam_id": "EXAM-2026-000023"
+  },
+  {
+    "equipment_id": "EQ-SECURE",
+    "exam_id": "EXAM-2026-000029"
+  }
+]

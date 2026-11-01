@@ -1,0 +1,306 @@
+[
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000001"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000002"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "exam_id": "EXAM-2026-000003"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000011"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000012"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000021"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000022"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "exam_id": "EXAM-2026-000023"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000031"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000032"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000041"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000042"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "exam_id": "EXAM-2026-000043"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000051"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000052"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000061"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000062"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "exam_id": "EXAM-2026-000063"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000071"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000072"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000081"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000082"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "exam_id": "EXAM-2026-000083"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000091"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000092"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000101"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000102"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "exam_id": "EXAM-2026-000103"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000111"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000112"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000121"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000122"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "exam_id": "EXAM-2026-000123"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000131"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000132"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000141"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000142"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "exam_id": "EXAM-2026-000143"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000151"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000152"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000161"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000162"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "exam_id": "EXAM-2026-000163"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000171"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000172"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000181"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000182"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "exam_id": "EXAM-2026-000183"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000191"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000192"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000201"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000202"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "exam_id": "EXAM-2026-000203"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000211"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000212"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000221"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000222"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "exam_id": "EXAM-2026-000223"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000231"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000232"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000241"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000242"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "exam_id": "EXAM-2026-000243"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000251"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000252"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000261"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000262"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "exam_id": "EXAM-2026-000263"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000271"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000272"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000281"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000282"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "exam_id": "EXAM-2026-000283"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "exam_id": "EXAM-2026-000291"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "exam_id": "EXAM-2026-000292"
+  },
+  {
+    "equipment_id": "EQ-SECURE",
+    "exam_id": "EXAM-2026-000299"
+  }
+]

@@ -1,0 +1,279 @@
+{
+  "both_validated": true,
+  "checksum_contract": "Every table: primary-key order, canonical sorted-key JSON records, UTF-8, one LF per record; SHA-256.",
+  "configuration": {
+    "exams": 300,
+    "invigilators": 200,
+    "profile": "full",
+    "rooms": 100,
+    "scale": 1.0,
+    "schema_version": "1.0",
+    "seed": 20261022,
+    "students": 5000
+  },
+  "excluded_columns": [],
+  "fixtures_matched": true,
+  "independent_builds": 2,
+  "passed": true,
+  "schedule_matched": true,
+  "schedule_sha256": [
+    "7d89d01dba0ea627a2e139d59719442c2df86cd0fdf5497d19a0a8569b31143c",
+    "7d89d01dba0ea627a2e139d59719442c2df86cd0fdf5497d19a0a8569b31143c"
+  ],
+  "scope": "Two fresh databases each have one run. Existing user databases and their run history are never replaced.",
+  "tables": {
+    "Accommodation": {
+      "build_1": {
+        "rows": 362,
+        "sha256": "3814ff378983f27d62e3b15c8e6532dc31436fee7944f26ecef0d2b5fbe4f2a3"
+      },
+      "build_2": {
+        "rows": 362,
+        "sha256": "3814ff378983f27d62e3b15c8e6532dc31436fee7944f26ecef0d2b5fbe4f2a3"
+      },
+      "matched": true
+    },
+    "Availability": {
+      "build_1": {
+        "rows": 1741,
+        "sha256": "9c952a5e4075bed899ba66dd54c151a2efe6a79d6515dff2847267ab0f739abd"
+      },
+      "build_2": {
+        "rows": 1741,
+        "sha256": "9c952a5e4075bed899ba66dd54c151a2efe6a79d6515dff2847267ab0f739abd"
+      },
+      "matched": true
+    },
+    "Cohort": {
+      "build_1": {
+        "rows": 50,
+        "sha256": "13813221a652842a57d8eb11c3ed5217abd5015194a748c8fac686607a942eb0"
+      },
+      "build_2": {
+        "rows": 50,
+        "sha256": "13813221a652842a57d8eb11c3ed5217abd5015194a748c8fac686607a942eb0"
+      },
+      "matched": true
+    },
+    "Course": {
+      "build_1": {
+        "rows": 300,
+        "sha256": "c8929677344dcc512ff4fc9f560266f70ec3ebc2e9dc25e03c8b1423680be311"
+      },
+      "build_2": {
+        "rows": 300,
+        "sha256": "c8929677344dcc512ff4fc9f560266f70ec3ebc2e9dc25e03c8b1423680be311"
+      },
+      "matched": true
+    },
+    "Dataset": {
+      "build_1": {
+        "rows": 1,
+        "sha256": "252593460a7ea43fb7e92c121216798882e3c2bcecf1e087ac13a9bcb0839752"
+      },
+      "build_2": {
+        "rows": 1,
+        "sha256": "252593460a7ea43fb7e92c121216798882e3c2bcecf1e087ac13a9bcb0839752"
+      },
+      "matched": true
+    },
+    "DecisionEvent": {
+      "build_1": {
+        "rows": 301,
+        "sha256": "60c6dd89a1a5b89a3dbc238070018f040df332cde8a5074013184b7540c5840c"
+      },
+      "build_2": {
+        "rows": 301,
+        "sha256": "60c6dd89a1a5b89a3dbc238070018f040df332cde8a5074013184b7540c5840c"
+      },
+      "matched": true
+    },
+    "Enrollment": {
+      "build_1": {
+        "rows": 30183,
+        "sha256": "0d5e335e93ea187828ebe71f99966298e41104738eb4fd6b396e8eb6c608779f"
+      },
+      "build_2": {
+        "rows": 30183,
+        "sha256": "0d5e335e93ea187828ebe71f99966298e41104738eb4fd6b396e8eb6c608779f"
+      },
+      "matched": true
+    },
+    "Equipment": {
+      "build_1": {
+        "rows": 4,
+        "sha256": "5ec55594ab32d8825de75dc783b8236d20848d3390422a33302f0a95ec89165f"
+      },
+      "build_2": {
+        "rows": 4,
+        "sha256": "5ec55594ab32d8825de75dc783b8236d20848d3390422a33302f0a95ec89165f"
+      },
+      "matched": true
+    },
+    "Exam": {
+      "build_1": {
+        "rows": 300,
+        "sha256": "52ac64adc07cfca6254114645543bd00aa5c506aa56638e0560ae14318e76a34"
+      },
+      "build_2": {
+        "rows": 300,
+        "sha256": "52ac64adc07cfca6254114645543bd00aa5c506aa56638e0560ae14318e76a34"
+      },
+      "matched": true
+    },
+    "ExamEquipmentRequirement": {
+      "build_1": {
+        "rows": 76,
+        "sha256": "bc14dea43ad585767827994834e740aeec0af32c203c51de6bc219e696237005"
+      },
+      "build_2": {
+        "rows": 76,
+        "sha256": "bc14dea43ad585767827994834e740aeec0af32c203c51de6bc219e696237005"
+      },
+      "matched": true
+    },
+    "ExamOutcome": {
+      "build_1": {
+        "rows": 299,
+        "sha256": "0a438c22e48e044a80e5649b2b2691b819d34836a4e8b0bc77b8491a808a1d6e"
+      },
+      "build_2": {
+        "rows": 299,
+        "sha256": "0a438c22e48e044a80e5649b2b2691b819d34836a4e8b0bc77b8491a808a1d6e"
+      },
+      "matched": true
+    },
+    "ExamRequirement": {
+      "build_1": {
+        "rows": 300,
+        "sha256": "e615d653301e218ded6344b482b5c03af81a886366dba67d1c0e15a20ee4113b"
+      },
+      "build_2": {
+        "rows": 300,
+        "sha256": "e615d653301e218ded6344b482b5c03af81a886366dba67d1c0e15a20ee4113b"
+      },
+      "matched": true
+    },
+    "Invigilator": {
+      "build_1": {
+        "rows": 200,
+        "sha256": "10cf39d7967ad6e625099e3b3aad85fca5e5840202e3c165ad01f60f1a245cbe"
+      },
+      "build_2": {
+        "rows": 200,
+        "sha256": "10cf39d7967ad6e625099e3b3aad85fca5e5840202e3c165ad01f60f1a245cbe"
+      },
+      "matched": true
+    },
+    "InvigilatorAllocation": {
+      "build_1": {
+        "rows": 895,
+        "sha256": "316f3fea8820b168014953c08074cdf78119e767fc1ca7a550e24e7640d71209"
+      },
+      "build_2": {
+        "rows": 895,
+        "sha256": "316f3fea8820b168014953c08074cdf78119e767fc1ca7a550e24e7640d71209"
+      },
+      "matched": true
+    },
+    "LifecycleEvent": {
+      "build_1": {
+        "rows": 38432,
+        "sha256": "36726771b5c8fce354f39d6350eb50d92bf8371633f1ccc30b2dcd80b2ba0258"
+      },
+      "build_2": {
+        "rows": 38432,
+        "sha256": "36726771b5c8fce354f39d6350eb50d92bf8371633f1ccc30b2dcd80b2ba0258"
+      },
+      "matched": true
+    },
+    "Room": {
+      "build_1": {
+        "rows": 100,
+        "sha256": "ee116545f92a67827004f0fc2b077da8def9b1b4dce2b3fb0259958ec32d5065"
+      },
+      "build_2": {
+        "rows": 100,
+        "sha256": "ee116545f92a67827004f0fc2b077da8def9b1b4dce2b3fb0259958ec32d5065"
+      },
+      "matched": true
+    },
+    "RoomCapacity": {
+      "build_1": {
+        "rows": 200,
+        "sha256": "f2308816da9717ea0f05557012bd7b455214ad131037f4b203b8b71195fa1163"
+      },
+      "build_2": {
+        "rows": 200,
+        "sha256": "f2308816da9717ea0f05557012bd7b455214ad131037f4b203b8b71195fa1163"
+      },
+      "matched": true
+    },
+    "RoomClosure": {
+      "build_1": {
+        "rows": 94,
+        "sha256": "8a7021ebb8a735f0c2c3a00e177bb8ee137a5a10f351bdbb17e9865b4abe56dc"
+      },
+      "build_2": {
+        "rows": 94,
+        "sha256": "8a7021ebb8a735f0c2c3a00e177bb8ee137a5a10f351bdbb17e9865b4abe56dc"
+      },
+      "matched": true
+    },
+    "RoomEquipment": {
+      "build_1": {
+        "rows": 120,
+        "sha256": "af75cecfd09558d65c45c3c242dca64439a277d2a5dd8178feca13d5c36a5db9"
+      },
+      "build_2": {
+        "rows": 120,
+        "sha256": "af75cecfd09558d65c45c3c242dca64439a277d2a5dd8178feca13d5c36a5db9"
+      },
+      "matched": true
+    },
+    "RoomOpening": {
+      "build_1": {
+        "rows": 1000,
+        "sha256": "fd271a53178acf5e83817b4245b831f66ed4e7bda9e0ca1c9c9f05d9e7229c12"
+      },
+      "build_2": {
+        "rows": 1000,
+        "sha256": "fd271a53178acf5e83817b4245b831f66ed4e7bda9e0ca1c9c9f05d9e7229c12"
+      },
+      "matched": true
+    },
+    "ScheduleAssignment": {
+      "build_1": {
+        "rows": 298,
+        "sha256": "80a230f5ac3331d559ca1f03d64e364914d2285bbda62956b43e42edce7c0908"
+      },
+      "build_2": {
+        "rows": 298,
+        "sha256": "80a230f5ac3331d559ca1f03d64e364914d2285bbda62956b43e42edce7c0908"
+      },
+      "matched": true
+    },
+    "SchedulingRun": {
+      "build_1": {
+        "rows": 1,
+        "sha256": "3c7f53428a3fad6926c8f6e4efa710d6b2e57fa097e6d82925839a086c68f274"
+      },
+      "build_2": {
+        "rows": 1,
+        "sha256": "3c7f53428a3fad6926c8f6e4efa710d6b2e57fa097e6d82925839a086c68f274"
+      },
+      "matched": true
+    },
+    "Student": {
+      "build_1": {
+        "rows": 5000,
+        "sha256": "4b0a9fd91bc62c64f0273ad370760946b000f38183ab9a8e52f824e08c59ad0e"
+      },
+      "build_2": {
+        "rows": 5000,
+        "sha256": "4b0a9fd91bc62c64f0273ad370760946b000f38183ab9a8e52f824e08c59ad0e"
+      },
+      "matched": true
+    }
+  }
+}

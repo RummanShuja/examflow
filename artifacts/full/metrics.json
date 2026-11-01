@@ -1,0 +1,2170 @@
+{
+  "accommodations": {
+    "coverage_all_eligible": 0.9973958333333334,
+    "coverage_scheduled": 1.0,
+    "extra_room_minutes": 17782,
+    "extra_staff_minutes": 53406,
+    "fulfilled": 1532,
+    "required_scheduled": 1532,
+    "required_student_exam_support_records_all": 1536
+  },
+  "cancelled": 1,
+  "conflict_graph": {
+    "edges": 11195,
+    "max_degree": 245,
+    "vertices": 299
+  },
+  "definitions": {
+    "coverage_all_eligible": "fulfilled approved student-exam support records / required support records for all planned exams",
+    "coverage_scheduled": "fulfilled approved student-exam support records / required support records for scheduled exams",
+    "extra_room_minutes": "sum of whole-exam duration minus base duration; the price of the simple accommodation policy",
+    "invigilator_time": "allocated invigilator-minutes / effective AVAILABLE invigilator-minutes in the horizon",
+    "occupied_room_fill": "enrolled learner-minutes / capacity-minutes of occupied rooms",
+    "room_time": "accepted room-minutes / open, effective, non-closed room-minutes in the full ten-weekday horizon",
+    "scheduling_rate": "scheduled / all PLANNED exams; CANCELLED excluded, honest unassigned included",
+    "seat_time": "enrolled learner-minutes / effective seat-minutes of all usable rooms in the horizon"
+  },
+  "eligible": 299,
+  "horizon": [
+    "2026-11-16T00:00:00+05:30",
+    "2026-11-28T00:00:00+05:30"
+  ],
+  "invigilator_time": {
+    "available_minutes": 821700,
+    "used_minutes": 173856,
+    "utilization": 0.2115808689302665
+  },
+  "invigilators": [
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000001",
+      "used_minutes": 1006,
+      "utilization": 0.12897435897435897
+    },
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000002",
+      "used_minutes": 998,
+      "utilization": 0.12794871794871795
+    },
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000003",
+      "used_minutes": 998,
+      "utilization": 0.12794871794871795
+    },
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000004",
+      "used_minutes": 1290,
+      "utilization": 0.16538461538461538
+    },
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000005",
+      "used_minutes": 1290,
+      "utilization": 0.16538461538461538
+    },
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000006",
+      "used_minutes": 1290,
+      "utilization": 0.16538461538461538
+    },
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000007",
+      "used_minutes": 1230,
+      "utilization": 0.1576923076923077
+    },
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000008",
+      "used_minutes": 1230,
+      "utilization": 0.1576923076923077
+    },
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000009",
+      "used_minutes": 1388,
+      "utilization": 0.17794871794871794
+    },
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000010",
+      "used_minutes": 1208,
+      "utilization": 0.15487179487179487
+    },
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000011",
+      "used_minutes": 1163,
+      "utilization": 0.1491025641025641
+    },
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000012",
+      "used_minutes": 1073,
+      "utilization": 0.13756410256410256
+    },
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000013",
+      "used_minutes": 1268,
+      "utilization": 0.16256410256410256
+    },
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000014",
+      "used_minutes": 1268,
+      "utilization": 0.16256410256410256
+    },
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000015",
+      "used_minutes": 1268,
+      "utilization": 0.16256410256410256
+    },
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000016",
+      "used_minutes": 1305,
+      "utilization": 0.1673076923076923
+    },
+    {
+      "available_minutes": 4500,
+      "invigilator_id": "INV-000017",
+      "used_minutes": 1035,
+      "utilization": 0.23
+    },
+    {
+      "available_minutes": 3600,
+      "invigilator_id": "INV-000018",
+      "used_minutes": 585,
+      "utilization": 0.1625
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000019",
+      "used_minutes": 630,
+      "utilization": 0.16153846153846155
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000020",
+      "used_minutes": 630,
+      "utilization": 0.16153846153846155
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000021",
+      "used_minutes": 990,
+      "utilization": 0.25384615384615383
+    },
+    {
+      "available_minutes": 4500,
+      "invigilator_id": "INV-000022",
+      "used_minutes": 990,
+      "utilization": 0.22
+    },
+    {
+      "available_minutes": 3600,
+      "invigilator_id": "INV-000023",
+      "used_minutes": 555,
+      "utilization": 0.15416666666666667
+    },
+    {
+      "available_minutes": 4200,
+      "invigilator_id": "INV-000024",
+      "used_minutes": 1035,
+      "utilization": 0.24642857142857144
+    },
+    {
+      "available_minutes": 2400,
+      "invigilator_id": "INV-000025",
+      "used_minutes": 540,
+      "utilization": 0.225
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000026",
+      "used_minutes": 945,
+      "utilization": 0.2423076923076923
+    },
+    {
+      "available_minutes": 3600,
+      "invigilator_id": "INV-000027",
+      "used_minutes": 923,
+      "utilization": 0.2563888888888889
+    },
+    {
+      "available_minutes": 4200,
+      "invigilator_id": "INV-000028",
+      "used_minutes": 1260,
+      "utilization": 0.3
+    },
+    {
+      "available_minutes": 4200,
+      "invigilator_id": "INV-000029",
+      "used_minutes": 765,
+      "utilization": 0.18214285714285713
+    },
+    {
+      "available_minutes": 3000,
+      "invigilator_id": "INV-000030",
+      "used_minutes": 518,
+      "utilization": 0.17266666666666666
+    },
+    {
+      "available_minutes": 3600,
+      "invigilator_id": "INV-000031",
+      "used_minutes": 765,
+      "utilization": 0.2125
+    },
+    {
+      "available_minutes": 3300,
+      "invigilator_id": "INV-000032",
+      "used_minutes": 810,
+      "utilization": 0.24545454545454545
+    },
+    {
+      "available_minutes": 3300,
+      "invigilator_id": "INV-000033",
+      "used_minutes": 735,
+      "utilization": 0.22272727272727272
+    },
+    {
+      "available_minutes": 4200,
+      "invigilator_id": "INV-000034",
+      "used_minutes": 1125,
+      "utilization": 0.26785714285714285
+    },
+    {
+      "available_minutes": 3300,
+      "invigilator_id": "INV-000035",
+      "used_minutes": 585,
+      "utilization": 0.17727272727272728
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000036",
+      "used_minutes": 1170,
+      "utilization": 0.3
+    },
+    {
+      "available_minutes": 3600,
+      "invigilator_id": "INV-000037",
+      "used_minutes": 1125,
+      "utilization": 0.3125
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000038",
+      "used_minutes": 938,
+      "utilization": 0.24051282051282052
+    },
+    {
+      "available_minutes": 2400,
+      "invigilator_id": "INV-000039",
+      "used_minutes": 503,
+      "utilization": 0.20958333333333334
+    },
+    {
+      "available_minutes": 3300,
+      "invigilator_id": "INV-000040",
+      "used_minutes": 900,
+      "utilization": 0.2727272727272727
+    },
+    {
+      "available_minutes": 3300,
+      "invigilator_id": "INV-000041",
+      "used_minutes": 690,
+      "utilization": 0.20909090909090908
+    },
+    {
+      "available_minutes": 3600,
+      "invigilator_id": "INV-000042",
+      "used_minutes": 990,
+      "utilization": 0.275
+    },
+    {
+      "available_minutes": 3600,
+      "invigilator_id": "INV-000043",
+      "used_minutes": 990,
+      "utilization": 0.275
+    },
+    {
+      "available_minutes": 3000,
+      "invigilator_id": "INV-000044",
+      "used_minutes": 720,
+      "utilization": 0.24
+    },
+    {
+      "available_minutes": 3300,
+      "invigilator_id": "INV-000045",
+      "used_minutes": 600,
+      "utilization": 0.18181818181818182
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000046",
+      "used_minutes": 1035,
+      "utilization": 0.2653846153846154
+    },
+    {
+      "available_minutes": 3600,
+      "invigilator_id": "INV-000047",
+      "used_minutes": 1013,
+      "utilization": 0.2813888888888889
+    },
+    {
+      "available_minutes": 3600,
+      "invigilator_id": "INV-000048",
+      "used_minutes": 765,
+      "utilization": 0.2125
+    },
+    {
+      "available_minutes": 3600,
+      "invigilator_id": "INV-000049",
+      "used_minutes": 855,
+      "utilization": 0.2375
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000050",
+      "used_minutes": 630,
+      "utilization": 0.16153846153846155
+    },
+    {
+      "available_minutes": 4500,
+      "invigilator_id": "INV-000051",
+      "used_minutes": 1305,
+      "utilization": 0.29
+    },
+    {
+      "available_minutes": 4500,
+      "invigilator_id": "INV-000052",
+      "used_minutes": 1080,
+      "utilization": 0.24
+    },
+    {
+      "available_minutes": 4200,
+      "invigilator_id": "INV-000053",
+      "used_minutes": 1080,
+      "utilization": 0.2571428571428571
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000054",
+      "used_minutes": 585,
+      "utilization": 0.15
+    },
+    {
+      "available_minutes": 4500,
+      "invigilator_id": "INV-000055",
+      "used_minutes": 1035,
+      "utilization": 0.23
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000056",
+      "used_minutes": 818,
+      "utilization": 0.20974358974358975
+    },
+    {
+      "available_minutes": 4500,
+      "invigilator_id": "INV-000057",
+      "used_minutes": 773,
+      "utilization": 0.17177777777777778
+    },
+    {
+      "available_minutes": 4500,
+      "invigilator_id": "INV-000058",
+      "used_minutes": 1058,
+      "utilization": 0.2351111111111111
+    },
+    {
+      "available_minutes": 4200,
+      "invigilator_id": "INV-000059",
+      "used_minutes": 1260,
+      "utilization": 0.3
+    },
+    {
+      "available_minutes": 4500,
+      "invigilator_id": "INV-000060",
+      "used_minutes": 998,
+      "utilization": 0.22177777777777777
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000061",
+      "used_minutes": 900,
+      "utilization": 0.23076923076923078
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000062",
+      "used_minutes": 1035,
+      "utilization": 0.2653846153846154
+    },
+    {
+      "available_minutes": 4200,
+      "invigilator_id": "INV-000063",
+      "used_minutes": 630,
+      "utilization": 0.15
+    },
+    {
+      "available_minutes": 4800,
+      "invigilator_id": "INV-000064",
+      "used_minutes": 1170,
+      "utilization": 0.24375
+    },
+    {
+      "available_minutes": 4200,
+      "invigilator_id": "INV-000065",
+      "used_minutes": 990,
+      "utilization": 0.2357142857142857
+    },
+    {
+      "available_minutes": 3000,
+      "invigilator_id": "INV-000066",
+      "used_minutes": 915,
+      "utilization": 0.305
+    },
+    {
+      "available_minutes": 4200,
+      "invigilator_id": "INV-000067",
+      "used_minutes": 585,
+      "utilization": 0.1392857142857143
+    },
+    {
+      "available_minutes": 2700,
+      "invigilator_id": "INV-000068",
+      "used_minutes": 765,
+      "utilization": 0.2833333333333333
+    },
+    {
+      "available_minutes": 3000,
+      "invigilator_id": "INV-000069",
+      "used_minutes": 1170,
+      "utilization": 0.39
+    },
+    {
+      "available_minutes": 2700,
+      "invigilator_id": "INV-000070",
+      "used_minutes": 630,
+      "utilization": 0.23333333333333334
+    },
+    {
+      "available_minutes": 3600,
+      "invigilator_id": "INV-000071",
+      "used_minutes": 855,
+      "utilization": 0.2375
+    },
+    {
+      "available_minutes": 4200,
+      "invigilator_id": "INV-000072",
+      "used_minutes": 1043,
+      "utilization": 0.24833333333333332
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000073",
+      "used_minutes": 961,
+      "utilization": 0.2464102564102564
+    },
+    {
+      "available_minutes": 5400,
+      "invigilator_id": "INV-000074",
+      "used_minutes": 1170,
+      "utilization": 0.21666666666666667
+    },
+    {
+      "available_minutes": 3000,
+      "invigilator_id": "INV-000075",
+      "used_minutes": 735,
+      "utilization": 0.245
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000076",
+      "used_minutes": 953,
+      "utilization": 0.24435897435897436
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000077",
+      "used_minutes": 878,
+      "utilization": 0.22512820512820514
+    },
+    {
+      "available_minutes": 4200,
+      "invigilator_id": "INV-000078",
+      "used_minutes": 953,
+      "utilization": 0.22690476190476191
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000079",
+      "used_minutes": 690,
+      "utilization": 0.17692307692307693
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000080",
+      "used_minutes": 931,
+      "utilization": 0.2387179487179487
+    },
+    {
+      "available_minutes": 4800,
+      "invigilator_id": "INV-000081",
+      "used_minutes": 931,
+      "utilization": 0.19395833333333334
+    },
+    {
+      "available_minutes": 3300,
+      "invigilator_id": "INV-000082",
+      "used_minutes": 765,
+      "utilization": 0.2318181818181818
+    },
+    {
+      "available_minutes": 3600,
+      "invigilator_id": "INV-000083",
+      "used_minutes": 683,
+      "utilization": 0.1897222222222222
+    },
+    {
+      "available_minutes": 3600,
+      "invigilator_id": "INV-000084",
+      "used_minutes": 540,
+      "utilization": 0.15
+    },
+    {
+      "available_minutes": 3300,
+      "invigilator_id": "INV-000085",
+      "used_minutes": 540,
+      "utilization": 0.16363636363636364
+    },
+    {
+      "available_minutes": 3300,
+      "invigilator_id": "INV-000086",
+      "used_minutes": 893,
+      "utilization": 0.2706060606060606
+    },
+    {
+      "available_minutes": 5400,
+      "invigilator_id": "INV-000087",
+      "used_minutes": 990,
+      "utilization": 0.18333333333333332
+    },
+    {
+      "available_minutes": 4200,
+      "invigilator_id": "INV-000088",
+      "used_minutes": 765,
+      "utilization": 0.18214285714285713
+    },
+    {
+      "available_minutes": 3300,
+      "invigilator_id": "INV-000089",
+      "used_minutes": 855,
+      "utilization": 0.2590909090909091
+    },
+    {
+      "available_minutes": 4800,
+      "invigilator_id": "INV-000090",
+      "used_minutes": 900,
+      "utilization": 0.1875
+    },
+    {
+      "available_minutes": 3300,
+      "invigilator_id": "INV-000091",
+      "used_minutes": 585,
+      "utilization": 0.17727272727272728
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000092",
+      "used_minutes": 803,
+      "utilization": 0.2058974358974359
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000093",
+      "used_minutes": 893,
+      "utilization": 0.22897435897435897
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000094",
+      "used_minutes": 960,
+      "utilization": 0.24615384615384617
+    },
+    {
+      "available_minutes": 3300,
+      "invigilator_id": "INV-000095",
+      "used_minutes": 1035,
+      "utilization": 0.31363636363636366
+    },
+    {
+      "available_minutes": 2700,
+      "invigilator_id": "INV-000096",
+      "used_minutes": 930,
+      "utilization": 0.34444444444444444
+    },
+    {
+      "available_minutes": 3300,
+      "invigilator_id": "INV-000097",
+      "used_minutes": 420,
+      "utilization": 0.12727272727272726
+    },
+    {
+      "available_minutes": 4200,
+      "invigilator_id": "INV-000098",
+      "used_minutes": 810,
+      "utilization": 0.19285714285714287
+    },
+    {
+      "available_minutes": 4800,
+      "invigilator_id": "INV-000099",
+      "used_minutes": 1058,
+      "utilization": 0.22041666666666668
+    },
+    {
+      "available_minutes": 4200,
+      "invigilator_id": "INV-000100",
+      "used_minutes": 1110,
+      "utilization": 0.2642857142857143
+    },
+    {
+      "available_minutes": 3000,
+      "invigilator_id": "INV-000101",
+      "used_minutes": 458,
+      "utilization": 0.15266666666666667
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000102",
+      "used_minutes": 585,
+      "utilization": 0.15
+    },
+    {
+      "available_minutes": 3600,
+      "invigilator_id": "INV-000103",
+      "used_minutes": 810,
+      "utilization": 0.225
+    },
+    {
+      "available_minutes": 4500,
+      "invigilator_id": "INV-000104",
+      "used_minutes": 810,
+      "utilization": 0.18
+    },
+    {
+      "available_minutes": 4200,
+      "invigilator_id": "INV-000105",
+      "used_minutes": 593,
+      "utilization": 0.1411904761904762
+    },
+    {
+      "available_minutes": 3600,
+      "invigilator_id": "INV-000106",
+      "used_minutes": 960,
+      "utilization": 0.26666666666666666
+    },
+    {
+      "available_minutes": 2700,
+      "invigilator_id": "INV-000107",
+      "used_minutes": 540,
+      "utilization": 0.2
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000108",
+      "used_minutes": 810,
+      "utilization": 0.2076923076923077
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000109",
+      "used_minutes": 930,
+      "utilization": 0.23846153846153847
+    },
+    {
+      "available_minutes": 3300,
+      "invigilator_id": "INV-000110",
+      "used_minutes": 585,
+      "utilization": 0.17727272727272728
+    },
+    {
+      "available_minutes": 4500,
+      "invigilator_id": "INV-000111",
+      "used_minutes": 990,
+      "utilization": 0.22
+    },
+    {
+      "available_minutes": 4200,
+      "invigilator_id": "INV-000112",
+      "used_minutes": 968,
+      "utilization": 0.23047619047619047
+    },
+    {
+      "available_minutes": 2400,
+      "invigilator_id": "INV-000113",
+      "used_minutes": 360,
+      "utilization": 0.15
+    },
+    {
+      "available_minutes": 3300,
+      "invigilator_id": "INV-000114",
+      "used_minutes": 585,
+      "utilization": 0.17727272727272728
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000115",
+      "used_minutes": 1005,
+      "utilization": 0.25769230769230766
+    },
+    {
+      "available_minutes": 3600,
+      "invigilator_id": "INV-000116",
+      "used_minutes": 585,
+      "utilization": 0.1625
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000117",
+      "used_minutes": 810,
+      "utilization": 0.2076923076923077
+    },
+    {
+      "available_minutes": 2700,
+      "invigilator_id": "INV-000118",
+      "used_minutes": 518,
+      "utilization": 0.19185185185185186
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000119",
+      "used_minutes": 878,
+      "utilization": 0.22512820512820514
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000120",
+      "used_minutes": 1140,
+      "utilization": 0.2923076923076923
+    },
+    {
+      "available_minutes": 3000,
+      "invigilator_id": "INV-000121",
+      "used_minutes": 1118,
+      "utilization": 0.37266666666666665
+    },
+    {
+      "available_minutes": 4200,
+      "invigilator_id": "INV-000122",
+      "used_minutes": 953,
+      "utilization": 0.22690476190476191
+    },
+    {
+      "available_minutes": 3300,
+      "invigilator_id": "INV-000123",
+      "used_minutes": 713,
+      "utilization": 0.21606060606060606
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000124",
+      "used_minutes": 960,
+      "utilization": 0.24615384615384617
+    },
+    {
+      "available_minutes": 3000,
+      "invigilator_id": "INV-000125",
+      "used_minutes": 330,
+      "utilization": 0.11
+    },
+    {
+      "available_minutes": 3600,
+      "invigilator_id": "INV-000126",
+      "used_minutes": 405,
+      "utilization": 0.1125
+    },
+    {
+      "available_minutes": 3300,
+      "invigilator_id": "INV-000127",
+      "used_minutes": 968,
+      "utilization": 0.29333333333333333
+    },
+    {
+      "available_minutes": 4200,
+      "invigilator_id": "INV-000128",
+      "used_minutes": 1260,
+      "utilization": 0.3
+    },
+    {
+      "available_minutes": 5100,
+      "invigilator_id": "INV-000129",
+      "used_minutes": 1035,
+      "utilization": 0.20294117647058824
+    },
+    {
+      "available_minutes": 3300,
+      "invigilator_id": "INV-000130",
+      "used_minutes": 810,
+      "utilization": 0.24545454545454545
+    },
+    {
+      "available_minutes": 3300,
+      "invigilator_id": "INV-000131",
+      "used_minutes": 405,
+      "utilization": 0.12272727272727273
+    },
+    {
+      "available_minutes": 3600,
+      "invigilator_id": "INV-000132",
+      "used_minutes": 968,
+      "utilization": 0.2688888888888889
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000133",
+      "used_minutes": 735,
+      "utilization": 0.18846153846153846
+    },
+    {
+      "available_minutes": 1500,
+      "invigilator_id": "INV-000134",
+      "used_minutes": 540,
+      "utilization": 0.36
+    },
+    {
+      "available_minutes": 4800,
+      "invigilator_id": "INV-000135",
+      "used_minutes": 923,
+      "utilization": 0.19229166666666667
+    },
+    {
+      "available_minutes": 3600,
+      "invigilator_id": "INV-000136",
+      "used_minutes": 960,
+      "utilization": 0.26666666666666666
+    },
+    {
+      "available_minutes": 4500,
+      "invigilator_id": "INV-000137",
+      "used_minutes": 998,
+      "utilization": 0.22177777777777777
+    },
+    {
+      "available_minutes": 3300,
+      "invigilator_id": "INV-000138",
+      "used_minutes": 698,
+      "utilization": 0.21151515151515152
+    },
+    {
+      "available_minutes": 3300,
+      "invigilator_id": "INV-000139",
+      "used_minutes": 945,
+      "utilization": 0.2863636363636364
+    },
+    {
+      "available_minutes": 4800,
+      "invigilator_id": "INV-000140",
+      "used_minutes": 1043,
+      "utilization": 0.21729166666666666
+    },
+    {
+      "available_minutes": 5100,
+      "invigilator_id": "INV-000141",
+      "used_minutes": 931,
+      "utilization": 0.18254901960784314
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000142",
+      "used_minutes": 593,
+      "utilization": 0.15205128205128204
+    },
+    {
+      "available_minutes": 3600,
+      "invigilator_id": "INV-000143",
+      "used_minutes": 1043,
+      "utilization": 0.2897222222222222
+    },
+    {
+      "available_minutes": 3300,
+      "invigilator_id": "INV-000144",
+      "used_minutes": 1051,
+      "utilization": 0.3184848484848485
+    },
+    {
+      "available_minutes": 1800,
+      "invigilator_id": "INV-000145",
+      "used_minutes": 180,
+      "utilization": 0.1
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000146",
+      "used_minutes": 1223,
+      "utilization": 0.31358974358974356
+    },
+    {
+      "available_minutes": 4200,
+      "invigilator_id": "INV-000147",
+      "used_minutes": 810,
+      "utilization": 0.19285714285714287
+    },
+    {
+      "available_minutes": 4800,
+      "invigilator_id": "INV-000148",
+      "used_minutes": 923,
+      "utilization": 0.19229166666666667
+    },
+    {
+      "available_minutes": 4500,
+      "invigilator_id": "INV-000149",
+      "used_minutes": 878,
+      "utilization": 0.19511111111111112
+    },
+    {
+      "available_minutes": 4200,
+      "invigilator_id": "INV-000150",
+      "used_minutes": 945,
+      "utilization": 0.225
+    },
+    {
+      "available_minutes": 2700,
+      "invigilator_id": "INV-000151",
+      "used_minutes": 510,
+      "utilization": 0.18888888888888888
+    },
+    {
+      "available_minutes": 4800,
+      "invigilator_id": "INV-000152",
+      "used_minutes": 945,
+      "utilization": 0.196875
+    },
+    {
+      "available_minutes": 4500,
+      "invigilator_id": "INV-000153",
+      "used_minutes": 998,
+      "utilization": 0.22177777777777777
+    },
+    {
+      "available_minutes": 4200,
+      "invigilator_id": "INV-000154",
+      "used_minutes": 765,
+      "utilization": 0.18214285714285713
+    },
+    {
+      "available_minutes": 2400,
+      "invigilator_id": "INV-000155",
+      "used_minutes": 600,
+      "utilization": 0.25
+    },
+    {
+      "available_minutes": 3000,
+      "invigilator_id": "INV-000156",
+      "used_minutes": 735,
+      "utilization": 0.245
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000157",
+      "used_minutes": 720,
+      "utilization": 0.18461538461538463
+    },
+    {
+      "available_minutes": 5400,
+      "invigilator_id": "INV-000158",
+      "used_minutes": 998,
+      "utilization": 0.18481481481481482
+    },
+    {
+      "available_minutes": 3600,
+      "invigilator_id": "INV-000159",
+      "used_minutes": 1013,
+      "utilization": 0.2813888888888889
+    },
+    {
+      "available_minutes": 4200,
+      "invigilator_id": "INV-000160",
+      "used_minutes": 1261,
+      "utilization": 0.30023809523809525
+    },
+    {
+      "available_minutes": 3600,
+      "invigilator_id": "INV-000161",
+      "used_minutes": 600,
+      "utilization": 0.16666666666666666
+    },
+    {
+      "available_minutes": 5100,
+      "invigilator_id": "INV-000162",
+      "used_minutes": 1013,
+      "utilization": 0.19862745098039217
+    },
+    {
+      "available_minutes": 4200,
+      "invigilator_id": "INV-000163",
+      "used_minutes": 990,
+      "utilization": 0.2357142857142857
+    },
+    {
+      "available_minutes": 4200,
+      "invigilator_id": "INV-000164",
+      "used_minutes": 990,
+      "utilization": 0.2357142857142857
+    },
+    {
+      "available_minutes": 4200,
+      "invigilator_id": "INV-000165",
+      "used_minutes": 810,
+      "utilization": 0.19285714285714287
+    },
+    {
+      "available_minutes": 3600,
+      "invigilator_id": "INV-000166",
+      "used_minutes": 1043,
+      "utilization": 0.2897222222222222
+    },
+    {
+      "available_minutes": 4800,
+      "invigilator_id": "INV-000167",
+      "used_minutes": 1035,
+      "utilization": 0.215625
+    },
+    {
+      "available_minutes": 3600,
+      "invigilator_id": "INV-000168",
+      "used_minutes": 773,
+      "utilization": 0.21472222222222223
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000169",
+      "used_minutes": 953,
+      "utilization": 0.24435897435897436
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000170",
+      "used_minutes": 720,
+      "utilization": 0.18461538461538463
+    },
+    {
+      "available_minutes": 4800,
+      "invigilator_id": "INV-000171",
+      "used_minutes": 923,
+      "utilization": 0.19229166666666667
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000172",
+      "used_minutes": 810,
+      "utilization": 0.2076923076923077
+    },
+    {
+      "available_minutes": 2400,
+      "invigilator_id": "INV-000173",
+      "used_minutes": 555,
+      "utilization": 0.23125
+    },
+    {
+      "available_minutes": 4800,
+      "invigilator_id": "INV-000174",
+      "used_minutes": 923,
+      "utilization": 0.19229166666666667
+    },
+    {
+      "available_minutes": 4800,
+      "invigilator_id": "INV-000175",
+      "used_minutes": 1111,
+      "utilization": 0.23145833333333332
+    },
+    {
+      "available_minutes": 4500,
+      "invigilator_id": "INV-000176",
+      "used_minutes": 1073,
+      "utilization": 0.23844444444444443
+    },
+    {
+      "available_minutes": 4200,
+      "invigilator_id": "INV-000177",
+      "used_minutes": 968,
+      "utilization": 0.23047619047619047
+    },
+    {
+      "available_minutes": 3000,
+      "invigilator_id": "INV-000178",
+      "used_minutes": 548,
+      "utilization": 0.18266666666666667
+    },
+    {
+      "available_minutes": 3300,
+      "invigilator_id": "INV-000179",
+      "used_minutes": 533,
+      "utilization": 0.16151515151515153
+    },
+    {
+      "available_minutes": 3000,
+      "invigilator_id": "INV-000180",
+      "used_minutes": 938,
+      "utilization": 0.31266666666666665
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000181",
+      "used_minutes": 923,
+      "utilization": 0.23666666666666666
+    },
+    {
+      "available_minutes": 3600,
+      "invigilator_id": "INV-000182",
+      "used_minutes": 945,
+      "utilization": 0.2625
+    },
+    {
+      "available_minutes": 3300,
+      "invigilator_id": "INV-000183",
+      "used_minutes": 555,
+      "utilization": 0.16818181818181818
+    },
+    {
+      "available_minutes": 4200,
+      "invigilator_id": "INV-000184",
+      "used_minutes": 945,
+      "utilization": 0.225
+    },
+    {
+      "available_minutes": 2400,
+      "invigilator_id": "INV-000185",
+      "used_minutes": 360,
+      "utilization": 0.15
+    },
+    {
+      "available_minutes": 4800,
+      "invigilator_id": "INV-000186",
+      "used_minutes": 1125,
+      "utilization": 0.234375
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000187",
+      "used_minutes": 765,
+      "utilization": 0.19615384615384615
+    },
+    {
+      "available_minutes": 4500,
+      "invigilator_id": "INV-000188",
+      "used_minutes": 720,
+      "utilization": 0.16
+    },
+    {
+      "available_minutes": 3300,
+      "invigilator_id": "INV-000189",
+      "used_minutes": 593,
+      "utilization": 0.1796969696969697
+    },
+    {
+      "available_minutes": 3300,
+      "invigilator_id": "INV-000190",
+      "used_minutes": 1043,
+      "utilization": 0.31606060606060604
+    },
+    {
+      "available_minutes": 2700,
+      "invigilator_id": "INV-000191",
+      "used_minutes": 720,
+      "utilization": 0.26666666666666666
+    },
+    {
+      "available_minutes": 3000,
+      "invigilator_id": "INV-000192",
+      "used_minutes": 405,
+      "utilization": 0.135
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000193",
+      "used_minutes": 960,
+      "utilization": 0.24615384615384617
+    },
+    {
+      "available_minutes": 3300,
+      "invigilator_id": "INV-000194",
+      "used_minutes": 750,
+      "utilization": 0.22727272727272727
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000195",
+      "used_minutes": 825,
+      "utilization": 0.21153846153846154
+    },
+    {
+      "available_minutes": 4500,
+      "invigilator_id": "INV-000196",
+      "used_minutes": 930,
+      "utilization": 0.20666666666666667
+    },
+    {
+      "available_minutes": 3600,
+      "invigilator_id": "INV-000197",
+      "used_minutes": 976,
+      "utilization": 0.27111111111111114
+    },
+    {
+      "available_minutes": 3300,
+      "invigilator_id": "INV-000198",
+      "used_minutes": 939,
+      "utilization": 0.28454545454545455
+    },
+    {
+      "available_minutes": 3300,
+      "invigilator_id": "INV-000199",
+      "used_minutes": 518,
+      "utilization": 0.15696969696969698
+    },
+    {
+      "available_minutes": 3600,
+      "invigilator_id": "INV-000200",
+      "used_minutes": 706,
+      "utilization": 0.19611111111111112
+    }
+  ],
+  "room_time": {
+    "available_minutes": 568800,
+    "used_minutes": 57892,
+    "utilization": 0.10177918424753868
+  },
+  "rooms": [
+    {
+      "allocated_seat_minutes": 39928,
+      "available_minutes": 6000,
+      "available_seat_minutes": 966000,
+      "room_id": "ROOM-000001",
+      "time_utilization": 0.04133333333333333,
+      "used_minutes": 248,
+      "used_student_seat_minutes": 24800
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 6000,
+      "available_seat_minutes": 6000,
+      "room_id": "ROOM-000002",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 180000,
+      "available_minutes": 6000,
+      "available_seat_minutes": 600000,
+      "room_id": "ROOM-000003",
+      "time_utilization": 0.3,
+      "used_minutes": 1800,
+      "used_student_seat_minutes": 179190
+    },
+    {
+      "allocated_seat_minutes": 152280,
+      "available_minutes": 6000,
+      "available_seat_minutes": 846000,
+      "room_id": "ROOM-000004",
+      "time_utilization": 0.18,
+      "used_minutes": 1080,
+      "used_student_seat_minutes": 108540
+    },
+    {
+      "allocated_seat_minutes": 167300,
+      "available_minutes": 6000,
+      "available_seat_minutes": 570000,
+      "room_id": "ROOM-000005",
+      "time_utilization": 0.2788333333333333,
+      "used_minutes": 1673,
+      "used_student_seat_minutes": 165680
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5400,
+      "available_seat_minutes": 270000,
+      "room_id": "ROOM-000006",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 1176000,
+      "room_id": "ROOM-000007",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 153000,
+      "available_minutes": 5880,
+      "available_seat_minutes": 558000,
+      "room_id": "ROOM-000008",
+      "time_utilization": 0.2602040816326531,
+      "used_minutes": 1530,
+      "used_student_seat_minutes": 152730
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 294000,
+      "room_id": "ROOM-000009",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 150900,
+      "available_minutes": 5400,
+      "available_seat_minutes": 540000,
+      "room_id": "ROOM-000010",
+      "time_utilization": 0.27944444444444444,
+      "used_minutes": 1509,
+      "used_student_seat_minutes": 149685
+    },
+    {
+      "allocated_seat_minutes": 148500,
+      "available_minutes": 5880,
+      "available_seat_minutes": 588000,
+      "room_id": "ROOM-000011",
+      "time_utilization": 0.25255102040816324,
+      "used_minutes": 1485,
+      "used_student_seat_minutes": 147060
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5400,
+      "available_seat_minutes": 1080000,
+      "room_id": "ROOM-000012",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 1176000,
+      "room_id": "ROOM-000013",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 107300,
+      "available_minutes": 5880,
+      "available_seat_minutes": 588000,
+      "room_id": "ROOM-000014",
+      "time_utilization": 0.18248299319727893,
+      "used_minutes": 1073,
+      "used_student_seat_minutes": 106220
+    },
+    {
+      "allocated_seat_minutes": 178200,
+      "available_minutes": 5400,
+      "available_seat_minutes": 618000,
+      "room_id": "ROOM-000015",
+      "time_utilization": 0.275,
+      "used_minutes": 1485,
+      "used_student_seat_minutes": 150795
+    },
+    {
+      "allocated_seat_minutes": 159680,
+      "available_minutes": 5400,
+      "available_seat_minutes": 864000,
+      "room_id": "ROOM-000016",
+      "time_utilization": 0.18481481481481482,
+      "used_minutes": 998,
+      "used_student_seat_minutes": 103580
+    },
+    {
+      "allocated_seat_minutes": 175200,
+      "available_minutes": 5880,
+      "available_seat_minutes": 940800,
+      "room_id": "ROOM-000017",
+      "time_utilization": 0.18622448979591838,
+      "used_minutes": 1095,
+      "used_student_seat_minutes": 109770
+    },
+    {
+      "allocated_seat_minutes": 180000,
+      "available_minutes": 5880,
+      "available_seat_minutes": 940800,
+      "room_id": "ROOM-000018",
+      "time_utilization": 0.1913265306122449,
+      "used_minutes": 1125,
+      "used_student_seat_minutes": 113040
+    },
+    {
+      "allocated_seat_minutes": 168160,
+      "available_minutes": 5880,
+      "available_seat_minutes": 940800,
+      "room_id": "ROOM-000019",
+      "time_utilization": 0.17874149659863944,
+      "used_minutes": 1051,
+      "used_student_seat_minutes": 106792
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 294000,
+      "room_id": "ROOM-000020",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 220960,
+      "available_minutes": 5880,
+      "available_seat_minutes": 940800,
+      "room_id": "ROOM-000021",
+      "time_utilization": 0.2348639455782313,
+      "used_minutes": 1381,
+      "used_student_seat_minutes": 139604
+    },
+    {
+      "allocated_seat_minutes": 180000,
+      "available_minutes": 5880,
+      "available_seat_minutes": 910800,
+      "room_id": "ROOM-000022",
+      "time_utilization": 0.1913265306122449,
+      "used_minutes": 1125,
+      "used_student_seat_minutes": 115200
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 294000,
+      "room_id": "ROOM-000023",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 151500,
+      "available_minutes": 5880,
+      "available_seat_minutes": 588000,
+      "room_id": "ROOM-000024",
+      "time_utilization": 0.2576530612244898,
+      "used_minutes": 1515,
+      "used_student_seat_minutes": 146625
+    },
+    {
+      "allocated_seat_minutes": 141800,
+      "available_minutes": 5400,
+      "available_seat_minutes": 540000,
+      "room_id": "ROOM-000025",
+      "time_utilization": 0.2625925925925926,
+      "used_minutes": 1418,
+      "used_student_seat_minutes": 141260
+    },
+    {
+      "allocated_seat_minutes": 172800,
+      "available_minutes": 5880,
+      "available_seat_minutes": 705600,
+      "room_id": "ROOM-000026",
+      "time_utilization": 0.24489795918367346,
+      "used_minutes": 1440,
+      "used_student_seat_minutes": 146400
+    },
+    {
+      "allocated_seat_minutes": 172800,
+      "available_minutes": 5880,
+      "available_seat_minutes": 940800,
+      "room_id": "ROOM-000027",
+      "time_utilization": 0.1836734693877551,
+      "used_minutes": 1080,
+      "used_student_seat_minutes": 108180
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 294000,
+      "room_id": "ROOM-000028",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5400,
+      "available_seat_minutes": 1056000,
+      "room_id": "ROOM-000029",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 294000,
+      "room_id": "ROOM-000030",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 174080,
+      "available_minutes": 5400,
+      "available_seat_minutes": 864000,
+      "room_id": "ROOM-000031",
+      "time_utilization": 0.20148148148148148,
+      "used_minutes": 1088,
+      "used_student_seat_minutes": 109925
+    },
+    {
+      "allocated_seat_minutes": 144120,
+      "available_minutes": 5880,
+      "available_seat_minutes": 705600,
+      "room_id": "ROOM-000032",
+      "time_utilization": 0.2042517006802721,
+      "used_minutes": 1201,
+      "used_student_seat_minutes": 123250
+    },
+    {
+      "allocated_seat_minutes": 172800,
+      "available_minutes": 5880,
+      "available_seat_minutes": 940800,
+      "room_id": "ROOM-000033",
+      "time_utilization": 0.1836734693877551,
+      "used_minutes": 1080,
+      "used_student_seat_minutes": 108180
+    },
+    {
+      "allocated_seat_minutes": 180000,
+      "available_minutes": 5400,
+      "available_seat_minutes": 648000,
+      "room_id": "ROOM-000034",
+      "time_utilization": 0.2777777777777778,
+      "used_minutes": 1500,
+      "used_student_seat_minutes": 152700
+    },
+    {
+      "allocated_seat_minutes": 139500,
+      "available_minutes": 5880,
+      "available_seat_minutes": 588000,
+      "room_id": "ROOM-000035",
+      "time_utilization": 0.2372448979591837,
+      "used_minutes": 1395,
+      "used_student_seat_minutes": 139500
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 1147200,
+      "room_id": "ROOM-000036",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 153000,
+      "available_minutes": 5880,
+      "available_seat_minutes": 705600,
+      "room_id": "ROOM-000037",
+      "time_utilization": 0.21683673469387754,
+      "used_minutes": 1275,
+      "used_student_seat_minutes": 129525
+    },
+    {
+      "allocated_seat_minutes": 187200,
+      "available_minutes": 5880,
+      "available_seat_minutes": 940800,
+      "room_id": "ROOM-000038",
+      "time_utilization": 0.1989795918367347,
+      "used_minutes": 1170,
+      "used_student_seat_minutes": 114840
+    },
+    {
+      "allocated_seat_minutes": 73280,
+      "available_minutes": 5880,
+      "available_seat_minutes": 940800,
+      "room_id": "ROOM-000039",
+      "time_utilization": 0.07789115646258503,
+      "used_minutes": 458,
+      "used_student_seat_minutes": 42830
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 294000,
+      "room_id": "ROOM-000040",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5400,
+      "available_seat_minutes": 1080000,
+      "room_id": "ROOM-000041",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5400,
+      "available_seat_minutes": 1080000,
+      "room_id": "ROOM-000042",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 264000,
+      "room_id": "ROOM-000043",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 294000,
+      "room_id": "ROOM-000044",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 294000,
+      "room_id": "ROOM-000045",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 115200,
+      "available_minutes": 5400,
+      "available_seat_minutes": 864000,
+      "room_id": "ROOM-000046",
+      "time_utilization": 0.13333333333333333,
+      "used_minutes": 720,
+      "used_student_seat_minutes": 72675
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 294000,
+      "room_id": "ROOM-000047",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 940800,
+      "room_id": "ROOM-000048",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 110760,
+      "available_minutes": 5880,
+      "available_seat_minutes": 705600,
+      "room_id": "ROOM-000049",
+      "time_utilization": 0.15697278911564627,
+      "used_minutes": 923,
+      "used_student_seat_minutes": 92840
+    },
+    {
+      "allocated_seat_minutes": 153960,
+      "available_minutes": 5880,
+      "available_seat_minutes": 675600,
+      "room_id": "ROOM-000050",
+      "time_utilization": 0.21819727891156462,
+      "used_minutes": 1283,
+      "used_student_seat_minutes": 129425
+    },
+    {
+      "allocated_seat_minutes": 143160,
+      "available_minutes": 5880,
+      "available_seat_minutes": 705600,
+      "room_id": "ROOM-000051",
+      "time_utilization": 0.20289115646258504,
+      "used_minutes": 1193,
+      "used_student_seat_minutes": 120875
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 1176000,
+      "room_id": "ROOM-000052",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 294000,
+      "room_id": "ROOM-000053",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 130500,
+      "available_minutes": 5880,
+      "available_seat_minutes": 588000,
+      "room_id": "ROOM-000054",
+      "time_utilization": 0.22193877551020408,
+      "used_minutes": 1305,
+      "used_student_seat_minutes": 126450
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5400,
+      "available_seat_minutes": 270000,
+      "room_id": "ROOM-000055",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 88800,
+      "available_minutes": 5880,
+      "available_seat_minutes": 940800,
+      "room_id": "ROOM-000056",
+      "time_utilization": 0.09438775510204081,
+      "used_minutes": 555,
+      "used_student_seat_minutes": 55500
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 912000,
+      "room_id": "ROOM-000057",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 141000,
+      "available_minutes": 5880,
+      "available_seat_minutes": 588000,
+      "room_id": "ROOM-000058",
+      "time_utilization": 0.23979591836734693,
+      "used_minutes": 1410,
+      "used_student_seat_minutes": 139650
+    },
+    {
+      "allocated_seat_minutes": 103500,
+      "available_minutes": 5400,
+      "available_seat_minutes": 540000,
+      "room_id": "ROOM-000059",
+      "time_utilization": 0.19166666666666668,
+      "used_minutes": 1035,
+      "used_student_seat_minutes": 103500
+    },
+    {
+      "allocated_seat_minutes": 30080,
+      "available_minutes": 5400,
+      "available_seat_minutes": 864000,
+      "room_id": "ROOM-000060",
+      "time_utilization": 0.03481481481481481,
+      "used_minutes": 188,
+      "used_student_seat_minutes": 18800
+    },
+    {
+      "allocated_seat_minutes": 153000,
+      "available_minutes": 5880,
+      "available_seat_minutes": 588000,
+      "room_id": "ROOM-000061",
+      "time_utilization": 0.2602040816326531,
+      "used_minutes": 1530,
+      "used_student_seat_minutes": 150930
+    },
+    {
+      "allocated_seat_minutes": 90000,
+      "available_minutes": 5400,
+      "available_seat_minutes": 540000,
+      "room_id": "ROOM-000062",
+      "time_utilization": 0.16666666666666666,
+      "used_minutes": 900,
+      "used_student_seat_minutes": 89460
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 1176000,
+      "room_id": "ROOM-000063",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 910800,
+      "room_id": "ROOM-000064",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 940800,
+      "room_id": "ROOM-000065",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 156600,
+      "available_minutes": 5400,
+      "available_seat_minutes": 648000,
+      "room_id": "ROOM-000066",
+      "time_utilization": 0.24166666666666667,
+      "used_minutes": 1305,
+      "used_student_seat_minutes": 135900
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 1176000,
+      "room_id": "ROOM-000067",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5400,
+      "available_seat_minutes": 1080000,
+      "room_id": "ROOM-000068",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 136800,
+      "available_minutes": 5880,
+      "available_seat_minutes": 705600,
+      "room_id": "ROOM-000069",
+      "time_utilization": 0.19387755102040816,
+      "used_minutes": 1140,
+      "used_student_seat_minutes": 114675
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 940800,
+      "room_id": "ROOM-000070",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 1146000,
+      "room_id": "ROOM-000071",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5400,
+      "available_seat_minutes": 1080000,
+      "room_id": "ROOM-000072",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5400,
+      "available_seat_minutes": 864000,
+      "room_id": "ROOM-000073",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 940800,
+      "room_id": "ROOM-000074",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5400,
+      "available_seat_minutes": 1080000,
+      "room_id": "ROOM-000075",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 294000,
+      "room_id": "ROOM-000076",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 1176000,
+      "room_id": "ROOM-000077",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 152160,
+      "available_minutes": 5880,
+      "available_seat_minutes": 676800,
+      "room_id": "ROOM-000078",
+      "time_utilization": 0.21564625850340136,
+      "used_minutes": 1268,
+      "used_student_seat_minutes": 127552
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5400,
+      "available_seat_minutes": 1080000,
+      "room_id": "ROOM-000079",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 294000,
+      "room_id": "ROOM-000080",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 940800,
+      "room_id": "ROOM-000081",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 108960,
+      "available_minutes": 5400,
+      "available_seat_minutes": 648000,
+      "room_id": "ROOM-000082",
+      "time_utilization": 0.16814814814814816,
+      "used_minutes": 908,
+      "used_student_seat_minutes": 90800
+    },
+    {
+      "allocated_seat_minutes": 28800,
+      "available_minutes": 5880,
+      "available_seat_minutes": 940800,
+      "room_id": "ROOM-000083",
+      "time_utilization": 0.030612244897959183,
+      "used_minutes": 180,
+      "used_student_seat_minutes": 18000
+    },
+    {
+      "allocated_seat_minutes": 157500,
+      "available_minutes": 5400,
+      "available_seat_minutes": 540000,
+      "room_id": "ROOM-000084",
+      "time_utilization": 0.2916666666666667,
+      "used_minutes": 1575,
+      "used_student_seat_minutes": 154725
+    },
+    {
+      "allocated_seat_minutes": 144800,
+      "available_minutes": 5880,
+      "available_seat_minutes": 559200,
+      "room_id": "ROOM-000085",
+      "time_utilization": 0.24625850340136055,
+      "used_minutes": 1448,
+      "used_student_seat_minutes": 142460
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 294000,
+      "room_id": "ROOM-000086",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 28800,
+      "available_minutes": 5880,
+      "available_seat_minutes": 940800,
+      "room_id": "ROOM-000087",
+      "time_utilization": 0.030612244897959183,
+      "used_minutes": 180,
+      "used_student_seat_minutes": 18000
+    },
+    {
+      "allocated_seat_minutes": 115440,
+      "available_minutes": 5400,
+      "available_seat_minutes": 648000,
+      "room_id": "ROOM-000088",
+      "time_utilization": 0.17814814814814814,
+      "used_minutes": 962,
+      "used_student_seat_minutes": 96765
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 294000,
+      "room_id": "ROOM-000089",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 1176000,
+      "room_id": "ROOM-000090",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5400,
+      "available_seat_minutes": 270000,
+      "room_id": "ROOM-000091",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 1147200,
+      "room_id": "ROOM-000092",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 121500,
+      "available_minutes": 5400,
+      "available_seat_minutes": 540000,
+      "room_id": "ROOM-000093",
+      "time_utilization": 0.225,
+      "used_minutes": 1215,
+      "used_student_seat_minutes": 121500
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 294000,
+      "room_id": "ROOM-000094",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 940800,
+      "room_id": "ROOM-000095",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 126000,
+      "available_minutes": 5400,
+      "available_seat_minutes": 648000,
+      "room_id": "ROOM-000096",
+      "time_utilization": 0.19444444444444445,
+      "used_minutes": 1050,
+      "used_student_seat_minutes": 105750
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 1176000,
+      "room_id": "ROOM-000097",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 141800,
+      "available_minutes": 5880,
+      "available_seat_minutes": 588000,
+      "room_id": "ROOM-000098",
+      "time_utilization": 0.241156462585034,
+      "used_minutes": 1418,
+      "used_student_seat_minutes": 140315
+    },
+    {
+      "allocated_seat_minutes": 92300,
+      "available_minutes": 5400,
+      "available_seat_minutes": 510000,
+      "room_id": "ROOM-000099",
+      "time_utilization": 0.17092592592592593,
+      "used_minutes": 923,
+      "used_student_seat_minutes": 90718
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 0,
+      "available_seat_minutes": 0,
+      "room_id": "ROOM-000100",
+      "time_utilization": null,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    }
+  ],
+  "run_id": "RUN-000002",
+  "scheduled": 298,
+  "scheduling_rate": 0.9966555183946488,
+  "seat_time": {
+    "allocated_seat_minutes": 6995708,
+    "available_seat_minutes": 71998800,
+    "occupied_room_fill": 0.8281028882280392,
+    "used_student_seat_minutes": 5793166,
+    "utilization": 0.08046197992188758
+  },
+  "source_counts": {
+    "Accommodation": 362,
+    "Course": 300,
+    "Enrollment": 30183,
+    "Exam": 300,
+    "Invigilator": 200,
+    "Room": 100,
+    "Student": 5000
+  },
+  "timezone": "Asia/Kolkata",
+  "unassigned": 1,
+  "unassigned_reasons": {
+    "NO_COMPATIBLE_ROOM": 1
+  }
+}

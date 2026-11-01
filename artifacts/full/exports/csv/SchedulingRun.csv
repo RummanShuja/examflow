@@ -1,0 +1,3 @@
+run_id,algorithm,status,started_at,completed_at,config_json
+RUN-000001,degree-greedy-v1,COMPLETED,2026-11-01T12:00:00+05:30,2026-11-01T12:01:00+05:30,"{""candidate_starts_local"":[""08:00"",""10:30"",""13:00"",""15:30""],""ratio"":40,""room_policy"":""single""}"
+RUN-000002,degree-greedy-v1,COMPLETED,2026-11-01T12:01:00+05:30,2026-11-01T12:02:00+05:30,"{""candidate_starts_local"":[""08:00"",""10:30"",""13:00"",""15:30""],""ratio"":40,""room_policy"":""single""}"

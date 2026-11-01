@@ -1,0 +1,212 @@
+[
+  {
+    "accommodation_id": "ACC-000001",
+    "effective_from": "2026-10-01T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "exam_id": null,
+    "extra_percent": 50,
+    "kind": "EXTRA_TIME",
+    "status": "APPROVED",
+    "student_id": "STU-000001"
+  },
+  {
+    "accommodation_id": "ACC-000002",
+    "effective_from": "2026-10-01T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "exam_id": null,
+    "extra_percent": 0,
+    "kind": "ACCESSIBLE_ROOM",
+    "status": "APPROVED",
+    "student_id": "STU-000001"
+  },
+  {
+    "accommodation_id": "ACC-000003",
+    "effective_from": "2026-10-01T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "exam_id": null,
+    "extra_percent": 25,
+    "kind": "EXTRA_TIME",
+    "status": "APPROVED",
+    "student_id": "STU-000052"
+  },
+  {
+    "accommodation_id": "ACC-000004",
+    "effective_from": "2026-10-01T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "exam_id": null,
+    "extra_percent": 0,
+    "kind": "ACCESSIBLE_ROOM",
+    "status": "APPROVED",
+    "student_id": "STU-000052"
+  },
+  {
+    "accommodation_id": "ACC-000005",
+    "effective_from": "2026-10-01T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "exam_id": null,
+    "extra_percent": 25,
+    "kind": "EXTRA_TIME",
+    "status": "APPROVED",
+    "student_id": "STU-000067"
+  },
+  {
+    "accommodation_id": "ACC-000006",
+    "effective_from": "2026-10-01T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "exam_id": null,
+    "extra_percent": 0,
+    "kind": "ACCESSIBLE_ROOM",
+    "status": "APPROVED",
+    "student_id": "STU-000067"
+  },
+  {
+    "accommodation_id": "ACC-000007",
+    "effective_from": "2026-10-01T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "exam_id": null,
+    "extra_percent": 50,
+    "kind": "EXTRA_TIME",
+    "status": "REJECTED",
+    "student_id": "STU-000075"
+  },
+  {
+    "accommodation_id": "ACC-000008",
+    "effective_from": "2026-10-01T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "exam_id": null,
+    "extra_percent": 50,
+    "kind": "EXTRA_TIME",
+    "status": "PENDING",
+    "student_id": "STU-000083"
+  },
+  {
+    "accommodation_id": "ACC-000009",
+    "effective_from": "2026-10-01T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "exam_id": null,
+    "extra_percent": 50,
+    "kind": "EXTRA_TIME",
+    "status": "APPROVED",
+    "student_id": "STU-000088"
+  },
+  {
+    "accommodation_id": "ACC-000010",
+    "effective_from": "2026-10-01T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "exam_id": "EXAM-2026-000001",
+    "extra_percent": 50,
+    "kind": "EXTRA_TIME",
+    "status": "APPROVED",
+    "student_id": "STU-000096"
+  },
+  {
+    "accommodation_id": "ACC-000011",
+    "effective_from": "2026-10-01T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "exam_id": "EXAM-2026-000001",
+    "extra_percent": 0,
+    "kind": "ACCESSIBLE_ROOM",
+    "status": "APPROVED",
+    "student_id": "STU-000096"
+  },
+  {
+    "accommodation_id": "ACC-000012",
+    "effective_from": "2026-10-01T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "exam_id": null,
+    "extra_percent": 50,
+    "kind": "EXTRA_TIME",
+    "status": "APPROVED",
+    "student_id": "STU-000109"
+  },
+  {
+    "accommodation_id": "ACC-000013",
+    "effective_from": "2026-10-01T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "exam_id": null,
+    "extra_percent": 0,
+    "kind": "ACCESSIBLE_ROOM",
+    "status": "APPROVED",
+    "student_id": "STU-000109"
+  },
+  {
+    "accommodation_id": "ACC-000014",
+    "effective_from": "2026-10-01T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "exam_id": null,
+    "extra_percent": 25,
+    "kind": "EXTRA_TIME",
+    "status": "APPROVED",
+    "student_id": "STU-000113"
+  },
+  {
+    "accommodation_id": "ACC-000015",
+    "effective_from": "2026-10-01T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "exam_id": null,
+    "extra_percent": 50,
+    "kind": "EXTRA_TIME",
+    "status": "APPROVED",
+    "student_id": "STU-000123"
+  },
+  {
+    "accommodation_id": "ACC-000016",
+    "effective_from": "2026-10-01T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "exam_id": null,
+    "extra_percent": 50,
+    "kind": "EXTRA_TIME",
+    "status": "APPROVED",
+    "student_id": "STU-000143"
+  },
+  {
+    "accommodation_id": "ACC-000017",
+    "effective_from": "2026-10-01T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "exam_id": null,
+    "extra_percent": 0,
+    "kind": "ACCESSIBLE_ROOM",
+    "status": "APPROVED",
+    "student_id": "STU-000143"
+  },
+  {
+    "accommodation_id": "ACC-000018",
+    "effective_from": "2026-10-01T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "exam_id": null,
+    "extra_percent": 50,
+    "kind": "EXTRA_TIME",
+    "status": "APPROVED",
+    "student_id": "STU-000155"
+  },
+  {
+    "accommodation_id": "ACC-000019",
+    "effective_from": "2026-10-01T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "exam_id": null,
+    "extra_percent": 25,
+    "kind": "EXTRA_TIME",
+    "status": "APPROVED",
+    "student_id": "STU-000182"
+  },
+  {
+    "accommodation_id": "ACC-000020",
+    "effective_from": "2026-10-01T00:00:00+05:30",
+    "effective_to": "2026-11-28T00:00:00+05:30",
+    "exam_id": null,
+    "extra_percent": 50,
+    "kind": "EXTRA_TIME",
+    "status": "PENDING",
+    "student_id": "STU-000211"
+  },
+  {
+    "accommodation_id": "ACC-000021",
+    "effective_from": "2026-10-01T00:00:00+05:30",
+    "effective_to": "2026-11-15T00:00:00+05:30",
+    "exam_id": null,
+    "extra_percent": 25,
+    "kind": "EXTRA_TIME",
+    "status": "APPROVED",
+    "student_id": "STU-000001"
+  }
+]

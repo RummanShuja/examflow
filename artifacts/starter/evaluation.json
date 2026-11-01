@@ -1,0 +1,309 @@
+{
+  "cases": [
+    {
+      "case_id": "CASE-000001",
+      "detected_rules": [
+        "STUDENT_OVERLAP"
+      ],
+      "expected_rules": [
+        "STUDENT_OVERLAP"
+      ],
+      "passed": true,
+      "violations": [
+        {
+          "detail": "50 learner(s) have overlapping examinations",
+          "exam_ids": [
+            "EXAM-2026-000001",
+            "EXAM-2026-000002"
+          ],
+          "resources": [
+            "STU-000001",
+            "STU-000006",
+            "STU-000011",
+            "STU-000016",
+            "STU-000021"
+          ],
+          "rule": "STUDENT_OVERLAP"
+        }
+      ]
+    },
+    {
+      "case_id": "CASE-000002",
+      "detected_rules": [
+        "ROOM_CAPACITY"
+      ],
+      "expected_rules": [
+        "ROOM_CAPACITY"
+      ],
+      "passed": true,
+      "violations": [
+        {
+          "detail": "Demand 50; minimum effective seats 1",
+          "exam_ids": [
+            "EXAM-2026-000001"
+          ],
+          "resources": [
+            "ROOM-000002"
+          ],
+          "rule": "ROOM_CAPACITY"
+        }
+      ]
+    },
+    {
+      "case_id": "CASE-000003",
+      "detected_rules": [
+        "INVIGILATOR_DOUBLE_BOOKED"
+      ],
+      "expected_rules": [
+        "INVIGILATOR_DOUBLE_BOOKED"
+      ],
+      "passed": true,
+      "violations": [
+        {
+          "detail": "",
+          "exam_ids": [
+            "EXAM-2026-000001",
+            "EXAM-2026-000006"
+          ],
+          "resources": [
+            "INV-000001",
+            "INV-000002"
+          ],
+          "rule": "INVIGILATOR_DOUBLE_BOOKED"
+        }
+      ]
+    },
+    {
+      "case_id": "CASE-000004",
+      "detected_rules": [
+        "ACCOMMODATION_IGNORED"
+      ],
+      "expected_rules": [
+        "ACCOMMODATION_IGNORED"
+      ],
+      "passed": true,
+      "violations": [
+        {
+          "detail": "Actual 150; required 225 minutes",
+          "exam_ids": [
+            "EXAM-2026-000001"
+          ],
+          "resources": [],
+          "rule": "ACCOMMODATION_IGNORED"
+        }
+      ]
+    },
+    {
+      "case_id": "CASE-000005",
+      "detected_rules": [
+        "ROOM_UNAVAILABLE"
+      ],
+      "expected_rules": [
+        "ROOM_UNAVAILABLE"
+      ],
+      "passed": true,
+      "violations": [
+        {
+          "detail": "",
+          "exam_ids": [
+            "EXAM-2026-000001"
+          ],
+          "resources": [
+            "ROOM-000001"
+          ],
+          "rule": "ROOM_UNAVAILABLE"
+        }
+      ]
+    },
+    {
+      "case_id": "CASE-000006",
+      "detected_rules": [],
+      "expected_rules": [],
+      "passed": true,
+      "violations": []
+    },
+    {
+      "case_id": "CASE-000007",
+      "detected_rules": [],
+      "expected_rules": [],
+      "passed": true,
+      "violations": []
+    },
+    {
+      "case_id": "CASE-000008",
+      "detected_rules": [],
+      "expected_rules": [],
+      "passed": true,
+      "violations": []
+    }
+  ],
+  "expected_decisions": [
+    {
+      "actual": [
+        "UNASSIGNED",
+        "NO_COMPATIBLE_ROOM"
+      ],
+      "exam_id": "EXAM-2026-000029",
+      "expected_reason": "NO_COMPATIBLE_ROOM",
+      "expected_status": "UNASSIGNED",
+      "passed": true
+    }
+  ],
+  "micro": {
+    "fn": 0,
+    "fp": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "tn": 139,
+    "tp": 5
+  },
+  "passed": true,
+  "per_rule": {
+    "ACCOMMODATION_EFFECTIVE_INTERVAL": {
+      "fn": 0,
+      "fp": 0,
+      "precision": null,
+      "recall": null,
+      "tn": 8,
+      "tp": 0
+    },
+    "ACCOMMODATION_IGNORED": {
+      "fn": 0,
+      "fp": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "tn": 7,
+      "tp": 1
+    },
+    "DUPLICATE_ASSIGNMENT": {
+      "fn": 0,
+      "fp": 0,
+      "precision": null,
+      "recall": null,
+      "tn": 8,
+      "tp": 0
+    },
+    "DURATION_MISMATCH": {
+      "fn": 0,
+      "fp": 0,
+      "precision": null,
+      "recall": null,
+      "tn": 8,
+      "tp": 0
+    },
+    "EQUIPMENT_MISSING": {
+      "fn": 0,
+      "fp": 0,
+      "precision": null,
+      "recall": null,
+      "tn": 8,
+      "tp": 0
+    },
+    "EXAM_INELIGIBLE": {
+      "fn": 0,
+      "fp": 0,
+      "precision": null,
+      "recall": null,
+      "tn": 8,
+      "tp": 0
+    },
+    "EXAM_WINDOW": {
+      "fn": 0,
+      "fp": 0,
+      "precision": null,
+      "recall": null,
+      "tn": 8,
+      "tp": 0
+    },
+    "FOREIGN_KEY": {
+      "fn": 0,
+      "fp": 0,
+      "precision": null,
+      "recall": null,
+      "tn": 8,
+      "tp": 0
+    },
+    "INSUFFICIENT_INVIGILATORS": {
+      "fn": 0,
+      "fp": 0,
+      "precision": null,
+      "recall": null,
+      "tn": 8,
+      "tp": 0
+    },
+    "INVALID_ASSIGNMENT": {
+      "fn": 0,
+      "fp": 0,
+      "precision": null,
+      "recall": null,
+      "tn": 8,
+      "tp": 0
+    },
+    "INVALID_INTERVAL": {
+      "fn": 0,
+      "fp": 0,
+      "precision": null,
+      "recall": null,
+      "tn": 8,
+      "tp": 0
+    },
+    "INVIGILATOR_DOUBLE_BOOKED": {
+      "fn": 0,
+      "fp": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "tn": 7,
+      "tp": 1
+    },
+    "INVIGILATOR_UNAVAILABLE": {
+      "fn": 0,
+      "fp": 0,
+      "precision": null,
+      "recall": null,
+      "tn": 8,
+      "tp": 0
+    },
+    "OUTCOME_COVERAGE": {
+      "fn": 0,
+      "fp": 0,
+      "precision": null,
+      "recall": null,
+      "tn": 8,
+      "tp": 0
+    },
+    "ROOM_CAPACITY": {
+      "fn": 0,
+      "fp": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "tn": 7,
+      "tp": 1
+    },
+    "ROOM_DOUBLE_BOOKED": {
+      "fn": 0,
+      "fp": 0,
+      "precision": null,
+      "recall": null,
+      "tn": 8,
+      "tp": 0
+    },
+    "ROOM_UNAVAILABLE": {
+      "fn": 0,
+      "fp": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "tn": 7,
+      "tp": 1
+    },
+    "STUDENT_OVERLAP": {
+      "fn": 0,
+      "fp": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "tn": 7,
+      "tp": 1
+    }
+  },
+  "scope": "Eight hand-crafted cases: five anomalies, one clean control, two boundary controls. This is regression coverage, not a population accuracy estimate.",
+  "unit": "(case, rule) binary decisions; duplicate findings of the same rule in one case count once"
+}

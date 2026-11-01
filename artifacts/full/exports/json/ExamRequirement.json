@@ -1,0 +1,2402 @@
+[
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000001",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000002",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000003",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000004",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000005",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000006",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000007",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000008",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000009",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000010",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000011",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000012",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000013",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000014",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000015",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000016",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000017",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000018",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000019",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000020",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 150,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000021",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 150,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000022",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 113,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000023",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000024",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 150,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000025",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000026",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000027",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000028",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000029",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000030",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000031",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000032",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000033",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000034",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000035",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000036",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000037",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000038",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000039",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000040",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 150,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000041",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000042",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 188,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000043",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000044",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 150,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000045",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000046",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000047",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000048",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000049",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000050",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000051",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 150,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000052",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000053",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 113,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000054",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 150,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000055",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000056",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000057",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000058",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000059",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000060",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 150,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000061",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 113,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000062",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 150,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000063",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 113,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000064",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 150,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000065",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000066",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000067",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000068",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000069",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000070",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 113,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000071",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 188,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000072",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 188,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000073",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 150,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000074",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 150,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000075",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000076",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000077",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000078",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000079",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000080",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000081",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000082",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000083",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000084",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000085",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000086",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000087",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000088",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000089",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000090",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000091",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000092",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000093",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000094",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000095",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000096",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000097",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000098",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000099",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000100",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000101",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000102",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000103",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000104",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000105",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000106",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 150,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000107",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 188,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000108",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 150,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000109",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 150,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000110",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000111",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000112",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000113",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000114",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000115",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000116",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000117",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000118",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000119",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000120",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000121",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000122",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000123",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000124",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000125",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000126",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000127",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000128",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000129",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000130",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000131",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000132",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000133",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000134",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000135",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000136",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000137",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000138",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000139",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000140",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000141",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000142",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000143",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000144",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000145",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 188,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000146",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 188,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000147",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 188,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000148",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 113,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000149",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 188,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000150",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 113,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000151",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 150,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000152",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 188,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000153",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 150,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000154",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 188,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000155",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000156",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000157",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000158",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000159",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000160",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000161",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000162",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000163",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000164",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000165",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000166",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000167",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000168",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000169",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000170",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000171",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000172",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000173",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000174",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000175",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000176",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000177",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000178",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000179",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000180",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000181",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000182",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000183",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000184",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000185",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000186",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 150,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000187",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000188",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000189",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 188,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000190",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000191",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000192",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000193",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000194",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000195",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000196",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000197",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000198",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000199",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000200",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000201",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000202",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000203",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000204",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000205",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 188,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000206",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 150,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000207",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 150,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000208",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 188,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000209",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 188,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000210",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000211",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000212",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000213",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000214",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000215",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000216",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000217",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000218",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000219",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000220",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000221",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000222",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000223",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000224",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000225",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000226",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000227",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000228",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000229",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000230",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000231",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000232",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000233",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000234",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000235",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000236",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000237",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000238",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000239",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000240",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000241",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000242",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000243",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000244",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000245",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 188,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000246",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 113,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000247",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 150,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000248",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000249",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 225,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000250",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 135,
+    "enrolled_count": 105,
+    "exam_id": "EXAM-2026-000251",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 113,
+    "enrolled_count": 86,
+    "exam_id": "EXAM-2026-000252",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 109,
+    "exam_id": "EXAM-2026-000253",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 113,
+    "enrolled_count": 105,
+    "exam_id": "EXAM-2026-000254",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 90,
+    "exam_id": "EXAM-2026-000255",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 150,
+    "enrolled_count": 105,
+    "exam_id": "EXAM-2026-000256",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 90,
+    "exam_id": "EXAM-2026-000257",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 85,
+    "exam_id": "EXAM-2026-000258",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 188,
+    "enrolled_count": 109,
+    "exam_id": "EXAM-2026-000259",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 97,
+    "exam_id": "EXAM-2026-000260",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 225,
+    "enrolled_count": 107,
+    "exam_id": "EXAM-2026-000261",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 113,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000262",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 100,
+    "exam_id": "EXAM-2026-000263",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 270,
+    "enrolled_count": 92,
+    "exam_id": "EXAM-2026-000264",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 180,
+    "enrolled_count": 101,
+    "exam_id": "EXAM-2026-000265",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 101,
+    "exam_id": "EXAM-2026-000266",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 105,
+    "exam_id": "EXAM-2026-000267",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 188,
+    "enrolled_count": 104,
+    "exam_id": "EXAM-2026-000268",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 94,
+    "exam_id": "EXAM-2026-000269",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 102,
+    "exam_id": "EXAM-2026-000270",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 94,
+    "exam_id": "EXAM-2026-000271",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 104,
+    "exam_id": "EXAM-2026-000272",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 120,
+    "enrolled_count": 120,
+    "exam_id": "EXAM-2026-000273",
+    "invigilators_required": 3,
+    "max_extra_percent": 0
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 85,
+    "exam_id": "EXAM-2026-000274",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 90,
+    "enrolled_count": 89,
+    "exam_id": "EXAM-2026-000275",
+    "invigilators_required": 3,
+    "max_extra_percent": 0
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 117,
+    "exam_id": "EXAM-2026-000276",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 99,
+    "exam_id": "EXAM-2026-000277",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 115,
+    "exam_id": "EXAM-2026-000278",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 112,
+    "exam_id": "EXAM-2026-000279",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 225,
+    "enrolled_count": 114,
+    "exam_id": "EXAM-2026-000280",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 97,
+    "exam_id": "EXAM-2026-000281",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 98,
+    "exam_id": "EXAM-2026-000282",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 89,
+    "exam_id": "EXAM-2026-000283",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 120,
+    "exam_id": "EXAM-2026-000284",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 135,
+    "enrolled_count": 89,
+    "exam_id": "EXAM-2026-000285",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 188,
+    "enrolled_count": 108,
+    "exam_id": "EXAM-2026-000286",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 121,
+    "exam_id": "EXAM-2026-000287",
+    "invigilators_required": 4,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 180,
+    "enrolled_count": 94,
+    "exam_id": "EXAM-2026-000288",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 103,
+    "exam_id": "EXAM-2026-000289",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 103,
+    "exam_id": "EXAM-2026-000290",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 270,
+    "enrolled_count": 89,
+    "exam_id": "EXAM-2026-000291",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 150,
+    "enrolled_count": 81,
+    "exam_id": "EXAM-2026-000292",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 150,
+    "enrolled_count": 98,
+    "exam_id": "EXAM-2026-000293",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 180,
+    "enrolled_count": 92,
+    "exam_id": "EXAM-2026-000294",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 270,
+    "enrolled_count": 102,
+    "exam_id": "EXAM-2026-000295",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 135,
+    "enrolled_count": 96,
+    "exam_id": "EXAM-2026-000296",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 105,
+    "exam_id": "EXAM-2026-000297",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 135,
+    "enrolled_count": 91,
+    "exam_id": "EXAM-2026-000298",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  },
+  {
+    "accessible_required": 1,
+    "duration_minutes": 225,
+    "enrolled_count": 92,
+    "exam_id": "EXAM-2026-000299",
+    "invigilators_required": 3,
+    "max_extra_percent": 25
+  },
+  {
+    "accessible_required": 0,
+    "duration_minutes": 180,
+    "enrolled_count": 96,
+    "exam_id": "EXAM-2026-000300",
+    "invigilators_required": 3,
+    "max_extra_percent": 50
+  }
+]

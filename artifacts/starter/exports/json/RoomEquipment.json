@@ -1,0 +1,110 @@
+[
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000001"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000001"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000001"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000002"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000002"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000002"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000003"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000003"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000003"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000004"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000004"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000004"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000005"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000005"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000005"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000006"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000006"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000007"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000008"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000008"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000009"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000009"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000009"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000010"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000010"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000011"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000012"
+  }
+]

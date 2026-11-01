@@ -1,0 +1,18 @@
+[
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "name": "Computer laboratory"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "name": "Laboratory benches"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "name": "Projection system"
+  },
+  {
+    "equipment_id": "EQ-SECURE",
+    "name": "Secure specialist terminal"
+  }
+]

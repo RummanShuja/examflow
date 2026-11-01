@@ -1,0 +1,322 @@
+{
+  "accommodations": {
+    "coverage_all_eligible": 0.9239130434782609,
+    "coverage_scheduled": 1.0,
+    "extra_room_minutes": 1749,
+    "extra_staff_minutes": 3498,
+    "fulfilled": 85,
+    "required_scheduled": 85,
+    "required_student_exam_support_records_all": 92
+  },
+  "cancelled": 1,
+  "conflict_graph": {
+    "edges": 150,
+    "max_degree": 25,
+    "vertices": 29
+  },
+  "definitions": {
+    "coverage_all_eligible": "fulfilled approved student-exam support records / required support records for all planned exams",
+    "coverage_scheduled": "fulfilled approved student-exam support records / required support records for scheduled exams",
+    "extra_room_minutes": "sum of whole-exam duration minus base duration; the price of the simple accommodation policy",
+    "invigilator_time": "allocated invigilator-minutes / effective AVAILABLE invigilator-minutes in the horizon",
+    "occupied_room_fill": "enrolled learner-minutes / capacity-minutes of occupied rooms",
+    "room_time": "accepted room-minutes / open, effective, non-closed room-minutes in the full ten-weekday horizon",
+    "scheduling_rate": "scheduled / all PLANNED exams; CANCELLED excluded, honest unassigned included",
+    "seat_time": "enrolled learner-minutes / effective seat-minutes of all usable rooms in the horizon"
+  },
+  "eligible": 29,
+  "horizon": [
+    "2026-11-16T00:00:00+05:30",
+    "2026-11-28T00:00:00+05:30"
+  ],
+  "invigilator_time": {
+    "available_minutes": 153300,
+    "used_minutes": 11058,
+    "utilization": 0.07213307240704502
+  },
+  "invigilators": [
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000001",
+      "used_minutes": 450,
+      "utilization": 0.057692307692307696
+    },
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000002",
+      "used_minutes": 450,
+      "utilization": 0.057692307692307696
+    },
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000003",
+      "used_minutes": 450,
+      "utilization": 0.057692307692307696
+    },
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000004",
+      "used_minutes": 450,
+      "utilization": 0.057692307692307696
+    },
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000005",
+      "used_minutes": 555,
+      "utilization": 0.07115384615384615
+    },
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000006",
+      "used_minutes": 540,
+      "utilization": 0.06923076923076923
+    },
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000007",
+      "used_minutes": 450,
+      "utilization": 0.057692307692307696
+    },
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000008",
+      "used_minutes": 450,
+      "utilization": 0.057692307692307696
+    },
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000009",
+      "used_minutes": 450,
+      "utilization": 0.057692307692307696
+    },
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000010",
+      "used_minutes": 533,
+      "utilization": 0.06833333333333333
+    },
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000011",
+      "used_minutes": 540,
+      "utilization": 0.06923076923076923
+    },
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000012",
+      "used_minutes": 540,
+      "utilization": 0.06923076923076923
+    },
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000013",
+      "used_minutes": 420,
+      "utilization": 0.05384615384615385
+    },
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000014",
+      "used_minutes": 420,
+      "utilization": 0.05384615384615385
+    },
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000015",
+      "used_minutes": 526,
+      "utilization": 0.06743589743589744
+    },
+    {
+      "available_minutes": 7800,
+      "invigilator_id": "INV-000016",
+      "used_minutes": 526,
+      "utilization": 0.06743589743589744
+    },
+    {
+      "available_minutes": 3600,
+      "invigilator_id": "INV-000017",
+      "used_minutes": 225,
+      "utilization": 0.0625
+    },
+    {
+      "available_minutes": 4800,
+      "invigilator_id": "INV-000018",
+      "used_minutes": 405,
+      "utilization": 0.084375
+    },
+    {
+      "available_minutes": 3000,
+      "invigilator_id": "INV-000019",
+      "used_minutes": 518,
+      "utilization": 0.17266666666666666
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000020",
+      "used_minutes": 405,
+      "utilization": 0.10384615384615385
+    },
+    {
+      "available_minutes": 3600,
+      "invigilator_id": "INV-000021",
+      "used_minutes": 540,
+      "utilization": 0.15
+    },
+    {
+      "available_minutes": 3000,
+      "invigilator_id": "INV-000022",
+      "used_minutes": 405,
+      "utilization": 0.135
+    },
+    {
+      "available_minutes": 2700,
+      "invigilator_id": "INV-000023",
+      "used_minutes": 405,
+      "utilization": 0.15
+    },
+    {
+      "available_minutes": 3900,
+      "invigilator_id": "INV-000024",
+      "used_minutes": 405,
+      "utilization": 0.10384615384615385
+    }
+  ],
+  "room_time": {
+    "available_minutes": 64320,
+    "used_minutes": 5529,
+    "utilization": 0.08596082089552239
+  },
+  "rooms": [
+    {
+      "allocated_seat_minutes": 67830,
+      "available_minutes": 6000,
+      "available_seat_minutes": 570000,
+      "room_id": "ROOM-000001",
+      "time_utilization": 0.119,
+      "used_minutes": 714,
+      "used_student_seat_minutes": 35700
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 6000,
+      "available_seat_minutes": 6000,
+      "room_id": "ROOM-000002",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 74250,
+      "available_minutes": 6000,
+      "available_seat_minutes": 300000,
+      "room_id": "ROOM-000003",
+      "time_utilization": 0.2475,
+      "used_minutes": 1485,
+      "used_student_seat_minutes": 74250
+    },
+    {
+      "allocated_seat_minutes": 84375,
+      "available_minutes": 6000,
+      "available_seat_minutes": 450000,
+      "room_id": "ROOM-000004",
+      "time_utilization": 0.1875,
+      "used_minutes": 1125,
+      "used_student_seat_minutes": 57060
+    },
+    {
+      "allocated_seat_minutes": 63000,
+      "available_minutes": 6000,
+      "available_seat_minutes": 270000,
+      "room_id": "ROOM-000005",
+      "time_utilization": 0.21,
+      "used_minutes": 1260,
+      "used_student_seat_minutes": 62460
+    },
+    {
+      "allocated_seat_minutes": 47250,
+      "available_minutes": 5880,
+      "available_seat_minutes": 294000,
+      "room_id": "ROOM-000006",
+      "time_utilization": 0.16071428571428573,
+      "used_minutes": 945,
+      "used_student_seat_minutes": 47250
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 646800,
+      "room_id": "ROOM-000007",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 558000,
+      "room_id": "ROOM-000008",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5400,
+      "available_seat_minutes": 135000,
+      "room_id": "ROOM-000009",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5880,
+      "available_seat_minutes": 588000,
+      "room_id": "ROOM-000010",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 5400,
+      "available_seat_minutes": 540000,
+      "room_id": "ROOM-000011",
+      "time_utilization": 0.0,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    },
+    {
+      "allocated_seat_minutes": 0,
+      "available_minutes": 0,
+      "available_seat_minutes": 0,
+      "room_id": "ROOM-000012",
+      "time_utilization": null,
+      "used_minutes": 0,
+      "used_student_seat_minutes": 0
+    }
+  ],
+  "run_id": "RUN-000002",
+  "scheduled": 28,
+  "scheduling_rate": 0.9655172413793104,
+  "seat_time": {
+    "allocated_seat_minutes": 336705,
+    "available_seat_minutes": 4357800,
+    "occupied_room_fill": 0.8218470174188087,
+    "used_student_seat_minutes": 276720,
+    "utilization": 0.06349993115792373
+  },
+  "source_counts": {
+    "Accommodation": 21,
+    "Course": 30,
+    "Enrollment": 1508,
+    "Exam": 30,
+    "Invigilator": 24,
+    "Room": 12,
+    "Student": 250
+  },
+  "timezone": "Asia/Kolkata",
+  "unassigned": 1,
+  "unassigned_reasons": {
+    "NO_COMPATIBLE_ROOM": 1
+  }
+}

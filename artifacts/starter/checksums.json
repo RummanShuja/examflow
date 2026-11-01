@@ -1,0 +1,94 @@
+{
+  "Accommodation": {
+    "rows": 21,
+    "sha256": "036f16d37b117adf80d8ac641d3471af8df276f5d1aa07072ca7b39ba1219f8d"
+  },
+  "Availability": {
+    "rows": 225,
+    "sha256": "1607565a65dcbd698e6a9b56ac7756d9f6868c3b4faaa8e50cedd2e959e132b7"
+  },
+  "Cohort": {
+    "rows": 5,
+    "sha256": "6871433cc54cf616bff40e699dac7cf83dae93265f6433bc72f09fa3df8c384d"
+  },
+  "Course": {
+    "rows": 30,
+    "sha256": "9c53b0830b1f4fb2b3279760bf85057fee4ed73bd1808324f1339324e291b0b1"
+  },
+  "Dataset": {
+    "rows": 1,
+    "sha256": "6125d8ce79e25c493fd4ca9fc9b9938a165d5295a0b61266b16e60c60d1b6f46"
+  },
+  "DecisionEvent": {
+    "rows": 62,
+    "sha256": "f0f3dc5b55b573c693565ca5457c530e1818ffe42b032649c4cf2a96097cd7c4"
+  },
+  "Enrollment": {
+    "rows": 1508,
+    "sha256": "c16addfef6285c1e8d6d7d9f358bbd531fb231ddeb75b9c237543eb4b10ae9c6"
+  },
+  "Equipment": {
+    "rows": 4,
+    "sha256": "5ec55594ab32d8825de75dc783b8236d20848d3390422a33302f0a95ec89165f"
+  },
+  "Exam": {
+    "rows": 30,
+    "sha256": "2ac38d72a9f77af9225118cfa6f99bf352fb122892f75a2520a2a55c7c33fc97"
+  },
+  "ExamEquipmentRequirement": {
+    "rows": 9,
+    "sha256": "6e38221b44a49a6897008ef7bf3e7a0e00de7767475d1e1b1c9cdd512dd5e6a8"
+  },
+  "ExamOutcome": {
+    "rows": 58,
+    "sha256": "690dda04caf74a3d01daa92dd6131c4db1b9144cf7c41a7ad9d661a78bc2f825"
+  },
+  "ExamRequirement": {
+    "rows": 30,
+    "sha256": "ee0e336211a143581c7e994efffff986d55f999e69b179d9ea894bc0b20e822e"
+  },
+  "Invigilator": {
+    "rows": 24,
+    "sha256": "14f2bd4d072b5dd25f1eff5a5015bf34e7c10674f5857e0f27d76e7fc74c34a6"
+  },
+  "InvigilatorAllocation": {
+    "rows": 112,
+    "sha256": "a17220ac07cb2cca34cf8798e85334a8a593c5400fc669c5df64bc1cf96468c5"
+  },
+  "LifecycleEvent": {
+    "rows": 2101,
+    "sha256": "0823490bf42d8e32d7c24cc7edad74d2709a41dd2c0a55709f0f2f3e3ce96eff"
+  },
+  "Room": {
+    "rows": 12,
+    "sha256": "9b63d29ada0446ddcdddc7b3c745a80ccdef760941b81ea5d8b722c9b500fd02"
+  },
+  "RoomCapacity": {
+    "rows": 24,
+    "sha256": "6e88fa0afea4c4d97cca58300c99b1b04b4b8b92e93ef195108debb6be6d7179"
+  },
+  "RoomClosure": {
+    "rows": 6,
+    "sha256": "48453ff712941e708e8106cb869ab372935f75eb98ba179d7151e8097e261dbb"
+  },
+  "RoomEquipment": {
+    "rows": 27,
+    "sha256": "cfab83c6845cc92c892dc0423d789df67b34170c0d91436dead1a62bdd957a7c"
+  },
+  "RoomOpening": {
+    "rows": 120,
+    "sha256": "8647754da653faa375f65af7ab44e072ac6b5beb4bf5c294eada19d9f5d445e6"
+  },
+  "ScheduleAssignment": {
+    "rows": 56,
+    "sha256": "75f64bf31f806f13b5f467e86b1abded110d48db82db4c42677f61c73d63551e"
+  },
+  "SchedulingRun": {
+    "rows": 2,
+    "sha256": "66ade097522a7b56eaef70ae9eb31d3fb99c8310ff5292ad4aa43ff529804d73"
+  },
+  "Student": {
+    "rows": 250,
+    "sha256": "b4b1aae96e464742345a234ac2f584be17ede3fe97e7f3a30ed40cd1adfd0c25"
+  }
+}

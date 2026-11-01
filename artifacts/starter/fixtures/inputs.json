@@ -1,0 +1,166 @@
+{
+  "schema_version": "1.0",
+  "cases": [
+    {
+      "case_id": "CASE-000001",
+      "assignments": [
+        {
+          "assignment_id": "ASN-EXAM-2026-000001-ROOM-000001",
+          "exam_id": "EXAM-2026-000001",
+          "room_id": "ROOM-000001",
+          "starts_at": "2026-11-16T08:00:00+05:30",
+          "ends_at": "2026-11-16T11:45:00+05:30",
+          "invigilator_ids": [
+            "INV-000001",
+            "INV-000002"
+          ]
+        },
+        {
+          "assignment_id": "ASN-EXAM-2026-000002-ROOM-000004",
+          "exam_id": "EXAM-2026-000002",
+          "room_id": "ROOM-000004",
+          "starts_at": "2026-11-16T08:00:00+05:30",
+          "ends_at": "2026-11-16T11:45:00+05:30",
+          "invigilator_ids": [
+            "INV-000003",
+            "INV-000004"
+          ]
+        }
+      ]
+    },
+    {
+      "case_id": "CASE-000002",
+      "assignments": [
+        {
+          "assignment_id": "ASN-EXAM-2026-000001-ROOM-000002",
+          "exam_id": "EXAM-2026-000001",
+          "room_id": "ROOM-000002",
+          "starts_at": "2026-11-16T08:00:00+05:30",
+          "ends_at": "2026-11-16T11:45:00+05:30",
+          "invigilator_ids": [
+            "INV-000001",
+            "INV-000002"
+          ]
+        }
+      ]
+    },
+    {
+      "case_id": "CASE-000003",
+      "assignments": [
+        {
+          "assignment_id": "ASN-EXAM-2026-000001-ROOM-000001",
+          "exam_id": "EXAM-2026-000001",
+          "room_id": "ROOM-000001",
+          "starts_at": "2026-11-16T08:00:00+05:30",
+          "ends_at": "2026-11-16T11:45:00+05:30",
+          "invigilator_ids": [
+            "INV-000001",
+            "INV-000002"
+          ]
+        },
+        {
+          "assignment_id": "ASN-EXAM-2026-000006-ROOM-000004",
+          "exam_id": "EXAM-2026-000006",
+          "room_id": "ROOM-000004",
+          "starts_at": "2026-11-16T08:00:00+05:30",
+          "ends_at": "2026-11-16T10:30:00+05:30",
+          "invigilator_ids": [
+            "INV-000001",
+            "INV-000002"
+          ]
+        }
+      ]
+    },
+    {
+      "case_id": "CASE-000004",
+      "assignments": [
+        {
+          "assignment_id": "ASN-EXAM-2026-000001-ROOM-000001",
+          "exam_id": "EXAM-2026-000001",
+          "room_id": "ROOM-000001",
+          "starts_at": "2026-11-16T08:00:00+05:30",
+          "ends_at": "2026-11-16T10:30:00+05:30",
+          "invigilator_ids": [
+            "INV-000001",
+            "INV-000002"
+          ]
+        }
+      ]
+    },
+    {
+      "case_id": "CASE-000005",
+      "assignments": [
+        {
+          "assignment_id": "ASN-EXAM-2026-000001-ROOM-000001",
+          "exam_id": "EXAM-2026-000001",
+          "room_id": "ROOM-000001",
+          "starts_at": "2026-11-16T07:00:00+05:30",
+          "ends_at": "2026-11-16T10:45:00+05:30",
+          "invigilator_ids": [
+            "INV-000001",
+            "INV-000002"
+          ]
+        }
+      ]
+    },
+    {
+      "case_id": "CASE-000006",
+      "assignments": [
+        {
+          "assignment_id": "ASN-EXAM-2026-000001-ROOM-000001",
+          "exam_id": "EXAM-2026-000001",
+          "room_id": "ROOM-000001",
+          "starts_at": "2026-11-16T08:00:00+05:30",
+          "ends_at": "2026-11-16T11:45:00+05:30",
+          "invigilator_ids": [
+            "INV-000001",
+            "INV-000002"
+          ]
+        }
+      ]
+    },
+    {
+      "case_id": "CASE-000007",
+      "assignments": [
+        {
+          "assignment_id": "ASN-EXAM-2026-000001-ROOM-000001",
+          "exam_id": "EXAM-2026-000001",
+          "room_id": "ROOM-000001",
+          "starts_at": "2026-11-16T08:00:00+05:30",
+          "ends_at": "2026-11-16T11:45:00+05:30",
+          "invigilator_ids": [
+            "INV-000001",
+            "INV-000002"
+          ]
+        },
+        {
+          "assignment_id": "ASN-EXAM-2026-000002-ROOM-000001",
+          "exam_id": "EXAM-2026-000002",
+          "room_id": "ROOM-000001",
+          "starts_at": "2026-11-16T11:45:00+05:30",
+          "ends_at": "2026-11-16T15:30:00+05:30",
+          "invigilator_ids": [
+            "INV-000001",
+            "INV-000002"
+          ]
+        }
+      ]
+    },
+    {
+      "case_id": "CASE-000008",
+      "assignments": [
+        {
+          "assignment_id": "ASN-EXAM-2026-000001-ROOM-000003",
+          "exam_id": "EXAM-2026-000001",
+          "room_id": "ROOM-000003",
+          "starts_at": "2026-11-16T08:00:00+05:30",
+          "ends_at": "2026-11-16T11:45:00+05:30",
+          "invigilator_ids": [
+            "INV-000001",
+            "INV-000002"
+          ]
+        }
+      ]
+    }
+  ]
+}

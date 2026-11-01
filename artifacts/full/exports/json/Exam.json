@@ -1,0 +1,2702 @@
+[
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000001",
+    "exam_id": "EXAM-2026-000001",
+    "status": "PLANNED",
+    "title": "Core subject 001 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000002",
+    "exam_id": "EXAM-2026-000002",
+    "status": "PLANNED",
+    "title": "Core subject 002 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000003",
+    "exam_id": "EXAM-2026-000003",
+    "status": "PLANNED",
+    "title": "Core subject 003 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000004",
+    "exam_id": "EXAM-2026-000004",
+    "status": "PLANNED",
+    "title": "Core subject 004 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000005",
+    "exam_id": "EXAM-2026-000005",
+    "status": "PLANNED",
+    "title": "Core subject 005 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000006",
+    "exam_id": "EXAM-2026-000006",
+    "status": "PLANNED",
+    "title": "Core subject 006 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000007",
+    "exam_id": "EXAM-2026-000007",
+    "status": "PLANNED",
+    "title": "Core subject 007 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000008",
+    "exam_id": "EXAM-2026-000008",
+    "status": "PLANNED",
+    "title": "Core subject 008 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000009",
+    "exam_id": "EXAM-2026-000009",
+    "status": "PLANNED",
+    "title": "Core subject 009 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000010",
+    "exam_id": "EXAM-2026-000010",
+    "status": "PLANNED",
+    "title": "Core subject 010 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000011",
+    "exam_id": "EXAM-2026-000011",
+    "status": "PLANNED",
+    "title": "Core subject 011 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000012",
+    "exam_id": "EXAM-2026-000012",
+    "status": "PLANNED",
+    "title": "Core subject 012 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000013",
+    "exam_id": "EXAM-2026-000013",
+    "status": "PLANNED",
+    "title": "Core subject 013 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000014",
+    "exam_id": "EXAM-2026-000014",
+    "status": "PLANNED",
+    "title": "Core subject 014 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000015",
+    "exam_id": "EXAM-2026-000015",
+    "status": "PLANNED",
+    "title": "Core subject 015 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000016",
+    "exam_id": "EXAM-2026-000016",
+    "status": "PLANNED",
+    "title": "Core subject 016 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000017",
+    "exam_id": "EXAM-2026-000017",
+    "status": "PLANNED",
+    "title": "Core subject 017 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000018",
+    "exam_id": "EXAM-2026-000018",
+    "status": "PLANNED",
+    "title": "Core subject 018 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000019",
+    "exam_id": "EXAM-2026-000019",
+    "status": "PLANNED",
+    "title": "Core subject 019 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000020",
+    "exam_id": "EXAM-2026-000020",
+    "status": "PLANNED",
+    "title": "Core subject 020 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000021",
+    "exam_id": "EXAM-2026-000021",
+    "status": "PLANNED",
+    "title": "Core subject 021 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000022",
+    "exam_id": "EXAM-2026-000022",
+    "status": "PLANNED",
+    "title": "Core subject 022 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000023",
+    "exam_id": "EXAM-2026-000023",
+    "status": "PLANNED",
+    "title": "Core subject 023 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000024",
+    "exam_id": "EXAM-2026-000024",
+    "status": "PLANNED",
+    "title": "Core subject 024 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000025",
+    "exam_id": "EXAM-2026-000025",
+    "status": "PLANNED",
+    "title": "Core subject 025 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000026",
+    "exam_id": "EXAM-2026-000026",
+    "status": "PLANNED",
+    "title": "Core subject 026 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000027",
+    "exam_id": "EXAM-2026-000027",
+    "status": "PLANNED",
+    "title": "Core subject 027 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000028",
+    "exam_id": "EXAM-2026-000028",
+    "status": "PLANNED",
+    "title": "Core subject 028 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000029",
+    "exam_id": "EXAM-2026-000029",
+    "status": "PLANNED",
+    "title": "Core subject 029 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000030",
+    "exam_id": "EXAM-2026-000030",
+    "status": "PLANNED",
+    "title": "Core subject 030 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000031",
+    "exam_id": "EXAM-2026-000031",
+    "status": "PLANNED",
+    "title": "Core subject 031 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000032",
+    "exam_id": "EXAM-2026-000032",
+    "status": "PLANNED",
+    "title": "Core subject 032 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000033",
+    "exam_id": "EXAM-2026-000033",
+    "status": "PLANNED",
+    "title": "Core subject 033 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000034",
+    "exam_id": "EXAM-2026-000034",
+    "status": "PLANNED",
+    "title": "Core subject 034 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000035",
+    "exam_id": "EXAM-2026-000035",
+    "status": "PLANNED",
+    "title": "Core subject 035 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000036",
+    "exam_id": "EXAM-2026-000036",
+    "status": "PLANNED",
+    "title": "Core subject 036 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000037",
+    "exam_id": "EXAM-2026-000037",
+    "status": "PLANNED",
+    "title": "Core subject 037 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000038",
+    "exam_id": "EXAM-2026-000038",
+    "status": "PLANNED",
+    "title": "Core subject 038 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000039",
+    "exam_id": "EXAM-2026-000039",
+    "status": "PLANNED",
+    "title": "Core subject 039 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000040",
+    "exam_id": "EXAM-2026-000040",
+    "status": "PLANNED",
+    "title": "Core subject 040 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000041",
+    "exam_id": "EXAM-2026-000041",
+    "status": "PLANNED",
+    "title": "Core subject 041 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000042",
+    "exam_id": "EXAM-2026-000042",
+    "status": "PLANNED",
+    "title": "Core subject 042 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000043",
+    "exam_id": "EXAM-2026-000043",
+    "status": "PLANNED",
+    "title": "Core subject 043 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000044",
+    "exam_id": "EXAM-2026-000044",
+    "status": "PLANNED",
+    "title": "Core subject 044 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000045",
+    "exam_id": "EXAM-2026-000045",
+    "status": "PLANNED",
+    "title": "Core subject 045 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000046",
+    "exam_id": "EXAM-2026-000046",
+    "status": "PLANNED",
+    "title": "Core subject 046 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000047",
+    "exam_id": "EXAM-2026-000047",
+    "status": "PLANNED",
+    "title": "Core subject 047 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000048",
+    "exam_id": "EXAM-2026-000048",
+    "status": "PLANNED",
+    "title": "Core subject 048 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000049",
+    "exam_id": "EXAM-2026-000049",
+    "status": "PLANNED",
+    "title": "Core subject 049 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000050",
+    "exam_id": "EXAM-2026-000050",
+    "status": "PLANNED",
+    "title": "Core subject 050 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000051",
+    "exam_id": "EXAM-2026-000051",
+    "status": "PLANNED",
+    "title": "Core subject 051 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000052",
+    "exam_id": "EXAM-2026-000052",
+    "status": "PLANNED",
+    "title": "Core subject 052 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000053",
+    "exam_id": "EXAM-2026-000053",
+    "status": "PLANNED",
+    "title": "Core subject 053 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000054",
+    "exam_id": "EXAM-2026-000054",
+    "status": "PLANNED",
+    "title": "Core subject 054 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000055",
+    "exam_id": "EXAM-2026-000055",
+    "status": "PLANNED",
+    "title": "Core subject 055 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000056",
+    "exam_id": "EXAM-2026-000056",
+    "status": "PLANNED",
+    "title": "Core subject 056 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000057",
+    "exam_id": "EXAM-2026-000057",
+    "status": "PLANNED",
+    "title": "Core subject 057 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000058",
+    "exam_id": "EXAM-2026-000058",
+    "status": "PLANNED",
+    "title": "Core subject 058 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000059",
+    "exam_id": "EXAM-2026-000059",
+    "status": "PLANNED",
+    "title": "Core subject 059 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000060",
+    "exam_id": "EXAM-2026-000060",
+    "status": "PLANNED",
+    "title": "Core subject 060 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000061",
+    "exam_id": "EXAM-2026-000061",
+    "status": "PLANNED",
+    "title": "Core subject 061 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000062",
+    "exam_id": "EXAM-2026-000062",
+    "status": "PLANNED",
+    "title": "Core subject 062 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000063",
+    "exam_id": "EXAM-2026-000063",
+    "status": "PLANNED",
+    "title": "Core subject 063 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000064",
+    "exam_id": "EXAM-2026-000064",
+    "status": "PLANNED",
+    "title": "Core subject 064 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000065",
+    "exam_id": "EXAM-2026-000065",
+    "status": "PLANNED",
+    "title": "Core subject 065 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000066",
+    "exam_id": "EXAM-2026-000066",
+    "status": "PLANNED",
+    "title": "Core subject 066 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000067",
+    "exam_id": "EXAM-2026-000067",
+    "status": "PLANNED",
+    "title": "Core subject 067 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000068",
+    "exam_id": "EXAM-2026-000068",
+    "status": "PLANNED",
+    "title": "Core subject 068 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000069",
+    "exam_id": "EXAM-2026-000069",
+    "status": "PLANNED",
+    "title": "Core subject 069 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000070",
+    "exam_id": "EXAM-2026-000070",
+    "status": "PLANNED",
+    "title": "Core subject 070 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000071",
+    "exam_id": "EXAM-2026-000071",
+    "status": "PLANNED",
+    "title": "Core subject 071 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000072",
+    "exam_id": "EXAM-2026-000072",
+    "status": "PLANNED",
+    "title": "Core subject 072 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000073",
+    "exam_id": "EXAM-2026-000073",
+    "status": "PLANNED",
+    "title": "Core subject 073 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000074",
+    "exam_id": "EXAM-2026-000074",
+    "status": "PLANNED",
+    "title": "Core subject 074 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000075",
+    "exam_id": "EXAM-2026-000075",
+    "status": "PLANNED",
+    "title": "Core subject 075 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000076",
+    "exam_id": "EXAM-2026-000076",
+    "status": "PLANNED",
+    "title": "Core subject 076 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000077",
+    "exam_id": "EXAM-2026-000077",
+    "status": "PLANNED",
+    "title": "Core subject 077 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000078",
+    "exam_id": "EXAM-2026-000078",
+    "status": "PLANNED",
+    "title": "Core subject 078 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000079",
+    "exam_id": "EXAM-2026-000079",
+    "status": "PLANNED",
+    "title": "Core subject 079 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000080",
+    "exam_id": "EXAM-2026-000080",
+    "status": "PLANNED",
+    "title": "Core subject 080 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000081",
+    "exam_id": "EXAM-2026-000081",
+    "status": "PLANNED",
+    "title": "Core subject 081 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000082",
+    "exam_id": "EXAM-2026-000082",
+    "status": "PLANNED",
+    "title": "Core subject 082 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000083",
+    "exam_id": "EXAM-2026-000083",
+    "status": "PLANNED",
+    "title": "Core subject 083 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000084",
+    "exam_id": "EXAM-2026-000084",
+    "status": "PLANNED",
+    "title": "Core subject 084 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000085",
+    "exam_id": "EXAM-2026-000085",
+    "status": "PLANNED",
+    "title": "Core subject 085 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000086",
+    "exam_id": "EXAM-2026-000086",
+    "status": "PLANNED",
+    "title": "Core subject 086 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000087",
+    "exam_id": "EXAM-2026-000087",
+    "status": "PLANNED",
+    "title": "Core subject 087 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000088",
+    "exam_id": "EXAM-2026-000088",
+    "status": "PLANNED",
+    "title": "Core subject 088 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000089",
+    "exam_id": "EXAM-2026-000089",
+    "status": "PLANNED",
+    "title": "Core subject 089 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000090",
+    "exam_id": "EXAM-2026-000090",
+    "status": "PLANNED",
+    "title": "Core subject 090 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000091",
+    "exam_id": "EXAM-2026-000091",
+    "status": "PLANNED",
+    "title": "Core subject 091 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000092",
+    "exam_id": "EXAM-2026-000092",
+    "status": "PLANNED",
+    "title": "Core subject 092 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000093",
+    "exam_id": "EXAM-2026-000093",
+    "status": "PLANNED",
+    "title": "Core subject 093 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000094",
+    "exam_id": "EXAM-2026-000094",
+    "status": "PLANNED",
+    "title": "Core subject 094 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000095",
+    "exam_id": "EXAM-2026-000095",
+    "status": "PLANNED",
+    "title": "Core subject 095 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000096",
+    "exam_id": "EXAM-2026-000096",
+    "status": "PLANNED",
+    "title": "Core subject 096 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000097",
+    "exam_id": "EXAM-2026-000097",
+    "status": "PLANNED",
+    "title": "Core subject 097 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000098",
+    "exam_id": "EXAM-2026-000098",
+    "status": "PLANNED",
+    "title": "Core subject 098 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000099",
+    "exam_id": "EXAM-2026-000099",
+    "status": "PLANNED",
+    "title": "Core subject 099 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000100",
+    "exam_id": "EXAM-2026-000100",
+    "status": "PLANNED",
+    "title": "Core subject 100 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000101",
+    "exam_id": "EXAM-2026-000101",
+    "status": "PLANNED",
+    "title": "Core subject 101 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000102",
+    "exam_id": "EXAM-2026-000102",
+    "status": "PLANNED",
+    "title": "Core subject 102 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000103",
+    "exam_id": "EXAM-2026-000103",
+    "status": "PLANNED",
+    "title": "Core subject 103 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000104",
+    "exam_id": "EXAM-2026-000104",
+    "status": "PLANNED",
+    "title": "Core subject 104 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000105",
+    "exam_id": "EXAM-2026-000105",
+    "status": "PLANNED",
+    "title": "Core subject 105 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000106",
+    "exam_id": "EXAM-2026-000106",
+    "status": "PLANNED",
+    "title": "Core subject 106 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000107",
+    "exam_id": "EXAM-2026-000107",
+    "status": "PLANNED",
+    "title": "Core subject 107 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000108",
+    "exam_id": "EXAM-2026-000108",
+    "status": "PLANNED",
+    "title": "Core subject 108 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000109",
+    "exam_id": "EXAM-2026-000109",
+    "status": "PLANNED",
+    "title": "Core subject 109 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000110",
+    "exam_id": "EXAM-2026-000110",
+    "status": "PLANNED",
+    "title": "Core subject 110 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000111",
+    "exam_id": "EXAM-2026-000111",
+    "status": "PLANNED",
+    "title": "Core subject 111 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000112",
+    "exam_id": "EXAM-2026-000112",
+    "status": "PLANNED",
+    "title": "Core subject 112 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000113",
+    "exam_id": "EXAM-2026-000113",
+    "status": "PLANNED",
+    "title": "Core subject 113 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000114",
+    "exam_id": "EXAM-2026-000114",
+    "status": "PLANNED",
+    "title": "Core subject 114 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000115",
+    "exam_id": "EXAM-2026-000115",
+    "status": "PLANNED",
+    "title": "Core subject 115 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000116",
+    "exam_id": "EXAM-2026-000116",
+    "status": "PLANNED",
+    "title": "Core subject 116 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000117",
+    "exam_id": "EXAM-2026-000117",
+    "status": "PLANNED",
+    "title": "Core subject 117 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000118",
+    "exam_id": "EXAM-2026-000118",
+    "status": "PLANNED",
+    "title": "Core subject 118 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000119",
+    "exam_id": "EXAM-2026-000119",
+    "status": "PLANNED",
+    "title": "Core subject 119 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000120",
+    "exam_id": "EXAM-2026-000120",
+    "status": "PLANNED",
+    "title": "Core subject 120 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000121",
+    "exam_id": "EXAM-2026-000121",
+    "status": "PLANNED",
+    "title": "Core subject 121 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000122",
+    "exam_id": "EXAM-2026-000122",
+    "status": "PLANNED",
+    "title": "Core subject 122 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000123",
+    "exam_id": "EXAM-2026-000123",
+    "status": "PLANNED",
+    "title": "Core subject 123 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000124",
+    "exam_id": "EXAM-2026-000124",
+    "status": "PLANNED",
+    "title": "Core subject 124 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000125",
+    "exam_id": "EXAM-2026-000125",
+    "status": "PLANNED",
+    "title": "Core subject 125 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000126",
+    "exam_id": "EXAM-2026-000126",
+    "status": "PLANNED",
+    "title": "Core subject 126 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000127",
+    "exam_id": "EXAM-2026-000127",
+    "status": "PLANNED",
+    "title": "Core subject 127 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000128",
+    "exam_id": "EXAM-2026-000128",
+    "status": "PLANNED",
+    "title": "Core subject 128 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000129",
+    "exam_id": "EXAM-2026-000129",
+    "status": "PLANNED",
+    "title": "Core subject 129 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000130",
+    "exam_id": "EXAM-2026-000130",
+    "status": "PLANNED",
+    "title": "Core subject 130 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000131",
+    "exam_id": "EXAM-2026-000131",
+    "status": "PLANNED",
+    "title": "Core subject 131 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000132",
+    "exam_id": "EXAM-2026-000132",
+    "status": "PLANNED",
+    "title": "Core subject 132 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000133",
+    "exam_id": "EXAM-2026-000133",
+    "status": "PLANNED",
+    "title": "Core subject 133 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000134",
+    "exam_id": "EXAM-2026-000134",
+    "status": "PLANNED",
+    "title": "Core subject 134 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000135",
+    "exam_id": "EXAM-2026-000135",
+    "status": "PLANNED",
+    "title": "Core subject 135 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000136",
+    "exam_id": "EXAM-2026-000136",
+    "status": "PLANNED",
+    "title": "Core subject 136 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000137",
+    "exam_id": "EXAM-2026-000137",
+    "status": "PLANNED",
+    "title": "Core subject 137 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000138",
+    "exam_id": "EXAM-2026-000138",
+    "status": "PLANNED",
+    "title": "Core subject 138 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000139",
+    "exam_id": "EXAM-2026-000139",
+    "status": "PLANNED",
+    "title": "Core subject 139 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000140",
+    "exam_id": "EXAM-2026-000140",
+    "status": "PLANNED",
+    "title": "Core subject 140 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000141",
+    "exam_id": "EXAM-2026-000141",
+    "status": "PLANNED",
+    "title": "Core subject 141 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000142",
+    "exam_id": "EXAM-2026-000142",
+    "status": "PLANNED",
+    "title": "Core subject 142 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000143",
+    "exam_id": "EXAM-2026-000143",
+    "status": "PLANNED",
+    "title": "Core subject 143 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000144",
+    "exam_id": "EXAM-2026-000144",
+    "status": "PLANNED",
+    "title": "Core subject 144 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000145",
+    "exam_id": "EXAM-2026-000145",
+    "status": "PLANNED",
+    "title": "Core subject 145 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000146",
+    "exam_id": "EXAM-2026-000146",
+    "status": "PLANNED",
+    "title": "Core subject 146 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000147",
+    "exam_id": "EXAM-2026-000147",
+    "status": "PLANNED",
+    "title": "Core subject 147 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000148",
+    "exam_id": "EXAM-2026-000148",
+    "status": "PLANNED",
+    "title": "Core subject 148 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000149",
+    "exam_id": "EXAM-2026-000149",
+    "status": "PLANNED",
+    "title": "Core subject 149 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000150",
+    "exam_id": "EXAM-2026-000150",
+    "status": "PLANNED",
+    "title": "Core subject 150 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000151",
+    "exam_id": "EXAM-2026-000151",
+    "status": "PLANNED",
+    "title": "Core subject 151 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000152",
+    "exam_id": "EXAM-2026-000152",
+    "status": "PLANNED",
+    "title": "Core subject 152 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000153",
+    "exam_id": "EXAM-2026-000153",
+    "status": "PLANNED",
+    "title": "Core subject 153 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000154",
+    "exam_id": "EXAM-2026-000154",
+    "status": "PLANNED",
+    "title": "Core subject 154 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000155",
+    "exam_id": "EXAM-2026-000155",
+    "status": "PLANNED",
+    "title": "Core subject 155 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000156",
+    "exam_id": "EXAM-2026-000156",
+    "status": "PLANNED",
+    "title": "Core subject 156 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000157",
+    "exam_id": "EXAM-2026-000157",
+    "status": "PLANNED",
+    "title": "Core subject 157 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000158",
+    "exam_id": "EXAM-2026-000158",
+    "status": "PLANNED",
+    "title": "Core subject 158 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000159",
+    "exam_id": "EXAM-2026-000159",
+    "status": "PLANNED",
+    "title": "Core subject 159 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000160",
+    "exam_id": "EXAM-2026-000160",
+    "status": "PLANNED",
+    "title": "Core subject 160 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000161",
+    "exam_id": "EXAM-2026-000161",
+    "status": "PLANNED",
+    "title": "Core subject 161 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000162",
+    "exam_id": "EXAM-2026-000162",
+    "status": "PLANNED",
+    "title": "Core subject 162 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000163",
+    "exam_id": "EXAM-2026-000163",
+    "status": "PLANNED",
+    "title": "Core subject 163 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000164",
+    "exam_id": "EXAM-2026-000164",
+    "status": "PLANNED",
+    "title": "Core subject 164 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000165",
+    "exam_id": "EXAM-2026-000165",
+    "status": "PLANNED",
+    "title": "Core subject 165 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000166",
+    "exam_id": "EXAM-2026-000166",
+    "status": "PLANNED",
+    "title": "Core subject 166 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000167",
+    "exam_id": "EXAM-2026-000167",
+    "status": "PLANNED",
+    "title": "Core subject 167 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000168",
+    "exam_id": "EXAM-2026-000168",
+    "status": "PLANNED",
+    "title": "Core subject 168 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000169",
+    "exam_id": "EXAM-2026-000169",
+    "status": "PLANNED",
+    "title": "Core subject 169 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000170",
+    "exam_id": "EXAM-2026-000170",
+    "status": "PLANNED",
+    "title": "Core subject 170 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000171",
+    "exam_id": "EXAM-2026-000171",
+    "status": "PLANNED",
+    "title": "Core subject 171 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000172",
+    "exam_id": "EXAM-2026-000172",
+    "status": "PLANNED",
+    "title": "Core subject 172 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000173",
+    "exam_id": "EXAM-2026-000173",
+    "status": "PLANNED",
+    "title": "Core subject 173 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000174",
+    "exam_id": "EXAM-2026-000174",
+    "status": "PLANNED",
+    "title": "Core subject 174 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000175",
+    "exam_id": "EXAM-2026-000175",
+    "status": "PLANNED",
+    "title": "Core subject 175 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000176",
+    "exam_id": "EXAM-2026-000176",
+    "status": "PLANNED",
+    "title": "Core subject 176 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000177",
+    "exam_id": "EXAM-2026-000177",
+    "status": "PLANNED",
+    "title": "Core subject 177 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000178",
+    "exam_id": "EXAM-2026-000178",
+    "status": "PLANNED",
+    "title": "Core subject 178 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000179",
+    "exam_id": "EXAM-2026-000179",
+    "status": "PLANNED",
+    "title": "Core subject 179 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000180",
+    "exam_id": "EXAM-2026-000180",
+    "status": "PLANNED",
+    "title": "Core subject 180 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000181",
+    "exam_id": "EXAM-2026-000181",
+    "status": "PLANNED",
+    "title": "Core subject 181 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000182",
+    "exam_id": "EXAM-2026-000182",
+    "status": "PLANNED",
+    "title": "Core subject 182 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000183",
+    "exam_id": "EXAM-2026-000183",
+    "status": "PLANNED",
+    "title": "Core subject 183 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000184",
+    "exam_id": "EXAM-2026-000184",
+    "status": "PLANNED",
+    "title": "Core subject 184 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000185",
+    "exam_id": "EXAM-2026-000185",
+    "status": "PLANNED",
+    "title": "Core subject 185 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000186",
+    "exam_id": "EXAM-2026-000186",
+    "status": "PLANNED",
+    "title": "Core subject 186 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000187",
+    "exam_id": "EXAM-2026-000187",
+    "status": "PLANNED",
+    "title": "Core subject 187 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000188",
+    "exam_id": "EXAM-2026-000188",
+    "status": "PLANNED",
+    "title": "Core subject 188 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000189",
+    "exam_id": "EXAM-2026-000189",
+    "status": "PLANNED",
+    "title": "Core subject 189 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000190",
+    "exam_id": "EXAM-2026-000190",
+    "status": "PLANNED",
+    "title": "Core subject 190 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000191",
+    "exam_id": "EXAM-2026-000191",
+    "status": "PLANNED",
+    "title": "Core subject 191 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000192",
+    "exam_id": "EXAM-2026-000192",
+    "status": "PLANNED",
+    "title": "Core subject 192 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000193",
+    "exam_id": "EXAM-2026-000193",
+    "status": "PLANNED",
+    "title": "Core subject 193 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000194",
+    "exam_id": "EXAM-2026-000194",
+    "status": "PLANNED",
+    "title": "Core subject 194 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000195",
+    "exam_id": "EXAM-2026-000195",
+    "status": "PLANNED",
+    "title": "Core subject 195 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000196",
+    "exam_id": "EXAM-2026-000196",
+    "status": "PLANNED",
+    "title": "Core subject 196 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000197",
+    "exam_id": "EXAM-2026-000197",
+    "status": "PLANNED",
+    "title": "Core subject 197 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000198",
+    "exam_id": "EXAM-2026-000198",
+    "status": "PLANNED",
+    "title": "Core subject 198 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000199",
+    "exam_id": "EXAM-2026-000199",
+    "status": "PLANNED",
+    "title": "Core subject 199 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000200",
+    "exam_id": "EXAM-2026-000200",
+    "status": "PLANNED",
+    "title": "Core subject 200 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000201",
+    "exam_id": "EXAM-2026-000201",
+    "status": "PLANNED",
+    "title": "Core subject 201 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000202",
+    "exam_id": "EXAM-2026-000202",
+    "status": "PLANNED",
+    "title": "Core subject 202 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000203",
+    "exam_id": "EXAM-2026-000203",
+    "status": "PLANNED",
+    "title": "Core subject 203 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000204",
+    "exam_id": "EXAM-2026-000204",
+    "status": "PLANNED",
+    "title": "Core subject 204 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000205",
+    "exam_id": "EXAM-2026-000205",
+    "status": "PLANNED",
+    "title": "Core subject 205 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000206",
+    "exam_id": "EXAM-2026-000206",
+    "status": "PLANNED",
+    "title": "Core subject 206 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000207",
+    "exam_id": "EXAM-2026-000207",
+    "status": "PLANNED",
+    "title": "Core subject 207 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000208",
+    "exam_id": "EXAM-2026-000208",
+    "status": "PLANNED",
+    "title": "Core subject 208 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000209",
+    "exam_id": "EXAM-2026-000209",
+    "status": "PLANNED",
+    "title": "Core subject 209 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000210",
+    "exam_id": "EXAM-2026-000210",
+    "status": "PLANNED",
+    "title": "Core subject 210 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000211",
+    "exam_id": "EXAM-2026-000211",
+    "status": "PLANNED",
+    "title": "Core subject 211 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000212",
+    "exam_id": "EXAM-2026-000212",
+    "status": "PLANNED",
+    "title": "Core subject 212 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000213",
+    "exam_id": "EXAM-2026-000213",
+    "status": "PLANNED",
+    "title": "Core subject 213 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000214",
+    "exam_id": "EXAM-2026-000214",
+    "status": "PLANNED",
+    "title": "Core subject 214 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000215",
+    "exam_id": "EXAM-2026-000215",
+    "status": "PLANNED",
+    "title": "Core subject 215 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000216",
+    "exam_id": "EXAM-2026-000216",
+    "status": "PLANNED",
+    "title": "Core subject 216 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000217",
+    "exam_id": "EXAM-2026-000217",
+    "status": "PLANNED",
+    "title": "Core subject 217 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000218",
+    "exam_id": "EXAM-2026-000218",
+    "status": "PLANNED",
+    "title": "Core subject 218 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000219",
+    "exam_id": "EXAM-2026-000219",
+    "status": "PLANNED",
+    "title": "Core subject 219 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000220",
+    "exam_id": "EXAM-2026-000220",
+    "status": "PLANNED",
+    "title": "Core subject 220 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000221",
+    "exam_id": "EXAM-2026-000221",
+    "status": "PLANNED",
+    "title": "Core subject 221 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000222",
+    "exam_id": "EXAM-2026-000222",
+    "status": "PLANNED",
+    "title": "Core subject 222 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000223",
+    "exam_id": "EXAM-2026-000223",
+    "status": "PLANNED",
+    "title": "Core subject 223 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000224",
+    "exam_id": "EXAM-2026-000224",
+    "status": "PLANNED",
+    "title": "Core subject 224 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000225",
+    "exam_id": "EXAM-2026-000225",
+    "status": "PLANNED",
+    "title": "Core subject 225 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000226",
+    "exam_id": "EXAM-2026-000226",
+    "status": "PLANNED",
+    "title": "Core subject 226 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000227",
+    "exam_id": "EXAM-2026-000227",
+    "status": "PLANNED",
+    "title": "Core subject 227 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000228",
+    "exam_id": "EXAM-2026-000228",
+    "status": "PLANNED",
+    "title": "Core subject 228 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000229",
+    "exam_id": "EXAM-2026-000229",
+    "status": "PLANNED",
+    "title": "Core subject 229 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000230",
+    "exam_id": "EXAM-2026-000230",
+    "status": "PLANNED",
+    "title": "Core subject 230 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000231",
+    "exam_id": "EXAM-2026-000231",
+    "status": "PLANNED",
+    "title": "Core subject 231 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000232",
+    "exam_id": "EXAM-2026-000232",
+    "status": "PLANNED",
+    "title": "Core subject 232 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000233",
+    "exam_id": "EXAM-2026-000233",
+    "status": "PLANNED",
+    "title": "Core subject 233 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000234",
+    "exam_id": "EXAM-2026-000234",
+    "status": "PLANNED",
+    "title": "Core subject 234 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000235",
+    "exam_id": "EXAM-2026-000235",
+    "status": "PLANNED",
+    "title": "Core subject 235 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000236",
+    "exam_id": "EXAM-2026-000236",
+    "status": "PLANNED",
+    "title": "Core subject 236 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000237",
+    "exam_id": "EXAM-2026-000237",
+    "status": "PLANNED",
+    "title": "Core subject 237 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000238",
+    "exam_id": "EXAM-2026-000238",
+    "status": "PLANNED",
+    "title": "Core subject 238 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000239",
+    "exam_id": "EXAM-2026-000239",
+    "status": "PLANNED",
+    "title": "Core subject 239 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000240",
+    "exam_id": "EXAM-2026-000240",
+    "status": "PLANNED",
+    "title": "Core subject 240 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000241",
+    "exam_id": "EXAM-2026-000241",
+    "status": "PLANNED",
+    "title": "Core subject 241 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000242",
+    "exam_id": "EXAM-2026-000242",
+    "status": "PLANNED",
+    "title": "Core subject 242 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000243",
+    "exam_id": "EXAM-2026-000243",
+    "status": "PLANNED",
+    "title": "Core subject 243 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000244",
+    "exam_id": "EXAM-2026-000244",
+    "status": "PLANNED",
+    "title": "Core subject 244 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000245",
+    "exam_id": "EXAM-2026-000245",
+    "status": "PLANNED",
+    "title": "Core subject 245 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000246",
+    "exam_id": "EXAM-2026-000246",
+    "status": "PLANNED",
+    "title": "Core subject 246 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000247",
+    "exam_id": "EXAM-2026-000247",
+    "status": "PLANNED",
+    "title": "Core subject 247 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000248",
+    "exam_id": "EXAM-2026-000248",
+    "status": "PLANNED",
+    "title": "Core subject 248 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000249",
+    "exam_id": "EXAM-2026-000249",
+    "status": "PLANNED",
+    "title": "Core subject 249 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000250",
+    "exam_id": "EXAM-2026-000250",
+    "status": "PLANNED",
+    "title": "Core subject 250 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000251",
+    "exam_id": "EXAM-2026-000251",
+    "status": "PLANNED",
+    "title": "Shared elective 251 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000252",
+    "exam_id": "EXAM-2026-000252",
+    "status": "PLANNED",
+    "title": "Shared elective 252 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000253",
+    "exam_id": "EXAM-2026-000253",
+    "status": "PLANNED",
+    "title": "Shared elective 253 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000254",
+    "exam_id": "EXAM-2026-000254",
+    "status": "PLANNED",
+    "title": "Shared elective 254 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000255",
+    "exam_id": "EXAM-2026-000255",
+    "status": "PLANNED",
+    "title": "Shared elective 255 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000256",
+    "exam_id": "EXAM-2026-000256",
+    "status": "PLANNED",
+    "title": "Shared elective 256 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000257",
+    "exam_id": "EXAM-2026-000257",
+    "status": "PLANNED",
+    "title": "Shared elective 257 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000258",
+    "exam_id": "EXAM-2026-000258",
+    "status": "PLANNED",
+    "title": "Shared elective 258 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000259",
+    "exam_id": "EXAM-2026-000259",
+    "status": "PLANNED",
+    "title": "Shared elective 259 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000260",
+    "exam_id": "EXAM-2026-000260",
+    "status": "PLANNED",
+    "title": "Shared elective 260 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000261",
+    "exam_id": "EXAM-2026-000261",
+    "status": "PLANNED",
+    "title": "Shared elective 261 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000262",
+    "exam_id": "EXAM-2026-000262",
+    "status": "PLANNED",
+    "title": "Shared elective 262 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000263",
+    "exam_id": "EXAM-2026-000263",
+    "status": "PLANNED",
+    "title": "Shared elective 263 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000264",
+    "exam_id": "EXAM-2026-000264",
+    "status": "PLANNED",
+    "title": "Shared elective 264 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000265",
+    "exam_id": "EXAM-2026-000265",
+    "status": "PLANNED",
+    "title": "Shared elective 265 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000266",
+    "exam_id": "EXAM-2026-000266",
+    "status": "PLANNED",
+    "title": "Shared elective 266 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000267",
+    "exam_id": "EXAM-2026-000267",
+    "status": "PLANNED",
+    "title": "Shared elective 267 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000268",
+    "exam_id": "EXAM-2026-000268",
+    "status": "PLANNED",
+    "title": "Shared elective 268 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000269",
+    "exam_id": "EXAM-2026-000269",
+    "status": "PLANNED",
+    "title": "Shared elective 269 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000270",
+    "exam_id": "EXAM-2026-000270",
+    "status": "PLANNED",
+    "title": "Shared elective 270 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000271",
+    "exam_id": "EXAM-2026-000271",
+    "status": "PLANNED",
+    "title": "Shared elective 271 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000272",
+    "exam_id": "EXAM-2026-000272",
+    "status": "PLANNED",
+    "title": "Shared elective 272 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000273",
+    "exam_id": "EXAM-2026-000273",
+    "status": "PLANNED",
+    "title": "Shared elective 273 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000274",
+    "exam_id": "EXAM-2026-000274",
+    "status": "PLANNED",
+    "title": "Shared elective 274 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000275",
+    "exam_id": "EXAM-2026-000275",
+    "status": "PLANNED",
+    "title": "Shared elective 275 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000276",
+    "exam_id": "EXAM-2026-000276",
+    "status": "PLANNED",
+    "title": "Shared elective 276 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000277",
+    "exam_id": "EXAM-2026-000277",
+    "status": "PLANNED",
+    "title": "Shared elective 277 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000278",
+    "exam_id": "EXAM-2026-000278",
+    "status": "PLANNED",
+    "title": "Shared elective 278 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000279",
+    "exam_id": "EXAM-2026-000279",
+    "status": "PLANNED",
+    "title": "Shared elective 279 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000280",
+    "exam_id": "EXAM-2026-000280",
+    "status": "PLANNED",
+    "title": "Shared elective 280 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000281",
+    "exam_id": "EXAM-2026-000281",
+    "status": "PLANNED",
+    "title": "Shared elective 281 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000282",
+    "exam_id": "EXAM-2026-000282",
+    "status": "PLANNED",
+    "title": "Shared elective 282 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000283",
+    "exam_id": "EXAM-2026-000283",
+    "status": "PLANNED",
+    "title": "Shared elective 283 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000284",
+    "exam_id": "EXAM-2026-000284",
+    "status": "PLANNED",
+    "title": "Shared elective 284 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000285",
+    "exam_id": "EXAM-2026-000285",
+    "status": "PLANNED",
+    "title": "Shared elective 285 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000286",
+    "exam_id": "EXAM-2026-000286",
+    "status": "PLANNED",
+    "title": "Shared elective 286 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000287",
+    "exam_id": "EXAM-2026-000287",
+    "status": "PLANNED",
+    "title": "Shared elective 287 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000288",
+    "exam_id": "EXAM-2026-000288",
+    "status": "PLANNED",
+    "title": "Shared elective 288 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000289",
+    "exam_id": "EXAM-2026-000289",
+    "status": "PLANNED",
+    "title": "Shared elective 289 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000290",
+    "exam_id": "EXAM-2026-000290",
+    "status": "PLANNED",
+    "title": "Shared elective 290 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000291",
+    "exam_id": "EXAM-2026-000291",
+    "status": "PLANNED",
+    "title": "Shared elective 291 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000292",
+    "exam_id": "EXAM-2026-000292",
+    "status": "PLANNED",
+    "title": "Shared elective 292 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000293",
+    "exam_id": "EXAM-2026-000293",
+    "status": "PLANNED",
+    "title": "Shared elective 293 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000294",
+    "exam_id": "EXAM-2026-000294",
+    "status": "PLANNED",
+    "title": "Shared elective 294 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000295",
+    "exam_id": "EXAM-2026-000295",
+    "status": "PLANNED",
+    "title": "Shared elective 295 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000296",
+    "exam_id": "EXAM-2026-000296",
+    "status": "PLANNED",
+    "title": "Shared elective 296 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 150,
+    "course_id": "CRS-000297",
+    "exam_id": "EXAM-2026-000297",
+    "status": "PLANNED",
+    "title": "Shared elective 297 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 90,
+    "course_id": "CRS-000298",
+    "exam_id": "EXAM-2026-000298",
+    "status": "PLANNED",
+    "title": "Shared elective 298 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 180,
+    "course_id": "CRS-000299",
+    "exam_id": "EXAM-2026-000299",
+    "status": "PLANNED",
+    "title": "Shared elective 299 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  },
+  {
+    "base_duration_minutes": 120,
+    "course_id": "CRS-000300",
+    "exam_id": "EXAM-2026-000300",
+    "status": "CANCELLED",
+    "title": "Shared elective 300 examination",
+    "window_end": "2026-11-28T00:00:00+05:30",
+    "window_start": "2026-11-16T00:00:00+05:30"
+  }
+]

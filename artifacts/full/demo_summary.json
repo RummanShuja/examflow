@@ -1,0 +1,18 @@
+{
+  "evaluation_passed": true,
+  "passed": true,
+  "reproducibility_passed": true,
+  "run_id": "RUN-000002",
+  "scheduled": 298,
+  "source_counts": {
+    "Accommodation": 362,
+    "Course": 300,
+    "Enrollment": 30183,
+    "Exam": 300,
+    "Invigilator": 200,
+    "Room": 100,
+    "Student": 5000
+  },
+  "unassigned": 1,
+  "validation_passed": true
+}

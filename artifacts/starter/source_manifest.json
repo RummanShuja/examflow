@@ -1,0 +1,24 @@
+{
+  "checksum_contract": "SHA-256 over canonical sorted-key JSON records, UTF-8 plus LF, ordered by declared primary key. No DB columns excluded.",
+  "configuration": {
+    "exams": 30,
+    "invigilators": 24,
+    "profile": "starter",
+    "rooms": 12,
+    "scale": 1.0,
+    "schema_version": "1.0",
+    "seed": 20261022,
+    "students": 250
+  },
+  "derived_values": "Source enrollments and approvals determine demand, duration, accessibility, staffing and outcomes; anomaly labels follow controlled rule violations.",
+  "external_sources": [],
+  "ground_truth_separation": "Only fixtures/evaluate() opens ground_truth.json; labels are absent from all master tables and fixture inputs.",
+  "license_or_terms": "No external datasets or third-party code snippets incorporated; source and data are supplied for this exam-scheduling project.",
+  "private_or_personal_data": false,
+  "provenance": "Entirely synthetic; created by examflow/generate.py using Python random.Random(seed).",
+  "recipe": "Round-robin cohorts; five core courses + one PRNG-selected shared elective per learner; small labelled-by-state withdrawn enrollment history; weighted durations; effective resource intervals; approved/pending/rejected support.",
+  "schema_version": "1.0",
+  "seed": 20261022,
+  "simulation_dates": "Database timestamps describe a synthetic 2026 assessment period, not actual artifact creation times.",
+  "source_urls": []
+}

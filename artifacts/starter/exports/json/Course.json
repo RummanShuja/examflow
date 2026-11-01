@@ -1,0 +1,182 @@
+[
+  {
+    "category": "CORE",
+    "cohort_id": "COH-000001",
+    "course_id": "CRS-000001",
+    "title": "Core subject 001"
+  },
+  {
+    "category": "CORE",
+    "cohort_id": "COH-000001",
+    "course_id": "CRS-000002",
+    "title": "Core subject 002"
+  },
+  {
+    "category": "CORE",
+    "cohort_id": "COH-000001",
+    "course_id": "CRS-000003",
+    "title": "Core subject 003"
+  },
+  {
+    "category": "CORE",
+    "cohort_id": "COH-000001",
+    "course_id": "CRS-000004",
+    "title": "Core subject 004"
+  },
+  {
+    "category": "CORE",
+    "cohort_id": "COH-000001",
+    "course_id": "CRS-000005",
+    "title": "Core subject 005"
+  },
+  {
+    "category": "CORE",
+    "cohort_id": "COH-000002",
+    "course_id": "CRS-000006",
+    "title": "Core subject 006"
+  },
+  {
+    "category": "CORE",
+    "cohort_id": "COH-000002",
+    "course_id": "CRS-000007",
+    "title": "Core subject 007"
+  },
+  {
+    "category": "CORE",
+    "cohort_id": "COH-000002",
+    "course_id": "CRS-000008",
+    "title": "Core subject 008"
+  },
+  {
+    "category": "CORE",
+    "cohort_id": "COH-000002",
+    "course_id": "CRS-000009",
+    "title": "Core subject 009"
+  },
+  {
+    "category": "CORE",
+    "cohort_id": "COH-000002",
+    "course_id": "CRS-000010",
+    "title": "Core subject 010"
+  },
+  {
+    "category": "CORE",
+    "cohort_id": "COH-000003",
+    "course_id": "CRS-000011",
+    "title": "Core subject 011"
+  },
+  {
+    "category": "CORE",
+    "cohort_id": "COH-000003",
+    "course_id": "CRS-000012",
+    "title": "Core subject 012"
+  },
+  {
+    "category": "CORE",
+    "cohort_id": "COH-000003",
+    "course_id": "CRS-000013",
+    "title": "Core subject 013"
+  },
+  {
+    "category": "CORE",
+    "cohort_id": "COH-000003",
+    "course_id": "CRS-000014",
+    "title": "Core subject 014"
+  },
+  {
+    "category": "CORE",
+    "cohort_id": "COH-000003",
+    "course_id": "CRS-000015",
+    "title": "Core subject 015"
+  },
+  {
+    "category": "CORE",
+    "cohort_id": "COH-000004",
+    "course_id": "CRS-000016",
+    "title": "Core subject 016"
+  },
+  {
+    "category": "CORE",
+    "cohort_id": "COH-000004",
+    "course_id": "CRS-000017",
+    "title": "Core subject 017"
+  },
+  {
+    "category": "CORE",
+    "cohort_id": "COH-000004",
+    "course_id": "CRS-000018",
+    "title": "Core subject 018"
+  },
+  {
+    "category": "CORE",
+    "cohort_id": "COH-000004",
+    "course_id": "CRS-000019",
+    "title": "Core subject 019"
+  },
+  {
+    "category": "CORE",
+    "cohort_id": "COH-000004",
+    "course_id": "CRS-000020",
+    "title": "Core subject 020"
+  },
+  {
+    "category": "CORE",
+    "cohort_id": "COH-000005",
+    "course_id": "CRS-000021",
+    "title": "Core subject 021"
+  },
+  {
+    "category": "CORE",
+    "cohort_id": "COH-000005",
+    "course_id": "CRS-000022",
+    "title": "Core subject 022"
+  },
+  {
+    "category": "CORE",
+    "cohort_id": "COH-000005",
+    "course_id": "CRS-000023",
+    "title": "Core subject 023"
+  },
+  {
+    "category": "CORE",
+    "cohort_id": "COH-000005",
+    "course_id": "CRS-000024",
+    "title": "Core subject 024"
+  },
+  {
+    "category": "CORE",
+    "cohort_id": "COH-000005",
+    "course_id": "CRS-000025",
+    "title": "Core subject 025"
+  },
+  {
+    "category": "ELECTIVE",
+    "cohort_id": null,
+    "course_id": "CRS-000026",
+    "title": "Shared elective 026"
+  },
+  {
+    "category": "ELECTIVE",
+    "cohort_id": null,
+    "course_id": "CRS-000027",
+    "title": "Shared elective 027"
+  },
+  {
+    "category": "ELECTIVE",
+    "cohort_id": null,
+    "course_id": "CRS-000028",
+    "title": "Shared elective 028"
+  },
+  {
+    "category": "ELECTIVE",
+    "cohort_id": null,
+    "course_id": "CRS-000029",
+    "title": "Shared elective 029"
+  },
+  {
+    "category": "ELECTIVE",
+    "cohort_id": null,
+    "course_id": "CRS-000030",
+    "title": "Shared elective 030"
+  }
+]

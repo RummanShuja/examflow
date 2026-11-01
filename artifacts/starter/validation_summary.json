@@ -1,0 +1,233 @@
+{
+  "eligible_exam_count": 29,
+  "hard_constraint_violations": [],
+  "outcome_count": 29,
+  "passed": true,
+  "run_id": "RUN-000002",
+  "source": {
+    "checks": [
+      "primary keys",
+      "foreign keys and every join",
+      "required fields/enums/JSON",
+      "date ordering and timezone",
+      "effective capacity versions",
+      "lifecycle transitions",
+      "cached derived requirements",
+      "source volumes",
+      "append-only guards"
+    ],
+    "errors": [],
+    "join_checks": [
+      {
+        "joined_rows": 250,
+        "passed": true,
+        "referencing_rows": 250,
+        "relationship": "Student(cohort_id)->Cohort(cohort_id)"
+      },
+      {
+        "joined_rows": 25,
+        "passed": true,
+        "referencing_rows": 25,
+        "relationship": "Course(cohort_id)->Cohort(cohort_id)"
+      },
+      {
+        "joined_rows": 1508,
+        "passed": true,
+        "referencing_rows": 1508,
+        "relationship": "Enrollment(student_id)->Student(student_id)"
+      },
+      {
+        "joined_rows": 1508,
+        "passed": true,
+        "referencing_rows": 1508,
+        "relationship": "Enrollment(course_id)->Course(course_id)"
+      },
+      {
+        "joined_rows": 30,
+        "passed": true,
+        "referencing_rows": 30,
+        "relationship": "Exam(course_id)->Course(course_id)"
+      },
+      {
+        "joined_rows": 9,
+        "passed": true,
+        "referencing_rows": 9,
+        "relationship": "ExamEquipmentRequirement(exam_id)->Exam(exam_id)"
+      },
+      {
+        "joined_rows": 9,
+        "passed": true,
+        "referencing_rows": 9,
+        "relationship": "ExamEquipmentRequirement(equipment_id)->Equipment(equipment_id)"
+      },
+      {
+        "joined_rows": 24,
+        "passed": true,
+        "referencing_rows": 24,
+        "relationship": "RoomCapacity(room_id)->Room(room_id)"
+      },
+      {
+        "joined_rows": 27,
+        "passed": true,
+        "referencing_rows": 27,
+        "relationship": "RoomEquipment(room_id)->Room(room_id)"
+      },
+      {
+        "joined_rows": 27,
+        "passed": true,
+        "referencing_rows": 27,
+        "relationship": "RoomEquipment(equipment_id)->Equipment(equipment_id)"
+      },
+      {
+        "joined_rows": 120,
+        "passed": true,
+        "referencing_rows": 120,
+        "relationship": "RoomOpening(room_id)->Room(room_id)"
+      },
+      {
+        "joined_rows": 6,
+        "passed": true,
+        "referencing_rows": 6,
+        "relationship": "RoomClosure(room_id)->Room(room_id)"
+      },
+      {
+        "joined_rows": 225,
+        "passed": true,
+        "referencing_rows": 225,
+        "relationship": "Availability(invigilator_id)->Invigilator(invigilator_id)"
+      },
+      {
+        "joined_rows": 21,
+        "passed": true,
+        "referencing_rows": 21,
+        "relationship": "Accommodation(student_id)->Student(student_id)"
+      },
+      {
+        "joined_rows": 2,
+        "passed": true,
+        "referencing_rows": 2,
+        "relationship": "Accommodation(exam_id)->Exam(exam_id)"
+      },
+      {
+        "joined_rows": 30,
+        "passed": true,
+        "referencing_rows": 30,
+        "relationship": "ExamRequirement(exam_id)->Exam(exam_id)"
+      },
+      {
+        "joined_rows": 250,
+        "passed": true,
+        "referencing_rows": 250,
+        "relationship": "LifecycleEvent(student_id)->Student(student_id)"
+      },
+      {
+        "joined_rows": 1516,
+        "passed": true,
+        "referencing_rows": 1516,
+        "relationship": "LifecycleEvent(enrollment_id)->Enrollment(enrollment_id)"
+      },
+      {
+        "joined_rows": 31,
+        "passed": true,
+        "referencing_rows": 31,
+        "relationship": "LifecycleEvent(exam_id)->Exam(exam_id)"
+      },
+      {
+        "joined_rows": 13,
+        "passed": true,
+        "referencing_rows": 13,
+        "relationship": "LifecycleEvent(room_id)->Room(room_id)"
+      },
+      {
+        "joined_rows": 24,
+        "passed": true,
+        "referencing_rows": 24,
+        "relationship": "LifecycleEvent(invigilator_id)->Invigilator(invigilator_id)"
+      },
+      {
+        "joined_rows": 227,
+        "passed": true,
+        "referencing_rows": 227,
+        "relationship": "LifecycleEvent(availability_id)->Availability(availability_id)"
+      },
+      {
+        "joined_rows": 40,
+        "passed": true,
+        "referencing_rows": 40,
+        "relationship": "LifecycleEvent(accommodation_id)->Accommodation(accommodation_id)"
+      },
+      {
+        "joined_rows": 56,
+        "passed": true,
+        "referencing_rows": 56,
+        "relationship": "ScheduleAssignment(run_id)->SchedulingRun(run_id)"
+      },
+      {
+        "joined_rows": 56,
+        "passed": true,
+        "referencing_rows": 56,
+        "relationship": "ScheduleAssignment(exam_id)->Exam(exam_id)"
+      },
+      {
+        "joined_rows": 56,
+        "passed": true,
+        "referencing_rows": 56,
+        "relationship": "ScheduleAssignment(room_id)->Room(room_id)"
+      },
+      {
+        "joined_rows": 112,
+        "passed": true,
+        "referencing_rows": 112,
+        "relationship": "InvigilatorAllocation(run_id,assignment_id)->ScheduleAssignment(run_id,assignment_id)"
+      },
+      {
+        "joined_rows": 112,
+        "passed": true,
+        "referencing_rows": 112,
+        "relationship": "InvigilatorAllocation(invigilator_id)->Invigilator(invigilator_id)"
+      },
+      {
+        "joined_rows": 58,
+        "passed": true,
+        "referencing_rows": 58,
+        "relationship": "ExamOutcome(run_id)->SchedulingRun(run_id)"
+      },
+      {
+        "joined_rows": 58,
+        "passed": true,
+        "referencing_rows": 58,
+        "relationship": "ExamOutcome(exam_id)->Exam(exam_id)"
+      },
+      {
+        "joined_rows": 56,
+        "passed": true,
+        "referencing_rows": 56,
+        "relationship": "ExamOutcome(run_id,assignment_id)->ScheduleAssignment(run_id,assignment_id)"
+      },
+      {
+        "joined_rows": 62,
+        "passed": true,
+        "referencing_rows": 62,
+        "relationship": "DecisionEvent(run_id)->SchedulingRun(run_id)"
+      },
+      {
+        "joined_rows": 58,
+        "passed": true,
+        "referencing_rows": 58,
+        "relationship": "DecisionEvent(exam_id)->Exam(exam_id)"
+      }
+    ],
+    "passed": true,
+    "sqlite_integrity": [
+      "ok"
+    ]
+  },
+  "usage_reconciliation": {
+    "passed": true,
+    "room_minutes": 5529,
+    "sql_room_minutes": 5529.0,
+    "sql_staff_minutes": 11058.0,
+    "staff_minutes": 11058
+  },
+  "violation_count": 0
+}

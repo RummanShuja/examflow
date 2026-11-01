@@ -1,0 +1,22 @@
+[
+  {
+    "cohort_id": "COH-000001",
+    "name": "Synthetic cohort 001"
+  },
+  {
+    "cohort_id": "COH-000002",
+    "name": "Synthetic cohort 002"
+  },
+  {
+    "cohort_id": "COH-000003",
+    "name": "Synthetic cohort 003"
+  },
+  {
+    "cohort_id": "COH-000004",
+    "name": "Synthetic cohort 004"
+  },
+  {
+    "cohort_id": "COH-000005",
+    "name": "Synthetic cohort 005"
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "command": "python tools/verify.py",
+  "executed_at_utc": "2026-11-01T19:22:31.229365+00:00",
+  "passed": true,
+  "platform": "Windows-11-10.0.26300-SP0",
+  "profiles": {
+    "full": {
+      "assignments": 298,
+      "checksums_and_metrics_recomputed": true,
+      "csv_import": true,
+      "evaluation": true,
+      "html_links_and_row_counts": true,
+      "passed": true,
+      "reproducibility_report": true,
+      "run_id": "RUN-000001",
+      "source_and_schedule": true,
+      "sql_restore_all_table_checksums": true
+    },
+    "starter": {
+      "assignments": 28,
+      "checksums_and_metrics_recomputed": true,
+      "csv_import": true,
+      "evaluation": true,
+      "html_links_and_row_counts": true,
+      "passed": true,
+      "reproducibility_report": true,
+      "run_id": "RUN-000001",
+      "source_and_schedule": true,
+      "sql_restore_all_table_checksums": true
+    }
+  },
+  "python": "3.14.6",
+  "sqlite": "3.50.4",
+  "tests": {
+    "command": "python -m unittest discover -s tests -v",
+    "count": 37,
+    "exit_code": 0,
+    "log": "artifacts/tests.log",
+    "passed": true
+  },
+  "visual_html_review": "not performed: local browser executable unavailable",
+  "windows_execution": "not performed"
+}

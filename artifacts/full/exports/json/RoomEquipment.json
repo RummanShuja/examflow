@@ -1,0 +1,482 @@
+[
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000001"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000001"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000001"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000002"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000002"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000002"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000003"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000003"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000003"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000004"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000004"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000004"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000005"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000005"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000005"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000006"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000007"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000007"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000008"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000010"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000010"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000011"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000012"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000012"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000014"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000014"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000015"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000016"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000017"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000018"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000020"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000020"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000021"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000021"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000022"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000022"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000023"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000024"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000025"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000026"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000026"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000027"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000028"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000029"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000030"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000031"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000032"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000033"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000033"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000034"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000035"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000036"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000036"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000038"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000039"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000039"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000040"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000043"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000044"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000045"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000045"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000046"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000046"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000046"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000047"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000047"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000050"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000051"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000051"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000051"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000052"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000052"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000053"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000055"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000055"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000057"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000057"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000058"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000060"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000060"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000061"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000062"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000063"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000064"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000064"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000065"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000065"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000067"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000068"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000068"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000069"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000072"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000072"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000077"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000077"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000079"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000080"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000081"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000081"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000081"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000083"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000083"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000084"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000085"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000086"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000087"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000088"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000090"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000090"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000090"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000092"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000092"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000094"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000095"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000098"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000099"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000099"
+  },
+  {
+    "equipment_id": "EQ-PROJECTOR",
+    "room_id": "ROOM-000099"
+  },
+  {
+    "equipment_id": "EQ-COMPUTER",
+    "room_id": "ROOM-000100"
+  },
+  {
+    "equipment_id": "EQ-LAB",
+    "room_id": "ROOM-000100"
+  }
+]

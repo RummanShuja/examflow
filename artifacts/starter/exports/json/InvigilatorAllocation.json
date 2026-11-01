@@ -1,0 +1,562 @@
+[
+  {
+    "assignment_id": "ASN-EXAM-2026-000001-ROOM-000005",
+    "invigilator_id": "INV-000015",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000001-ROOM-000005",
+    "invigilator_id": "INV-000016",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000002-ROOM-000003",
+    "invigilator_id": "INV-000017",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000002-ROOM-000003",
+    "invigilator_id": "INV-000018",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000003-ROOM-000003",
+    "invigilator_id": "INV-000007",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000003-ROOM-000003",
+    "invigilator_id": "INV-000008",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000004-ROOM-000003",
+    "invigilator_id": "INV-000020",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000004-ROOM-000003",
+    "invigilator_id": "INV-000021",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000005-ROOM-000003",
+    "invigilator_id": "INV-000005",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000005-ROOM-000003",
+    "invigilator_id": "INV-000006",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000006-ROOM-000001",
+    "invigilator_id": "INV-000010",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000006-ROOM-000001",
+    "invigilator_id": "INV-000013",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000007-ROOM-000001",
+    "invigilator_id": "INV-000015",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000007-ROOM-000001",
+    "invigilator_id": "INV-000019",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000008-ROOM-000001",
+    "invigilator_id": "INV-000015",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000008-ROOM-000001",
+    "invigilator_id": "INV-000016",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000009-ROOM-000001",
+    "invigilator_id": "INV-000010",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000009-ROOM-000001",
+    "invigilator_id": "INV-000016",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000010-ROOM-000001",
+    "invigilator_id": "INV-000005",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000010-ROOM-000001",
+    "invigilator_id": "INV-000014",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000011-ROOM-000004",
+    "invigilator_id": "INV-000011",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000011-ROOM-000004",
+    "invigilator_id": "INV-000012",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000012-ROOM-000006",
+    "invigilator_id": "INV-000018",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000012-ROOM-000006",
+    "invigilator_id": "INV-000019",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000013-ROOM-000004",
+    "invigilator_id": "INV-000006",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000013-ROOM-000004",
+    "invigilator_id": "INV-000011",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000014-ROOM-000004",
+    "invigilator_id": "INV-000019",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000014-ROOM-000004",
+    "invigilator_id": "INV-000023",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000015-ROOM-000006",
+    "invigilator_id": "INV-000020",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000015-ROOM-000006",
+    "invigilator_id": "INV-000023",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000016-ROOM-000005",
+    "invigilator_id": "INV-000009",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000016-ROOM-000005",
+    "invigilator_id": "INV-000010",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000017-ROOM-000005",
+    "invigilator_id": "INV-000001",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000017-ROOM-000005",
+    "invigilator_id": "INV-000022",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000018-ROOM-000005",
+    "invigilator_id": "INV-000022",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000018-ROOM-000005",
+    "invigilator_id": "INV-000024",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000019-ROOM-000006",
+    "invigilator_id": "INV-000012",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000019-ROOM-000006",
+    "invigilator_id": "INV-000021",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000020-ROOM-000003",
+    "invigilator_id": "INV-000011",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000020-ROOM-000003",
+    "invigilator_id": "INV-000012",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000021-ROOM-000004",
+    "invigilator_id": "INV-000021",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000021-ROOM-000004",
+    "invigilator_id": "INV-000024",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000022-ROOM-000004",
+    "invigilator_id": "INV-000002",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000022-ROOM-000004",
+    "invigilator_id": "INV-000003",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000023-ROOM-000006",
+    "invigilator_id": "INV-000004",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000023-ROOM-000006",
+    "invigilator_id": "INV-000007",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000024-ROOM-000006",
+    "invigilator_id": "INV-000013",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000024-ROOM-000006",
+    "invigilator_id": "INV-000014",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000025-ROOM-000005",
+    "invigilator_id": "INV-000008",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000025-ROOM-000005",
+    "invigilator_id": "INV-000009",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000026-ROOM-000003",
+    "invigilator_id": "INV-000003",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000026-ROOM-000003",
+    "invigilator_id": "INV-000004",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000027-ROOM-000004",
+    "invigilator_id": "INV-000001",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000027-ROOM-000004",
+    "invigilator_id": "INV-000002",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000028-ROOM-000005",
+    "invigilator_id": "INV-000005",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000028-ROOM-000005",
+    "invigilator_id": "INV-000006",
+    "run_id": "RUN-000001"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000001-ROOM-000005",
+    "invigilator_id": "INV-000015",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000001-ROOM-000005",
+    "invigilator_id": "INV-000016",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000002-ROOM-000003",
+    "invigilator_id": "INV-000017",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000002-ROOM-000003",
+    "invigilator_id": "INV-000018",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000003-ROOM-000003",
+    "invigilator_id": "INV-000007",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000003-ROOM-000003",
+    "invigilator_id": "INV-000008",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000004-ROOM-000003",
+    "invigilator_id": "INV-000020",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000004-ROOM-000003",
+    "invigilator_id": "INV-000021",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000005-ROOM-000003",
+    "invigilator_id": "INV-000005",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000005-ROOM-000003",
+    "invigilator_id": "INV-000006",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000006-ROOM-000001",
+    "invigilator_id": "INV-000010",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000006-ROOM-000001",
+    "invigilator_id": "INV-000013",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000007-ROOM-000001",
+    "invigilator_id": "INV-000015",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000007-ROOM-000001",
+    "invigilator_id": "INV-000019",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000008-ROOM-000001",
+    "invigilator_id": "INV-000015",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000008-ROOM-000001",
+    "invigilator_id": "INV-000016",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000009-ROOM-000001",
+    "invigilator_id": "INV-000010",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000009-ROOM-000001",
+    "invigilator_id": "INV-000016",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000010-ROOM-000001",
+    "invigilator_id": "INV-000005",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000010-ROOM-000001",
+    "invigilator_id": "INV-000014",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000011-ROOM-000004",
+    "invigilator_id": "INV-000011",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000011-ROOM-000004",
+    "invigilator_id": "INV-000012",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000012-ROOM-000006",
+    "invigilator_id": "INV-000018",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000012-ROOM-000006",
+    "invigilator_id": "INV-000019",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000013-ROOM-000004",
+    "invigilator_id": "INV-000006",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000013-ROOM-000004",
+    "invigilator_id": "INV-000011",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000014-ROOM-000004",
+    "invigilator_id": "INV-000019",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000014-ROOM-000004",
+    "invigilator_id": "INV-000023",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000015-ROOM-000006",
+    "invigilator_id": "INV-000020",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000015-ROOM-000006",
+    "invigilator_id": "INV-000023",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000016-ROOM-000005",
+    "invigilator_id": "INV-000009",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000016-ROOM-000005",
+    "invigilator_id": "INV-000010",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000017-ROOM-000005",
+    "invigilator_id": "INV-000001",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000017-ROOM-000005",
+    "invigilator_id": "INV-000022",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000018-ROOM-000005",
+    "invigilator_id": "INV-000022",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000018-ROOM-000005",
+    "invigilator_id": "INV-000024",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000019-ROOM-000006",
+    "invigilator_id": "INV-000012",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000019-ROOM-000006",
+    "invigilator_id": "INV-000021",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000020-ROOM-000003",
+    "invigilator_id": "INV-000011",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000020-ROOM-000003",
+    "invigilator_id": "INV-000012",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000021-ROOM-000004",
+    "invigilator_id": "INV-000021",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000021-ROOM-000004",
+    "invigilator_id": "INV-000024",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000022-ROOM-000004",
+    "invigilator_id": "INV-000002",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000022-ROOM-000004",
+    "invigilator_id": "INV-000003",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000023-ROOM-000006",
+    "invigilator_id": "INV-000004",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000023-ROOM-000006",
+    "invigilator_id": "INV-000007",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000024-ROOM-000006",
+    "invigilator_id": "INV-000013",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000024-ROOM-000006",
+    "invigilator_id": "INV-000014",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000025-ROOM-000005",
+    "invigilator_id": "INV-000008",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000025-ROOM-000005",
+    "invigilator_id": "INV-000009",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000026-ROOM-000003",
+    "invigilator_id": "INV-000003",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000026-ROOM-000003",
+    "invigilator_id": "INV-000004",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000027-ROOM-000004",
+    "invigilator_id": "INV-000001",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000027-ROOM-000004",
+    "invigilator_id": "INV-000002",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000028-ROOM-000005",
+    "invigilator_id": "INV-000005",
+    "run_id": "RUN-000002"
+  },
+  {
+    "assignment_id": "ASN-EXAM-2026-000028-ROOM-000005",
+    "invigilator_id": "INV-000006",
+    "run_id": "RUN-000002"
+  }
+]

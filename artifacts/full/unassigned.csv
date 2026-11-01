@@ -1,0 +1,2 @@
+run_id,exam_id,status,assignment_id,reason_code,evidence_json
+RUN-000002,EXAM-2026-000299,UNASSIGNED,,NO_COMPATIBLE_ROOM,"{""accessible_required"":1,""demand"":92,""equipment_absent_from_all_rooms"":[""EQ-SECURE""],""explanation"":""No room satisfies static equipment, accessibility and capacity requirements under the one-room policy."",""rank"":48,""required_equipment"":[""EQ-SECURE""],""rooms_considered"":100}"

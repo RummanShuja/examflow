@@ -1,0 +1,660 @@
+[
+  {
+    "closure_id": "CLS-000001",
+    "ends_at": "2026-11-18T18:00:00+05:30",
+    "reason": "CAMPUS_EVENT",
+    "room_id": "ROOM-000006",
+    "starts_at": "2026-11-18T08:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000002",
+    "ends_at": "2026-11-16T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000007",
+    "starts_at": "2026-11-16T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000003",
+    "ends_at": "2026-11-18T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000008",
+    "starts_at": "2026-11-18T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000004",
+    "ends_at": "2026-11-16T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000009",
+    "starts_at": "2026-11-16T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000005",
+    "ends_at": "2026-11-26T18:00:00+05:30",
+    "reason": "CAMPUS_EVENT",
+    "room_id": "ROOM-000010",
+    "starts_at": "2026-11-26T08:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000006",
+    "ends_at": "2026-11-19T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000011",
+    "starts_at": "2026-11-19T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000007",
+    "ends_at": "2026-11-27T18:00:00+05:30",
+    "reason": "CAMPUS_EVENT",
+    "room_id": "ROOM-000012",
+    "starts_at": "2026-11-27T08:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000008",
+    "ends_at": "2026-11-17T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000013",
+    "starts_at": "2026-11-17T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000009",
+    "ends_at": "2026-11-17T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000014",
+    "starts_at": "2026-11-17T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000010",
+    "ends_at": "2026-11-20T18:00:00+05:30",
+    "reason": "CAMPUS_EVENT",
+    "room_id": "ROOM-000015",
+    "starts_at": "2026-11-20T08:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000011",
+    "ends_at": "2026-11-19T18:00:00+05:30",
+    "reason": "CAMPUS_EVENT",
+    "room_id": "ROOM-000016",
+    "starts_at": "2026-11-19T08:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000012",
+    "ends_at": "2026-11-24T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000017",
+    "starts_at": "2026-11-24T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000013",
+    "ends_at": "2026-11-23T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000018",
+    "starts_at": "2026-11-23T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000014",
+    "ends_at": "2026-11-24T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000019",
+    "starts_at": "2026-11-24T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000015",
+    "ends_at": "2026-11-19T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000020",
+    "starts_at": "2026-11-19T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000016",
+    "ends_at": "2026-11-19T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000021",
+    "starts_at": "2026-11-19T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000017",
+    "ends_at": "2026-11-16T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000022",
+    "starts_at": "2026-11-16T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000018",
+    "ends_at": "2026-11-18T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000023",
+    "starts_at": "2026-11-18T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000019",
+    "ends_at": "2026-11-26T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000024",
+    "starts_at": "2026-11-26T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000020",
+    "ends_at": "2026-11-26T18:00:00+05:30",
+    "reason": "CAMPUS_EVENT",
+    "room_id": "ROOM-000025",
+    "starts_at": "2026-11-26T08:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000021",
+    "ends_at": "2026-11-20T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000026",
+    "starts_at": "2026-11-20T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000022",
+    "ends_at": "2026-11-25T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000027",
+    "starts_at": "2026-11-25T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000023",
+    "ends_at": "2026-11-20T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000028",
+    "starts_at": "2026-11-20T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000024",
+    "ends_at": "2026-11-27T18:00:00+05:30",
+    "reason": "CAMPUS_EVENT",
+    "room_id": "ROOM-000029",
+    "starts_at": "2026-11-27T08:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000025",
+    "ends_at": "2026-11-18T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000030",
+    "starts_at": "2026-11-18T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000026",
+    "ends_at": "2026-11-24T18:00:00+05:30",
+    "reason": "CAMPUS_EVENT",
+    "room_id": "ROOM-000031",
+    "starts_at": "2026-11-24T08:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000027",
+    "ends_at": "2026-11-16T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000032",
+    "starts_at": "2026-11-16T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000028",
+    "ends_at": "2026-11-23T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000033",
+    "starts_at": "2026-11-23T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000029",
+    "ends_at": "2026-11-23T18:00:00+05:30",
+    "reason": "CAMPUS_EVENT",
+    "room_id": "ROOM-000034",
+    "starts_at": "2026-11-23T08:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000030",
+    "ends_at": "2026-11-23T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000035",
+    "starts_at": "2026-11-23T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000031",
+    "ends_at": "2026-11-24T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000036",
+    "starts_at": "2026-11-24T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000032",
+    "ends_at": "2026-11-18T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000037",
+    "starts_at": "2026-11-18T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000033",
+    "ends_at": "2026-11-27T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000038",
+    "starts_at": "2026-11-27T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000034",
+    "ends_at": "2026-11-26T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000039",
+    "starts_at": "2026-11-26T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000035",
+    "ends_at": "2026-11-26T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000040",
+    "starts_at": "2026-11-26T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000036",
+    "ends_at": "2026-11-26T18:00:00+05:30",
+    "reason": "CAMPUS_EVENT",
+    "room_id": "ROOM-000041",
+    "starts_at": "2026-11-26T08:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000037",
+    "ends_at": "2026-11-20T18:00:00+05:30",
+    "reason": "CAMPUS_EVENT",
+    "room_id": "ROOM-000042",
+    "starts_at": "2026-11-20T08:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000038",
+    "ends_at": "2026-11-18T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000043",
+    "starts_at": "2026-11-18T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000039",
+    "ends_at": "2026-11-25T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000044",
+    "starts_at": "2026-11-25T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000040",
+    "ends_at": "2026-11-16T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000045",
+    "starts_at": "2026-11-16T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000041",
+    "ends_at": "2026-11-18T18:00:00+05:30",
+    "reason": "CAMPUS_EVENT",
+    "room_id": "ROOM-000046",
+    "starts_at": "2026-11-18T08:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000042",
+    "ends_at": "2026-11-20T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000047",
+    "starts_at": "2026-11-20T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000043",
+    "ends_at": "2026-11-20T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000048",
+    "starts_at": "2026-11-20T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000044",
+    "ends_at": "2026-11-17T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000049",
+    "starts_at": "2026-11-17T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000045",
+    "ends_at": "2026-11-16T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000050",
+    "starts_at": "2026-11-16T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000046",
+    "ends_at": "2026-11-25T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000051",
+    "starts_at": "2026-11-25T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000047",
+    "ends_at": "2026-11-17T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000052",
+    "starts_at": "2026-11-17T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000048",
+    "ends_at": "2026-11-23T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000053",
+    "starts_at": "2026-11-23T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000049",
+    "ends_at": "2026-11-18T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000054",
+    "starts_at": "2026-11-18T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000050",
+    "ends_at": "2026-11-19T18:00:00+05:30",
+    "reason": "CAMPUS_EVENT",
+    "room_id": "ROOM-000055",
+    "starts_at": "2026-11-19T08:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000051",
+    "ends_at": "2026-11-26T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000056",
+    "starts_at": "2026-11-26T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000052",
+    "ends_at": "2026-11-26T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000057",
+    "starts_at": "2026-11-26T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000053",
+    "ends_at": "2026-11-26T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000058",
+    "starts_at": "2026-11-26T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000054",
+    "ends_at": "2026-11-16T18:00:00+05:30",
+    "reason": "CAMPUS_EVENT",
+    "room_id": "ROOM-000059",
+    "starts_at": "2026-11-16T08:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000055",
+    "ends_at": "2026-11-23T18:00:00+05:30",
+    "reason": "CAMPUS_EVENT",
+    "room_id": "ROOM-000060",
+    "starts_at": "2026-11-23T08:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000056",
+    "ends_at": "2026-11-20T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000061",
+    "starts_at": "2026-11-20T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000057",
+    "ends_at": "2026-11-18T18:00:00+05:30",
+    "reason": "CAMPUS_EVENT",
+    "room_id": "ROOM-000062",
+    "starts_at": "2026-11-18T08:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000058",
+    "ends_at": "2026-11-17T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000063",
+    "starts_at": "2026-11-17T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000059",
+    "ends_at": "2026-11-16T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000064",
+    "starts_at": "2026-11-16T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000060",
+    "ends_at": "2026-11-26T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000065",
+    "starts_at": "2026-11-26T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000061",
+    "ends_at": "2026-11-19T18:00:00+05:30",
+    "reason": "CAMPUS_EVENT",
+    "room_id": "ROOM-000066",
+    "starts_at": "2026-11-19T08:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000062",
+    "ends_at": "2026-11-17T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000067",
+    "starts_at": "2026-11-17T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000063",
+    "ends_at": "2026-11-19T18:00:00+05:30",
+    "reason": "CAMPUS_EVENT",
+    "room_id": "ROOM-000068",
+    "starts_at": "2026-11-19T08:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000064",
+    "ends_at": "2026-11-25T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000069",
+    "starts_at": "2026-11-25T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000065",
+    "ends_at": "2026-11-25T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000070",
+    "starts_at": "2026-11-25T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000066",
+    "ends_at": "2026-11-20T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000071",
+    "starts_at": "2026-11-20T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000067",
+    "ends_at": "2026-11-24T18:00:00+05:30",
+    "reason": "CAMPUS_EVENT",
+    "room_id": "ROOM-000072",
+    "starts_at": "2026-11-24T08:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000068",
+    "ends_at": "2026-11-26T18:00:00+05:30",
+    "reason": "CAMPUS_EVENT",
+    "room_id": "ROOM-000073",
+    "starts_at": "2026-11-26T08:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000069",
+    "ends_at": "2026-11-20T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000074",
+    "starts_at": "2026-11-20T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000070",
+    "ends_at": "2026-11-16T18:00:00+05:30",
+    "reason": "CAMPUS_EVENT",
+    "room_id": "ROOM-000075",
+    "starts_at": "2026-11-16T08:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000071",
+    "ends_at": "2026-11-19T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000076",
+    "starts_at": "2026-11-19T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000072",
+    "ends_at": "2026-11-26T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000077",
+    "starts_at": "2026-11-26T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000073",
+    "ends_at": "2026-11-24T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000078",
+    "starts_at": "2026-11-24T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000074",
+    "ends_at": "2026-11-18T18:00:00+05:30",
+    "reason": "CAMPUS_EVENT",
+    "room_id": "ROOM-000079",
+    "starts_at": "2026-11-18T08:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000075",
+    "ends_at": "2026-11-26T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000080",
+    "starts_at": "2026-11-26T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000076",
+    "ends_at": "2026-11-26T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000081",
+    "starts_at": "2026-11-26T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000077",
+    "ends_at": "2026-11-16T18:00:00+05:30",
+    "reason": "CAMPUS_EVENT",
+    "room_id": "ROOM-000082",
+    "starts_at": "2026-11-16T08:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000078",
+    "ends_at": "2026-11-24T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000083",
+    "starts_at": "2026-11-24T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000079",
+    "ends_at": "2026-11-20T18:00:00+05:30",
+    "reason": "CAMPUS_EVENT",
+    "room_id": "ROOM-000084",
+    "starts_at": "2026-11-20T08:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000080",
+    "ends_at": "2026-11-24T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000085",
+    "starts_at": "2026-11-24T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000081",
+    "ends_at": "2026-11-17T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000086",
+    "starts_at": "2026-11-17T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000082",
+    "ends_at": "2026-11-20T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000087",
+    "starts_at": "2026-11-20T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000083",
+    "ends_at": "2026-11-25T18:00:00+05:30",
+    "reason": "CAMPUS_EVENT",
+    "room_id": "ROOM-000088",
+    "starts_at": "2026-11-25T08:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000084",
+    "ends_at": "2026-11-17T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000089",
+    "starts_at": "2026-11-17T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000085",
+    "ends_at": "2026-11-26T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000090",
+    "starts_at": "2026-11-26T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000086",
+    "ends_at": "2026-11-17T18:00:00+05:30",
+    "reason": "CAMPUS_EVENT",
+    "room_id": "ROOM-000091",
+    "starts_at": "2026-11-17T08:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000087",
+    "ends_at": "2026-11-23T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000092",
+    "starts_at": "2026-11-23T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000088",
+    "ends_at": "2026-11-16T18:00:00+05:30",
+    "reason": "CAMPUS_EVENT",
+    "room_id": "ROOM-000093",
+    "starts_at": "2026-11-16T08:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000089",
+    "ends_at": "2026-11-26T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000094",
+    "starts_at": "2026-11-26T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000090",
+    "ends_at": "2026-11-23T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000095",
+    "starts_at": "2026-11-23T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000091",
+    "ends_at": "2026-11-26T18:00:00+05:30",
+    "reason": "CAMPUS_EVENT",
+    "room_id": "ROOM-000096",
+    "starts_at": "2026-11-26T08:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000092",
+    "ends_at": "2026-11-27T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000097",
+    "starts_at": "2026-11-27T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000093",
+    "ends_at": "2026-11-16T14:00:00+05:30",
+    "reason": "MAINTENANCE",
+    "room_id": "ROOM-000098",
+    "starts_at": "2026-11-16T12:00:00+05:30"
+  },
+  {
+    "closure_id": "CLS-000094",
+    "ends_at": "2026-11-17T18:00:00+05:30",
+    "reason": "CAMPUS_EVENT",
+    "room_id": "ROOM-000099",
+    "starts_at": "2026-11-17T08:00:00+05:30"
+  }
+]

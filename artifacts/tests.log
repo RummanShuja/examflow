@@ -1,0 +1,42 @@
+test_connection_configuration_failure_closes_handle (test_connection_lifecycle.ConnectionLifecycleTests.test_connection_configuration_failure_closes_handle) ... ok
+test_reproduction_closes_handles_before_temp_cleanup_even_on_error (test_connection_lifecycle.ConnectionLifecycleTests.test_reproduction_closes_handles_before_temp_cleanup_even_on_error) ... ok
+test_reused_source_lookup_closes_on_success_and_error (test_connection_lifecycle.ConnectionLifecycleTests.test_reused_source_lookup_closes_on_success_and_error) ... ok
+test_required_volumes_and_zero_constraint_violations (test_examflow.FullScaleAcceptance.test_required_volumes_and_zero_constraint_violations) ... ok
+test_adjacent_availability_records_form_full_coverage (test_examflow.StarterTests.test_adjacent_availability_records_form_full_coverage) ... ok
+test_adjacent_intervals_are_not_overlapping (test_examflow.StarterTests.test_adjacent_intervals_are_not_overlapping) ... ok
+test_all_five_negative_rules_and_three_controls (test_examflow.StarterTests.test_all_five_negative_rules_and_three_controls) ... ok
+test_bad_foreign_key_in_import (test_examflow.StarterTests.test_bad_foreign_key_in_import) ... ok
+test_cached_derived_values_are_recalculated (test_examflow.StarterTests.test_cached_derived_values_are_recalculated) ... ok
+test_cancelled_exam_not_scheduled (test_examflow.StarterTests.test_cancelled_exam_not_scheduled) ... ok
+test_closure_touching_end_is_legal (test_examflow.StarterTests.test_closure_touching_end_is_legal) ... ok
+test_distinct_staff_count_and_duplicates (test_examflow.StarterTests.test_distinct_staff_count_and_duplicates) ... ok
+test_duplicate_import_and_incomplete_import (test_examflow.StarterTests.test_duplicate_import_and_incomplete_import) ... ok
+test_effective_capacity_switch_at_midnight (test_examflow.StarterTests.test_effective_capacity_switch_at_midnight) ... ok
+test_evaluator_counts_clean_controls (test_examflow.StarterTests.test_evaluator_counts_clean_controls) ... ok
+test_every_graph_edge_is_source_derived (test_examflow.StarterTests.test_every_graph_edge_is_source_derived) ... ok
+test_exact_capacity_is_valid (test_examflow.StarterTests.test_exact_capacity_is_valid) ... ok
+test_history_is_append_only (test_examflow.StarterTests.test_history_is_append_only) ... ok
+test_illegal_lifecycle_event_is_detected (test_examflow.StarterTests.test_illegal_lifecycle_event_is_detected) ... ok
+test_import_failure_produces_nonzero_cli_exit (test_examflow.StarterTests.test_import_failure_produces_nonzero_cli_exit) ... ok
+test_infeasible_demand_has_rule_derived_reason (test_examflow.StarterTests.test_infeasible_demand_has_rule_derived_reason) ... ok
+test_invalid_interval_and_wrong_timezone_rejected (test_examflow.StarterTests.test_invalid_interval_and_wrong_timezone_rejected) ... ok
+test_invigilator_availability_must_cover_end (test_examflow.StarterTests.test_invigilator_availability_must_cover_end) ... ok
+test_labels_are_absent_from_inputs_and_not_read_by_detector (test_examflow.StarterTests.test_labels_are_absent_from_inputs_and_not_read_by_detector) ... ok
+test_missing_equipment_detected (test_examflow.StarterTests.test_missing_equipment_detected) ... ok
+test_only_approved_accommodations_apply (test_examflow.StarterTests.test_only_approved_accommodations_apply) ... ok
+test_primary_keys_are_immutable_even_without_children (test_examflow.StarterTests.test_primary_keys_are_immutable_even_without_children) ... ok
+test_room_closure_is_checked_for_entire_interval (test_examflow.StarterTests.test_room_closure_is_checked_for_entire_interval) ... ok
+test_room_double_booking_with_disjoint_students (test_examflow.StarterTests.test_room_double_booking_with_disjoint_students) ... ok
+test_scaled_configuration_uses_same_generation_contract (test_examflow.StarterTests.test_scaled_configuration_uses_same_generation_contract) ... ok
+test_second_run_retains_first_run (test_examflow.StarterTests.test_second_run_retains_first_run) ... ok
+test_source_reuse_preserves_runs_and_rejects_new_seed (test_examflow.StarterTests.test_source_reuse_preserves_runs_and_rejects_new_seed) ... ok
+test_sql_export_roundtrip_preserves_all_tables (test_examflow.StarterTests.test_sql_export_roundtrip_preserves_all_tables) ... ok
+test_sqlite_constraints_and_foreign_key_enforcement (test_examflow.StarterTests.test_sqlite_constraints_and_foreign_key_enforcement) ... ok
+test_starter_schedule_has_no_hard_violations (test_examflow.StarterTests.test_starter_schedule_has_no_hard_violations) ... ok
+test_two_independent_builds_match_every_table (test_examflow.StarterTests.test_two_independent_builds_match_every_table) ... ok
+test_unavailable_room_and_exam_window_are_distinct (test_examflow.StarterTests.test_unavailable_room_and_exam_window_are_distinct) ... ok
+
+----------------------------------------------------------------------
+Ran 37 tests in 36.074s
+
+OK
